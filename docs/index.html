@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="ur-Latn">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Labour Jobs Abroad</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;700&family=Barlow+Semi+Condensed:wght@600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#eef1f3;--ink:#14212b;--mute:#5a6b77;--line:#c9d1d6;--paper:#fff;--hi:#f5c400;--hi-ink:#14212b;--ok:#17703f;--ok-bg:#dff3e6;--warn:#8a5a00;--warn-bg:#fdf0c9}
+@media(prefers-color-scheme:dark){:root{--bg:#10181e;--ink:#e8eef2;--mute:#9aabb6;--line:#2c3b46;--paper:#17222a;--ok:#6fd49a;--ok-bg:#16382a;--warn:#f0c76a;--warn-bg:#3a2f12}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 Barlow,system-ui,sans-serif}
+main{max-width:860px;margin:0 auto;padding:16px 14px 48px}
+h1{font:700 28px/1.1 "Barlow Semi Condensed",Barlow,sans-serif;margin:8px 0 2px}
+.sub{color:var(--mute);margin:0 0 12px;font-size:14px}
+.alert{background:var(--warn-bg);color:var(--warn);padding:10px 12px;border-left:4px solid var(--hi);font-size:14px;margin-bottom:14px}
+.alert a{color:inherit;font-weight:700}
+.tabs{display:flex;gap:4px;border-bottom:2px solid var(--line);margin-bottom:12px}
+.tabs button{flex:1;padding:12px 8px;font:600 17px "Barlow Semi Condensed",Barlow,sans-serif;background:none;border:0;color:var(--mute);border-bottom:4px solid transparent;margin-bottom:-2px;cursor:pointer}
+.tabs button[aria-selected=true]{color:var(--ink);border-bottom-color:var(--hi)}
+.filters{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:6px}
+.filters input[type=search]{grid-column:1/-1}
+input,select{font:inherit;padding:10px;border:1px solid var(--line);background:var(--paper);color:var(--ink);border-radius:4px;min-width:0}
+label.chk{grid-column:1/-1;display:flex;gap:8px;align-items:center;font-size:15px}
+.count{color:var(--mute);font-size:14px;margin:8px 0}
+ul{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
+li{display:grid;grid-template-columns:54px 1fr;gap:12px;padding:14px 0;border-bottom:1px solid var(--line)}
+.score{align-self:start;background:var(--hi);color:var(--hi-ink);font:700 22px/1 "Barlow Semi Condensed",sans-serif;text-align:center;padding:10px 0 8px;border-radius:3px}
+.score small{display:block;font:500 10px/1.2 Barlow,sans-serif;margin-top:2px}
+h2{font:700 18px/1.25 Barlow,sans-serif;margin:0}
+.meta{color:var(--mute);font-size:14px;margin:2px 0 6px}
+.tag{display:inline-block;font-size:12px;font-weight:700;padding:2px 7px;border-radius:3px;margin:0 4px 4px 0}
+.tag.ok{background:var(--ok-bg);color:var(--ok)}.tag.maybe{background:var(--warn-bg);color:var(--warn)}.tag.f{border:1px solid var(--line);color:var(--mute);font-weight:500}
+.why{font-size:14px;color:var(--mute);margin:0 0 8px}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.btn{font:600 15px Barlow,sans-serif;padding:9px 14px;border-radius:4px;border:2px solid var(--ink);background:none;color:var(--ink);cursor:pointer;text-decoration:none}
+.btn.main{background:var(--hi);border-color:var(--hi);color:var(--hi-ink)}
+.btn:focus-visible,input:focus-visible,select:focus-visible,.tabs button:focus-visible{outline:3px solid var(--ink);outline-offset:2px}
+.left{font-size:13px;color:var(--mute)}
+.empty{padding:28px 4px;color:var(--mute)}
+footer{margin-top:28px;font-size:14px;color:var(--mute)}footer a{color:var(--ink)}
+</style>
+</head>
+<body>
+<main>
+<h1>Labour Jobs Abroad</h1>
+<p class="sub" id="updated">Load ho raha hai...</p>
+<div class="alert">Visa, registration ya agent fee maangne wala har offer fraud hai. Sirf licensed OEP se baat karein: <a href="https://beoe.gov.pk/list-of-oeps" target="_blank" rel="noopener">beoe.gov.pk/list-of-oeps</a>. Shikayat: FIA helpline 1991.</div>
+<div class="tabs" role="tablist">
+  <button role="tab" id="t-pending" aria-selected="true">Pending (<span id="n-pending">0</span>)</button>
+  <button role="tab" id="t-applied" aria-selected="false">Apply kar chuka (<span id="n-applied">0</span>)</button>
+</div>
+<div class="filters">
+  <input type="search" id="q" placeholder="Job ya company dhoondein" aria-label="Search">
+  <select id="country" aria-label="Mulk"><option value="">Sab mulk</option></select>
+  <select id="field" aria-label="Kaam ki qisam"><option value="">Har qisam ka kaam</option></select>
+  <label class="chk"><input type="checkbox" id="sp"> Sirf wo jobs jin mein sponsorship likha hai</label>
+</div>
+<div class="count" id="count"></div>
+<ul id="list"></ul>
+<footer>
+  Aur jagah dekhein: <a href="https://beoe.gov.pk/foreign-jobs" target="_blank" rel="noopener">BEOE Foreign Jobs</a>,
+  <a href="https://jobs.oec.gov.pk" target="_blank" rel="noopener">OEC Jobs</a>,
+  <a href="https://eures.europa.eu" target="_blank" rel="noopener">EURES (EU ka official portal)</a>.
+  Score 100 mein se hai: sponsorship, nayi posting aur zubaan ki shart ko dekh kar. Yeh sirf andaza hai, guarantee nahi.
+</footer>
+</main>
+<script>
+const $ = id => document.getElementById(id);
+let DATA = {jobs: [], max_age_days: 7}, tab = "pending";
+const store = {
+  read(){ try { return JSON.parse(localStorage.getItem("applied") || "{}"); } catch(e){ return {}; } },
+  write(o){ try { localStorage.setItem("applied", JSON.stringify(o)); } catch(e){} }
+};
+let applied = store.read();
+
+function daysLeft(j){ return Math.max(0, Math.ceil(DATA.max_age_days - (Date.now() - new Date(j.first_seen)) / 864e5)); }
+function el(tag, cls, text){ const e = document.createElement(tag); if(cls) e.className = cls; if(text !== undefined) e.textContent = text; return e; }
+
+function card(j, isApplied){
+  const li = el("li"), sc = el("div", "score", String(j.score)); sc.append(el("small", "", "score"));
+  const body = el("div");
+  body.append(el("h2", "", j.title));
+  body.append(el("div", "meta", [j.company, j.location, j.country].filter(Boolean).join(", ")));
+  const tags = el("div");
+  tags.append(el("span", "tag " + (j.sponsor ? "ok" : "maybe"), j.sponsor ? "Sponsorship likha hai" : "Sponsorship confirm nahi"));
+  tags.append(el("span", "tag f", j.field));
+  body.append(tags);
+  if(j.reasons && j.reasons.length) body.append(el("p", "why", j.reasons.join(". ") + "."));
+  const row = el("div", "row");
+  const a = el("a", "btn" + (isApplied ? "" : " main"), "Job kholein");
+  if(/^https?:\/\//.test(j.url)){ a.href = j.url; a.target = "_blank"; a.rel = "noopener noreferrer"; }
+  row.append(a);
+  const b = el("button", "btn", isApplied ? "Wapas pending mein" : "Apply kar diya");
+  b.onclick = () => { if(isApplied){ delete applied[j.id]; } else { applied[j.id] = {...j, applied_on: new Date().toISOString()}; } store.write(applied); render(); };
+  row.append(b);
+  row.append(el("span", "left", isApplied ? "Apply: " + new Date(j.applied_on).toLocaleDateString() : daysLeft(j) + " din baqi"));
+  body.append(row);
+  li.append(sc, body);
+  return li;
+}
+
+function render(){
+  const pending = DATA.jobs.filter(j => !applied[j.id]);
+  const done = Object.values(applied).sort((a, b) => b.applied_on.localeCompare(a.applied_on));
+  $("n-pending").textContent = pending.length; $("n-applied").textContent = done.length;
+  const src = tab === "pending" ? pending : done;
+  const q = $("q").value.trim().toLowerCase(), c = $("country").value, f = $("field").value, sp = $("sp").checked;
+  const rows = src.filter(j => (!c || j.country === c) && (!f || j.field === f) && (!sp || j.sponsor) &&
+    (!q || (j.title + " " + j.company).toLowerCase().includes(q)));
+  const ul = $("list"); ul.replaceChildren();
+  rows.forEach(j => ul.append(card(j, tab === "applied")));
+  $("count").textContent = rows.length + " jobs";
+  if(!rows.length){ const li = el("li", "empty", tab === "pending" ? "Abhi koi job match nahi hui. Agla update 5 ghante mein aayega, ya filters kam karein." : "Abhi tak kisi job par apply nahi kiya."); li.style.display = "block"; ul.append(li); }
+}
+
+["pending", "applied"].forEach(t => $("t-" + t).onclick = () => { tab = t; $("t-pending").setAttribute("aria-selected", t === "pending"); $("t-applied").setAttribute("aria-selected", t === "applied"); render(); });
+["q", "country", "field", "sp"].forEach(id => $(id).addEventListener("input", render));
+
+fetch("jobs.json", {cache: "no-store"}).then(r => r.json()).then(d => {
+  DATA = d;
+  (d.countries || []).forEach(x => $("country").append(new Option(x, x)));
+  (d.fields || []).forEach(x => $("field").append(new Option(x, x)));
+  $("updated").textContent = "Akhri update: " + new Date(d.updated).toLocaleString();
+  render();
+}).catch(() => { $("updated").textContent = "jobs.json load nahi hui. Pehle GitHub Actions ek baar chalayein."; render(); });
+</script>
+</body>
+</html>
