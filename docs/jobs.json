@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T16:00:23.796105+00:00",
+ "updated": "2026-11-07T23:18:16.836807+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -174,60 +174,6 @@
     "Bilkul nayi (24 ghante)"
    ],
    "posted": "2026-11-07T06:20:18+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "f4aaf1626f10",
-   "title": "Software Project Manager (Warehouse Management)",
-   "company": "SwissPeak Partners GmbH",
-   "location": "Zurich, Zürich, Switzerland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/software-project-manager-warehouse-management-zurich-66241",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-06T18:31:21+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "1d978e893a4f",
-   "title": "CNC-Zerspanungsmechaniker (m/w/d)",
-   "company": "Isembard",
-   "location": "Hamburg",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/isembard/cnc-zerspanungsmechaniker-hamburg-149797",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-06T18:40:13+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "34b7ba4ba316",
-   "title": "CNC Machinist (m/w/d)",
-   "company": "Isembard",
-   "location": "Hamburg",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/isembard/cnc-machinist-hamburg-357013",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-06T18:40:13+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
   },
   {
@@ -408,6 +354,132 @@
     "Bilkul nayi (24 ghante)"
    ],
    "posted": "2026-11-06T21:31:28+00:00",
+   "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "8e6806938035",
+   "title": "Working Student - Project management and Construction (all genders)",
+   "company": "Q Energy",
+   "location": "Berlin, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Construction",
+   "url": "https://www.arbeitnow.com/jobs/companies/q-energy/working-student-project-management-and-construction-all-genders-berlin-388754",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-07T21:20:17+00:00",
+   "first_seen": "2026-11-07T23:18:16.836807+00:00"
+  },
+  {
+   "id": "aa44f39eb1ed",
+   "title": "Chief Information Security Officer",
+   "company": "Decentralized Masters",
+   "location": "Berlin, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Security",
+   "url": "https://www.arbeitnow.com/jobs/companies/decentralized-masters/remote-chief-information-security-officer-berlin-162086",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-07T18:20:14+00:00",
+   "first_seen": "2026-11-07T23:18:16.836807+00:00"
+  },
+  {
+   "id": "0d802ea9cbcb",
+   "title": "Technicien de Maintenance Multi-technique",
+   "company": "Signal Processing Engineer (RF Processing & Analytics)",
+   "location": "Orly",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/technicien-de-maintenance-multi-technique-orly-481933",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-07T21:40:15+00:00",
+   "first_seen": "2026-11-07T23:18:16.836807+00:00"
+  },
+  {
+   "id": "2dc4569ffe29",
+   "title": "Chief Information Security Officer",
+   "company": "Decentralized Masters",
+   "location": "Amsterdam, Netherlands",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Security",
+   "url": "https://www.arbeitnow.nl/jobs/companies/decentralized-masters/remote-chief-information-security-officer-amsterdam-193201",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-07T22:20:05+00:00",
+   "first_seen": "2026-11-07T23:18:16.836807+00:00"
+  },
+  {
+   "id": "f4aaf1626f10",
+   "title": "Software Project Manager (Warehouse Management)",
+   "company": "SwissPeak Partners GmbH",
+   "location": "Zurich, Zürich, Switzerland",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/software-project-manager-warehouse-management-zurich-66241",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-06T18:31:21+00:00",
+   "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "1d978e893a4f",
+   "title": "CNC-Zerspanungsmechaniker (m/w/d)",
+   "company": "Isembard",
+   "location": "Hamburg",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/isembard/cnc-zerspanungsmechaniker-hamburg-149797",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-06T18:40:13+00:00",
+   "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "34b7ba4ba316",
+   "title": "CNC Machinist (m/w/d)",
+   "company": "Isembard",
+   "location": "Hamburg",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/isembard/cnc-machinist-hamburg-357013",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-06T18:40:13+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
   },
   {
