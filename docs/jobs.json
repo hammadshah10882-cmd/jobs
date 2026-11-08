@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T11:38:04.006311+00:00",
+ "updated": "2026-11-08T19:15:36.209209+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -126,42 +126,6 @@
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
   },
   {
-   "id": "1f9e46afe788",
-   "title": "Head of Warehouse Projects",
-   "company": "Rohlik",
-   "location": "Berlin, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/head-of-warehouse-projects-berlin-185398",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-07T12:40:15+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "75a86e076827",
-   "title": "CDI - CHEF DE PRODUIT HOMME/SLG/CEINTURE (H/F)",
-   "company": "JACQUEMUS",
-   "location": "Paris HQ, Île de France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-chef-de-produit-homme-slg-ceinture-h-f-paris-hq-ile-de-france-6654",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-07T12:08:22+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
    "id": "b8d33c93a943",
    "title": "Senior Mechanical Engineer (f/m/d)",
    "company": "Black Semiconductor GmbH",
@@ -252,24 +216,6 @@
    "first_seen": "2026-11-07T23:18:16.836807+00:00"
   },
   {
-   "id": "aa44f39eb1ed",
-   "title": "Chief Information Security Officer",
-   "company": "Decentralized Masters",
-   "location": "Berlin, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Security",
-   "url": "https://www.arbeitnow.com/jobs/companies/decentralized-masters/remote-chief-information-security-officer-berlin-162086",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-07T18:20:14+00:00",
-   "first_seen": "2026-11-07T23:18:16.836807+00:00"
-  },
-  {
    "id": "0d802ea9cbcb",
    "title": "Technicien de Maintenance Multi-technique",
    "company": "Signal Processing Engineer (RF Processing & Analytics)",
@@ -324,6 +270,24 @@
    "first_seen": "2026-11-08T11:38:04.006311+00:00"
   },
   {
+   "id": "07fb2bafad33",
+   "title": "Mechanical Forward Deployed Engineer - Switzerland",
+   "company": "colabsoftware",
+   "location": "",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/colabsoftware/mechanical-forward-deployed-engineer-switzerland-385092",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-08T12:55:18+00:00",
+   "first_seen": "2026-11-08T19:15:36.209209+00:00"
+  },
+  {
    "id": "12c4d35f9870",
    "title": "Senior Mechanical Engineer",
    "company": "Wingtra 2",
@@ -340,6 +304,60 @@
    ],
    "posted": "2026-11-05T03:08:36+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "1f9e46afe788",
+   "title": "Head of Warehouse Projects",
+   "company": "Rohlik",
+   "location": "Berlin, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/head-of-warehouse-projects-berlin-185398",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-07T12:40:15+00:00",
+   "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "75a86e076827",
+   "title": "CDI - CHEF DE PRODUIT HOMME/SLG/CEINTURE (H/F)",
+   "company": "JACQUEMUS",
+   "location": "Paris HQ, Île de France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-chef-de-produit-homme-slg-ceinture-h-f-paris-hq-ile-de-france-6654",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-07T12:08:22+00:00",
+   "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "aa44f39eb1ed",
+   "title": "Chief Information Security Officer",
+   "company": "Decentralized Masters",
+   "location": "Berlin, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Security",
+   "url": "https://www.arbeitnow.com/jobs/companies/decentralized-masters/remote-chief-information-security-officer-berlin-162086",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-07T18:20:14+00:00",
+   "first_seen": "2026-11-07T23:18:16.836807+00:00"
   },
   {
    "id": "d2ba345026e8",
