@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T23:18:16.836807+00:00",
+ "updated": "2026-11-08T03:45:12.974898+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -48,6 +48,46 @@
  ],
  "jobs": [
   {
+   "id": "86429d862a98",
+   "title": "Graduate Mechanical Design Engineer",
+   "company": "Neworbit",
+   "location": "Reading, UK",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/graduate-mechanical-design-engineer-reading-211730",
+   "source": "Arbeitnow",
+   "score": 90,
+   "sponsor": true,
+   "reasons": [
+    "Sponsorship/relocation likha hai",
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-08T00:40:12+00:00",
+   "first_seen": "2026-11-08T03:45:12.974898+00:00"
+  },
+  {
+   "id": "5afd7500ab07",
+   "title": "Satellite Mechanical Design Engineer",
+   "company": "Neworbit",
+   "location": "Reading, UK",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/neworbit/satellite-mechanical-design-engineer-reading-326999",
+   "source": "Arbeitnow",
+   "score": 90,
+   "sponsor": true,
+   "reasons": [
+    "Sponsorship/relocation likha hai",
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-08T00:40:12+00:00",
+   "first_seen": "2026-11-08T03:45:12.974898+00:00"
+  },
+  {
    "id": "42e72d57fbab",
    "title": "CNC Turner / Tourneur CNC",
    "company": "The Exploration Company",
@@ -83,25 +123,6 @@
     "Bilkul nayi (24 ghante)"
    ],
    "posted": "2026-11-07T06:40:26+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "12c4d35f9870",
-   "title": "Senior Mechanical Engineer",
-   "company": "Wingtra 2",
-   "location": "Zürich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/wingtra-2/senior-mechanical-engineer-zurich-145169",
-   "source": "Arbeitnow",
-   "score": 42,
-   "sponsor": false,
-   "reasons": [
-    "Rehaish ya safar ka zikr",
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-05T03:08:36+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
   },
   {
@@ -213,114 +234,6 @@
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
   },
   {
-   "id": "ef16c53232f8",
-   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services (Télétravail depuis Lille)",
-   "company": "Pennylane SAS",
-   "location": "Lille",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-teletravail-depuis-lille-444166",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-07T00:40:11+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "7d4fa58d14b5",
-   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services (Télétravail depuis Nantes)",
-   "company": "Pennylane SAS",
-   "location": "Nantes",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-teletravail-depuis-nantes-365208",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-07T00:40:11+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "0ae382e2b92b",
-   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services (Télétravail depuis Bordeaux)",
-   "company": "Pennylane SAS",
-   "location": "Bordeaux",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-teletravail-depuis-bordeaux-293186",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-07T00:40:11+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "ebfcf676c528",
-   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services (Télétravail depuis Marseille)",
-   "company": "Pennylane SAS",
-   "location": "Marseille",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-teletravail-depuis-marseille-153557",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-07T00:40:11+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "55d492ede41d",
-   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services (Télétravail depuis Lyon)",
-   "company": "Pennylane SAS",
-   "location": "Lyon",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-teletravail-depuis-lyon-349997",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-07T00:40:11+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "7a41d32332e1",
-   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services",
-   "company": "Pennylane SAS",
-   "location": "Paris offices",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-paris-75632",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-07T00:40:11+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
    "id": "ed1c9b8af541",
    "title": "Assistant Chef de Projet Influence - Alternance 12 mois (H/F/X)",
    "company": "Biggie",
@@ -427,6 +340,132 @@
    ],
    "posted": "2026-11-07T22:20:05+00:00",
    "first_seen": "2026-11-07T23:18:16.836807+00:00"
+  },
+  {
+   "id": "12c4d35f9870",
+   "title": "Senior Mechanical Engineer",
+   "company": "Wingtra 2",
+   "location": "Zürich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/wingtra-2/senior-mechanical-engineer-zurich-145169",
+   "source": "Arbeitnow",
+   "score": 35,
+   "sponsor": false,
+   "reasons": [
+    "Rehaish ya safar ka zikr"
+   ],
+   "posted": "2026-11-05T03:08:36+00:00",
+   "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "ef16c53232f8",
+   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services (Télétravail depuis Lille)",
+   "company": "Pennylane SAS",
+   "location": "Lille",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-teletravail-depuis-lille-444166",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-07T00:40:11+00:00",
+   "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "7d4fa58d14b5",
+   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services (Télétravail depuis Nantes)",
+   "company": "Pennylane SAS",
+   "location": "Nantes",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-teletravail-depuis-nantes-365208",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-07T00:40:11+00:00",
+   "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "0ae382e2b92b",
+   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services (Télétravail depuis Bordeaux)",
+   "company": "Pennylane SAS",
+   "location": "Bordeaux",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-teletravail-depuis-bordeaux-293186",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-07T00:40:11+00:00",
+   "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "ebfcf676c528",
+   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services (Télétravail depuis Marseille)",
+   "company": "Pennylane SAS",
+   "location": "Marseille",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-teletravail-depuis-marseille-153557",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-07T00:40:11+00:00",
+   "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "55d492ede41d",
+   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services (Télétravail depuis Lyon)",
+   "company": "Pennylane SAS",
+   "location": "Lyon",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-teletravail-depuis-lyon-349997",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-07T00:40:11+00:00",
+   "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "7a41d32332e1",
+   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services",
+   "company": "Pennylane SAS",
+   "location": "Paris offices",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-paris-75632",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-07T00:40:11+00:00",
+   "first_seen": "2026-11-07T16:00:23.796105+00:00"
   },
   {
    "id": "f4aaf1626f10",
