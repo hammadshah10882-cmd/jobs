@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T19:15:36.209209+00:00",
+ "updated": "2026-11-08T23:21:31.418393+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -198,60 +198,6 @@
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
   },
   {
-   "id": "8e6806938035",
-   "title": "Working Student - Project management and Construction (all genders)",
-   "company": "Q Energy",
-   "location": "Berlin, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Construction",
-   "url": "https://www.arbeitnow.com/jobs/companies/q-energy/working-student-project-management-and-construction-all-genders-berlin-388754",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-07T21:20:17+00:00",
-   "first_seen": "2026-11-07T23:18:16.836807+00:00"
-  },
-  {
-   "id": "0d802ea9cbcb",
-   "title": "Technicien de Maintenance Multi-technique",
-   "company": "Signal Processing Engineer (RF Processing & Analytics)",
-   "location": "Orly",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/technicien-de-maintenance-multi-technique-orly-481933",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-07T21:40:15+00:00",
-   "first_seen": "2026-11-07T23:18:16.836807+00:00"
-  },
-  {
-   "id": "2dc4569ffe29",
-   "title": "Chief Information Security Officer",
-   "company": "Decentralized Masters",
-   "location": "Amsterdam, Netherlands",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Security",
-   "url": "https://www.arbeitnow.nl/jobs/companies/decentralized-masters/remote-chief-information-security-officer-amsterdam-193201",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-07T22:20:05+00:00",
-   "first_seen": "2026-11-07T23:18:16.836807+00:00"
-  },
-  {
    "id": "8af5f062bcd9",
    "title": "Warehouse Operative",
    "company": "AIOS (YC W20/S21)",
@@ -288,6 +234,24 @@
    "first_seen": "2026-11-08T19:15:36.209209+00:00"
   },
   {
+   "id": "a347a5e5748a",
+   "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "location": "Karlsruhe, Baden-Württemberg, Deutschland",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-oracle-data-warehouse-bi-developer-karlsruhe-173565",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-08T18:31:26+00:00",
+   "first_seen": "2026-11-08T23:21:31.418393+00:00"
+  },
+  {
    "id": "12c4d35f9870",
    "title": "Senior Mechanical Engineer",
    "company": "Wingtra 2",
@@ -304,6 +268,60 @@
    ],
    "posted": "2026-11-05T03:08:36+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "8e6806938035",
+   "title": "Working Student - Project management and Construction (all genders)",
+   "company": "Q Energy",
+   "location": "Berlin, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Construction",
+   "url": "https://www.arbeitnow.com/jobs/companies/q-energy/working-student-project-management-and-construction-all-genders-berlin-388754",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-07T21:20:17+00:00",
+   "first_seen": "2026-11-07T23:18:16.836807+00:00"
+  },
+  {
+   "id": "0d802ea9cbcb",
+   "title": "Technicien de Maintenance Multi-technique",
+   "company": "Signal Processing Engineer (RF Processing & Analytics)",
+   "location": "Orly",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/technicien-de-maintenance-multi-technique-orly-481933",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-07T21:40:15+00:00",
+   "first_seen": "2026-11-07T23:18:16.836807+00:00"
+  },
+  {
+   "id": "2dc4569ffe29",
+   "title": "Chief Information Security Officer",
+   "company": "Decentralized Masters",
+   "location": "Amsterdam, Netherlands",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Security",
+   "url": "https://www.arbeitnow.nl/jobs/companies/decentralized-masters/remote-chief-information-security-officer-amsterdam-193201",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-07T22:20:05+00:00",
+   "first_seen": "2026-11-07T23:18:16.836807+00:00"
   },
   {
    "id": "1f9e46afe788",
