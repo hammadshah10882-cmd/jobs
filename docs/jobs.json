@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T03:45:12.974898+00:00",
+ "updated": "2026-11-08T11:38:04.006311+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -97,11 +97,11 @@
    "field": "Electrical & Mechanical",
    "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/cnc-turner-tourneur-cnc-bordeaux-170636",
    "source": "Arbeitnow",
-   "score": 80,
+   "score": 72,
    "sponsor": true,
    "reasons": [
     "Sponsorship/relocation likha hai",
-    "Bilkul nayi (24 ghante)"
+    "Nayi (3 din)"
    ],
    "posted": "2026-11-07T06:40:26+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
@@ -116,11 +116,11 @@
    "field": "Welding & Fabrication",
    "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/welding-engineer-bordeaux-162980",
    "source": "Arbeitnow",
-   "score": 80,
+   "score": 72,
    "sponsor": true,
    "reasons": [
     "Sponsorship/relocation likha hai",
-    "Bilkul nayi (24 ghante)"
+    "Nayi (3 din)"
    ],
    "posted": "2026-11-07T06:40:26+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
@@ -144,24 +144,6 @@
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
   },
   {
-   "id": "d2ba345026e8",
-   "title": "Mechanical Engineer (f/m/d)",
-   "company": "Tactiliarobotics",
-   "location": "Munich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/tactiliarobotics/mechanical-engineer-munich-186615",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-07T09:40:17+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
    "id": "75a86e076827",
    "title": "CDI - CHEF DE PRODUIT HOMME/SLG/CEINTURE (H/F)",
    "company": "JACQUEMUS",
@@ -177,24 +159,6 @@
     "Bilkul nayi (24 ghante)"
    ],
    "posted": "2026-11-07T12:08:22+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "ad5207671b2e",
-   "title": "Senior Multiphysics R&D Engineer (Electro-mechanical)",
-   "company": "Secheron S Dot A",
-   "location": "Satigny, Switzerland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/secheron-s-dot-a/senior-multiphysics-rd-engineer-electro-mechanical-satigny-374681",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-07T06:20:18+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
   },
   {
@@ -342,6 +306,24 @@
    "first_seen": "2026-11-07T23:18:16.836807+00:00"
   },
   {
+   "id": "8af5f062bcd9",
+   "title": "Warehouse Operative",
+   "company": "AIOS (YC W20/S21)",
+   "location": "Blackburn, Lancashire",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/warehouse-operative-blackburn-360966",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-08T06:40:11+00:00",
+   "first_seen": "2026-11-08T11:38:04.006311+00:00"
+  },
+  {
    "id": "12c4d35f9870",
    "title": "Senior Mechanical Engineer",
    "company": "Wingtra 2",
@@ -357,6 +339,42 @@
     "Rehaish ya safar ka zikr"
    ],
    "posted": "2026-11-05T03:08:36+00:00",
+   "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "d2ba345026e8",
+   "title": "Mechanical Engineer (f/m/d)",
+   "company": "Tactiliarobotics",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/tactiliarobotics/mechanical-engineer-munich-186615",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-07T09:40:17+00:00",
+   "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "ad5207671b2e",
+   "title": "Senior Multiphysics R&D Engineer (Electro-mechanical)",
+   "company": "Secheron S Dot A",
+   "location": "Satigny, Switzerland",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/secheron-s-dot-a/senior-multiphysics-rd-engineer-electro-mechanical-satigny-374681",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-07T06:20:18+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
   },
   {
