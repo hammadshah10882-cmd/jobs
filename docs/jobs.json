@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T03:57:41.183326+00:00",
+ "updated": "2026-11-09T13:31:24.350727+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -198,42 +198,6 @@
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
   },
   {
-   "id": "8af5f062bcd9",
-   "title": "Warehouse Operative",
-   "company": "AIOS (YC W20/S21)",
-   "location": "Blackburn, Lancashire",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/warehouse-operative-blackburn-360966",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-08T06:40:11+00:00",
-   "first_seen": "2026-11-08T11:38:04.006311+00:00"
-  },
-  {
-   "id": "07fb2bafad33",
-   "title": "Mechanical Forward Deployed Engineer - Switzerland",
-   "company": "colabsoftware",
-   "location": "",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/colabsoftware/mechanical-forward-deployed-engineer-switzerland-385092",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-08T12:55:18+00:00",
-   "first_seen": "2026-11-08T19:15:36.209209+00:00"
-  },
-  {
    "id": "a347a5e5748a",
    "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
    "company": "virtual7 GmbH",
@@ -252,6 +216,24 @@
    "first_seen": "2026-11-08T23:21:31.418393+00:00"
   },
   {
+   "id": "ab33bc120971",
+   "title": "Director Software Foundations - Warehouse Robotics & Automation",
+   "company": "Exotec",
+   "location": "Lille, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.fr/jobs/companies/exotec/director-software-foundations-warehouse-robotics-automation-lille-67270",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-09T11:20:13+00:00",
+   "first_seen": "2026-11-09T13:31:24.350727+00:00"
+  },
+  {
    "id": "12c4d35f9870",
    "title": "Senior Mechanical Engineer",
    "company": "Wingtra 2",
@@ -268,6 +250,42 @@
    ],
    "posted": "2026-11-05T03:08:36+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "8af5f062bcd9",
+   "title": "Warehouse Operative",
+   "company": "AIOS (YC W20/S21)",
+   "location": "Blackburn, Lancashire",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/warehouse-operative-blackburn-360966",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-08T06:40:11+00:00",
+   "first_seen": "2026-11-08T11:38:04.006311+00:00"
+  },
+  {
+   "id": "07fb2bafad33",
+   "title": "Mechanical Forward Deployed Engineer - Switzerland",
+   "company": "colabsoftware",
+   "location": "",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/colabsoftware/mechanical-forward-deployed-engineer-switzerland-385092",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-08T12:55:18+00:00",
+   "first_seen": "2026-11-08T19:15:36.209209+00:00"
   },
   {
    "id": "8e6806938035",
