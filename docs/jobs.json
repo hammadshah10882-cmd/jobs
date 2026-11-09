@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T13:31:24.350727+00:00",
+ "updated": "2026-11-09T23:39:28.564808+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -198,24 +198,6 @@
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
   },
   {
-   "id": "a347a5e5748a",
-   "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
-   "company": "virtual7 GmbH",
-   "location": "Karlsruhe, Baden-Württemberg, Deutschland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-oracle-data-warehouse-bi-developer-karlsruhe-173565",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-08T18:31:26+00:00",
-   "first_seen": "2026-11-08T23:21:31.418393+00:00"
-  },
-  {
    "id": "ab33bc120971",
    "title": "Director Software Foundations - Warehouse Robotics & Automation",
    "company": "Exotec",
@@ -234,6 +216,132 @@
    "first_seen": "2026-11-09T13:31:24.350727+00:00"
   },
   {
+   "id": "63e7fcf3cf09",
+   "title": "Regional Director Construction UK",
+   "company": "Nlighten",
+   "location": "",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Construction",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/nlighten/regional-director-construction-uk-59785",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-09T21:55:31+00:00",
+   "first_seen": "2026-11-09T23:39:28.564808+00:00"
+  },
+  {
+   "id": "0638537a0c1a",
+   "title": "Senior Product Analyst, Driver Supply",
+   "company": "Relay",
+   "location": "London - Hybrid",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Driving & Transport",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/relay/senior-product-analyst-driver-supply-london-170914",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-09T21:40:15+00:00",
+   "first_seen": "2026-11-09T23:39:28.564808+00:00"
+  },
+  {
+   "id": "706d6cea0478",
+   "title": "Staff Product Analyst, Driver Supply",
+   "company": "Relay",
+   "location": "London - Hybrid",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Driving & Transport",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/relay/staff-product-analyst-driver-supply-london-457379",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-09T21:40:15+00:00",
+   "first_seen": "2026-11-09T23:39:28.564808+00:00"
+  },
+  {
+   "id": "b5653f8c831f",
+   "title": "Assistant·e Chef de Projet Marketing - alternance",
+   "company": "Deliveroo ",
+   "location": "Paris, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/deliveroo/assistante-chef-de-projet-marketing-alternance-paris-63352",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-09T16:45:25+00:00",
+   "first_seen": "2026-11-09T23:39:28.564808+00:00"
+  },
+  {
+   "id": "47c9e903ce44",
+   "title": "Chef de Projets H/F",
+   "company": "TOP CLEAN PACKAGING",
+   "location": "Peschadoires",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/top-clean-packaging/chef-de-projets-h-f-peschadoires-494716",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-09T16:31:07+00:00",
+   "first_seen": "2026-11-09T23:39:28.564808+00:00"
+  },
+  {
+   "id": "40efc6e1056f",
+   "title": "Technicien Qualité (Quality Technician)",
+   "company": "Signal Processing Engineer (RF Processing & Analytics)",
+   "location": "Orly",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/technicien-qualite-quality-technician-orly-458925",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-09T15:40:15+00:00",
+   "first_seen": "2026-11-09T23:39:28.564808+00:00"
+  },
+  {
+   "id": "f84e196539c6",
+   "title": "Senior Mechanical Engineer (OptiArray)",
+   "company": "Optics11",
+   "location": "Amsterdam, Noord-Holland, Netherlands",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.nl/jobs/companies/optics11/senior-mechanical-engineer-optiarray-amsterdam-306068",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-09T18:31:21+00:00",
+   "first_seen": "2026-11-09T23:39:28.564808+00:00"
+  },
+  {
    "id": "12c4d35f9870",
    "title": "Senior Mechanical Engineer",
    "company": "Wingtra 2",
@@ -250,6 +358,24 @@
    ],
    "posted": "2026-11-05T03:08:36+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "a347a5e5748a",
+   "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
+   "company": "virtual7 GmbH",
+   "location": "Karlsruhe, Baden-Württemberg, Deutschland",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-oracle-data-warehouse-bi-developer-karlsruhe-173565",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-08T18:31:26+00:00",
+   "first_seen": "2026-11-08T23:21:31.418393+00:00"
   },
   {
    "id": "8af5f062bcd9",
