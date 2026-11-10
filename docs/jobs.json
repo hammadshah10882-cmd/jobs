@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T23:39:28.564808+00:00",
+ "updated": "2026-11-10T05:31:20.524280+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -86,6 +86,25 @@
    ],
    "posted": "2026-11-08T00:40:12+00:00",
    "first_seen": "2026-11-08T03:45:12.974898+00:00"
+  },
+  {
+   "id": "7d03d2df4eb4",
+   "title": "Senior Mechanical Engineer - Robotics (m/f/d)",
+   "company": "Omegga",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/omegga/senior-mechanical-engineer-robotics-munich-69572",
+   "source": "Arbeitnow",
+   "score": 80,
+   "sponsor": true,
+   "reasons": [
+    "Sponsorship/relocation likha hai",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-10T03:40:13+00:00",
+   "first_seen": "2026-11-10T05:31:20.524280+00:00"
   },
   {
    "id": "42e72d57fbab",
@@ -340,6 +359,60 @@
    ],
    "posted": "2026-11-09T18:31:21+00:00",
    "first_seen": "2026-11-09T23:39:28.564808+00:00"
+  },
+  {
+   "id": "50d73ff3fe5b",
+   "title": "Technician (f/m/d)",
+   "company": "Black Semiconductor GmbH",
+   "location": "Aachen, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/technician-aachen-485115",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-10T03:40:13+00:00",
+   "first_seen": "2026-11-10T05:31:20.524280+00:00"
+  },
+  {
+   "id": "ef095881b545",
+   "title": "Assistant·e Chef de Projet Marketing - alternance",
+   "company": "Deliveroo",
+   "location": "Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/deliveroo/assistante-chef-de-projet-marketing-alternance-paris-388571",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-10T00:55:26+00:00",
+   "first_seen": "2026-11-10T05:31:20.524280+00:00"
+  },
+  {
+   "id": "b06928961f92",
+   "title": "Principal Design Engineer - Mechanical Equipment (80-100%)",
+   "company": "Climeworks",
+   "location": "Zurich, Zürich, Switzerland",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/climeworks/principal-design-engineer-mechanical-equipment-80-100-zurich-483998",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-10T03:31:32+00:00",
+   "first_seen": "2026-11-10T05:31:20.524280+00:00"
   },
   {
    "id": "12c4d35f9870",
