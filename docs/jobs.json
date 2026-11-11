@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T00:21:52.842908+00:00",
+ "updated": "2026-11-11T12:19:48.917542+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -379,24 +379,6 @@
    "first_seen": "2026-11-10T05:31:20.524280+00:00"
   },
   {
-   "id": "b06928961f92",
-   "title": "Principal Design Engineer - Mechanical Equipment (80-100%)",
-   "company": "Climeworks",
-   "location": "Zurich, Zürich, Switzerland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/climeworks/principal-design-engineer-mechanical-equipment-80-100-zurich-483998",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-10T03:31:32+00:00",
-   "first_seen": "2026-11-10T05:31:20.524280+00:00"
-  },
-  {
    "id": "28213aa8e180",
    "title": "SAP Business Warehouse Consultant",
    "company": "Pertemps ERP",
@@ -631,6 +613,42 @@
    "first_seen": "2026-11-11T00:21:52.842908+00:00"
   },
   {
+   "id": "f7da7ae44f41",
+   "title": "Geschäftsführender Gesellschafter Zerspanungstechnik CNC (m/w/d)",
+   "company": "WIEMEYER & partners",
+   "location": "Rendsburg",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/wiemeyer-partners/geschaftsfuhrender-gesellschafter-zerspanungstechnik-cnc-rendsburg-353995",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-11T10:00:47+00:00",
+   "first_seen": "2026-11-11T12:19:48.917542+00:00"
+  },
+  {
+   "id": "63c47b51dfdc",
+   "title": "MWP Technician",
+   "company": "H-Tech Supports",
+   "location": "Geneva",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/h-tech-supports/mwp-technician-geneva-305570",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-11T09:30:56+00:00",
+   "first_seen": "2026-11-11T12:19:48.917542+00:00"
+  },
+  {
    "id": "12c4d35f9870",
    "title": "Senior Mechanical Engineer",
    "company": "Wingtra 2",
@@ -647,6 +665,24 @@
    ],
    "posted": "2026-11-05T03:08:36+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "b06928961f92",
+   "title": "Principal Design Engineer - Mechanical Equipment (80-100%)",
+   "company": "Climeworks",
+   "location": "Zurich, Zürich, Switzerland",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/climeworks/principal-design-engineer-mechanical-equipment-80-100-zurich-483998",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-10T03:31:32+00:00",
+   "first_seen": "2026-11-10T05:31:20.524280+00:00"
   },
   {
    "id": "f84e196539c6",
