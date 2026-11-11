@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T12:19:48.917542+00:00",
+ "updated": "2026-11-11T21:40:48.549716+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -487,24 +487,6 @@
    "first_seen": "2026-11-10T17:24:24.880457+00:00"
   },
   {
-   "id": "f4aaf1626f10",
-   "title": "Software Project Manager (Warehouse Management)",
-   "company": "SwissPeak Partners GmbH",
-   "location": "Zurich, Zürich, Switzerland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/software-project-manager-warehouse-management-zurich-84047",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-10T21:31:17+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
    "id": "886addfb2217",
    "title": "Mechanical Design Engineering Team Lead",
    "company": "pplwise",
@@ -649,6 +631,42 @@
    "first_seen": "2026-11-11T12:19:48.917542+00:00"
   },
   {
+   "id": "1deb24bf9a2d",
+   "title": "Stage - Chef de projet Supply Chain & Data (Paris ou Barcelone)",
+   "company": "SPRiNG",
+   "location": "Paris, Île-de-France, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/spring/stage-chef-de-projet-supply-chain-data-paris-ou-barcelone-99155",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-11T15:31:26+00:00",
+   "first_seen": "2026-11-11T21:40:48.549716+00:00"
+  },
+  {
+   "id": "b89d6293a137",
+   "title": "Chef de produit digital F/H",
+   "company": "Groupe Fondasol",
+   "location": "Montfavet, Provence-Alpes-Côte d'Azur, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/groupe-fondasol/chef-de-produit-digital-f-h-montfavet-167306",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-11T12:52:03+00:00",
+   "first_seen": "2026-11-11T21:40:48.549716+00:00"
+  },
+  {
    "id": "12c4d35f9870",
    "title": "Senior Mechanical Engineer",
    "company": "Wingtra 2",
@@ -664,6 +682,24 @@
     "Rehaish ya safar ka zikr"
    ],
    "posted": "2026-11-05T03:08:36+00:00",
+   "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "f4aaf1626f10",
+   "title": "Software Project Manager (Warehouse Management)",
+   "company": "SwissPeak Partners GmbH",
+   "location": "Zurich, Zürich, Switzerland",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/software-project-manager-warehouse-management-zurich-84047",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-10T21:31:17+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
   },
   {
