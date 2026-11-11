@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T17:24:24.880457+00:00",
+ "updated": "2026-11-11T00:21:52.842908+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -343,24 +343,6 @@
    "first_seen": "2026-11-09T23:39:28.564808+00:00"
   },
   {
-   "id": "f84e196539c6",
-   "title": "Senior Mechanical Engineer (OptiArray)",
-   "company": "Optics11",
-   "location": "Amsterdam, Noord-Holland, Netherlands",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.nl/jobs/companies/optics11/senior-mechanical-engineer-optiarray-amsterdam-306068",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-09T18:31:21+00:00",
-   "first_seen": "2026-11-09T23:39:28.564808+00:00"
-  },
-  {
    "id": "50d73ff3fe5b",
    "title": "Technician (f/m/d)",
    "company": "Black Semiconductor GmbH",
@@ -523,6 +505,132 @@
    "first_seen": "2026-11-10T17:24:24.880457+00:00"
   },
   {
+   "id": "f4aaf1626f10",
+   "title": "Software Project Manager (Warehouse Management)",
+   "company": "SwissPeak Partners GmbH",
+   "location": "Zurich, Zürich, Switzerland",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/software-project-manager-warehouse-management-zurich-84047",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-10T21:31:17+00:00",
+   "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "886addfb2217",
+   "title": "Mechanical Design Engineering Team Lead",
+   "company": "pplwise",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/pplwise/mechanical-design-engineering-team-lead-munich-79680",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-10T21:40:20+00:00",
+   "first_seen": "2026-11-11T00:21:52.842908+00:00"
+  },
+  {
+   "id": "796d66237393",
+   "title": "Senior Mechanical Design Engineer",
+   "company": "pplwise",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/pplwise/senior-mechanical-design-engineer-munich-233752",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-10T21:40:20+00:00",
+   "first_seen": "2026-11-11T00:21:52.842908+00:00"
+  },
+  {
+   "id": "048615c82e67",
+   "title": "Principal Data Engineer, Data Warehouse (TPL)",
+   "company": "engelhart",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/engelhart/principal-data-engineer-data-warehouse-tpl-london-379586",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-10T21:55:19+00:00",
+   "first_seen": "2026-11-11T00:21:52.842908+00:00"
+  },
+  {
+   "id": "4b864fd5f124",
+   "title": "Hardware Technician - Preclinical Research",
+   "company": "Netholabs",
+   "location": "London/Brighton",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/netholabs/hardware-technician-preclinical-research-london-brighton-466931",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-10T21:40:22+00:00",
+   "first_seen": "2026-11-11T00:21:52.842908+00:00"
+  },
+  {
+   "id": "405da15231ad",
+   "title": "Senior Engineer I, Mechanical Engineering",
+   "company": "Asm",
+   "location": "",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.nl/jobs/companies/asm/senior-engineer-i-mechanical-engineering-97068",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-10T21:55:18+00:00",
+   "first_seen": "2026-11-11T00:21:52.842908+00:00"
+  },
+  {
+   "id": "eeacbff19e20",
+   "title": "Senior Engineer II, Mechanical Engineering",
+   "company": "Asm",
+   "location": "",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.nl/jobs/companies/asm/senior-engineer-ii-mechanical-engineering-324487",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-10T21:55:18+00:00",
+   "first_seen": "2026-11-11T00:21:52.842908+00:00"
+  },
+  {
    "id": "12c4d35f9870",
    "title": "Senior Mechanical Engineer",
    "company": "Wingtra 2",
@@ -539,6 +647,24 @@
    ],
    "posted": "2026-11-05T03:08:36+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "f84e196539c6",
+   "title": "Senior Mechanical Engineer (OptiArray)",
+   "company": "Optics11",
+   "location": "Amsterdam, Noord-Holland, Netherlands",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.nl/jobs/companies/optics11/senior-mechanical-engineer-optiarray-amsterdam-306068",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-09T18:31:21+00:00",
+   "first_seen": "2026-11-09T23:39:28.564808+00:00"
   },
   {
    "id": "a347a5e5748a",
@@ -844,24 +970,6 @@
     "Nayi (3 din)"
    ],
    "posted": "2026-11-07T00:40:11+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "f4aaf1626f10",
-   "title": "Software Project Manager (Warehouse Management)",
-   "company": "SwissPeak Partners GmbH",
-   "location": "Zurich, Zürich, Switzerland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/software-project-manager-warehouse-management-zurich-66241",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-06T18:31:21+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
   },
   {
