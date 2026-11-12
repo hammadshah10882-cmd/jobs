@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:40:48.549716+00:00",
+ "updated": "2026-11-12T05:14:26.367566+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -47,6 +47,26 @@
   "Welding & Fabrication"
  ],
  "jobs": [
+  {
+   "id": "e973a5e05b32",
+   "title": "Mechanical engineering / Composite Structures internship",
+   "company": "Stealthrocketrystartup",
+   "location": "Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/mechanical-engineering-composite-structures-internship-germany-471725",
+   "source": "Arbeitnow",
+   "score": 90,
+   "sponsor": true,
+   "reasons": [
+    "Sponsorship/relocation likha hai",
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-12T03:40:16+00:00",
+   "first_seen": "2026-11-12T05:14:26.367566+00:00"
+  },
   {
    "id": "86429d862a98",
    "title": "Graduate Mechanical Design Engineer",
@@ -143,6 +163,25 @@
    ],
    "posted": "2026-11-07T06:40:26+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "7133f9e1eef0",
+   "title": "Senior Mechanical Systems Test Engineer (all genders)",
+   "company": "væridion",
+   "location": "EDMO Manufacturing & Testing Facility",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/senior-mechanical-systems-test-engineer-all-genders-munich-114740",
+   "source": "Arbeitnow",
+   "score": 50,
+   "sponsor": false,
+   "reasons": [
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-12T03:40:15+00:00",
+   "first_seen": "2026-11-12T05:14:26.367566+00:00"
   },
   {
    "id": "b8d33c93a943",
@@ -559,42 +598,6 @@
    "first_seen": "2026-11-11T00:21:52.842908+00:00"
   },
   {
-   "id": "405da15231ad",
-   "title": "Senior Engineer I, Mechanical Engineering",
-   "company": "Asm",
-   "location": "",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.nl/jobs/companies/asm/senior-engineer-i-mechanical-engineering-97068",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-10T21:55:18+00:00",
-   "first_seen": "2026-11-11T00:21:52.842908+00:00"
-  },
-  {
-   "id": "eeacbff19e20",
-   "title": "Senior Engineer II, Mechanical Engineering",
-   "company": "Asm",
-   "location": "",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.nl/jobs/companies/asm/senior-engineer-ii-mechanical-engineering-324487",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-10T21:55:18+00:00",
-   "first_seen": "2026-11-11T00:21:52.842908+00:00"
-  },
-  {
    "id": "f7da7ae44f41",
    "title": "Geschäftsführender Gesellschafter Zerspanungstechnik CNC (m/w/d)",
    "company": "WIEMEYER & partners",
@@ -667,6 +670,42 @@
    "first_seen": "2026-11-11T21:40:48.549716+00:00"
   },
   {
+   "id": "bac7580b48c0",
+   "title": "Principal Thermal-Mechanical Engineer-Munich, Germany",
+   "company": "Vinci",
+   "location": "Munich, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/vinci/principal-thermal-mechanical-engineer-munich-germany-303801",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-11T21:40:15+00:00",
+   "first_seen": "2026-11-12T05:14:26.367566+00:00"
+  },
+  {
+   "id": "6146b4a29750",
+   "title": "Senior Mechanical Design Manager",
+   "company": "Stack Infrastructure Emea",
+   "location": "London Office",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/stack-infrastructure-emea/senior-mechanical-design-manager-london-95859",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-12T03:40:17+00:00",
+   "first_seen": "2026-11-12T05:14:26.367566+00:00"
+  },
+  {
    "id": "12c4d35f9870",
    "title": "Senior Mechanical Engineer",
    "company": "Wingtra 2",
@@ -683,6 +722,42 @@
    ],
    "posted": "2026-11-05T03:08:36+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "405da15231ad",
+   "title": "Senior Engineer I, Mechanical Engineering",
+   "company": "Asm",
+   "location": "",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.nl/jobs/companies/asm/senior-engineer-i-mechanical-engineering-97068",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-10T21:55:18+00:00",
+   "first_seen": "2026-11-11T00:21:52.842908+00:00"
+  },
+  {
+   "id": "eeacbff19e20",
+   "title": "Senior Engineer II, Mechanical Engineering",
+   "company": "Asm",
+   "location": "",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.nl/jobs/companies/asm/senior-engineer-ii-mechanical-engineering-324487",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-10T21:55:18+00:00",
+   "first_seen": "2026-11-11T00:21:52.842908+00:00"
   },
   {
    "id": "f4aaf1626f10",
