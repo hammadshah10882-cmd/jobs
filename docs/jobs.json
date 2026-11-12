@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T05:14:26.367566+00:00",
+ "updated": "2026-11-12T17:50:26.518274+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -616,24 +616,6 @@
    "first_seen": "2026-11-11T12:19:48.917542+00:00"
   },
   {
-   "id": "63c47b51dfdc",
-   "title": "MWP Technician",
-   "company": "H-Tech Supports",
-   "location": "Geneva",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/h-tech-supports/mwp-technician-geneva-305570",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-11T09:30:56+00:00",
-   "first_seen": "2026-11-11T12:19:48.917542+00:00"
-  },
-  {
    "id": "1deb24bf9a2d",
    "title": "Stage - Chef de projet Supply Chain & Data (Paris ou Barcelone)",
    "company": "SPRiNG",
@@ -706,6 +688,132 @@
    "first_seen": "2026-11-12T05:14:26.367566+00:00"
   },
   {
+   "id": "95cf5af8b83e",
+   "title": "Chief of Staff - Virtual Assembly Line (m/f/d)",
+   "company": "1KOMMA5˚",
+   "location": "Hamburg",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.com/jobs/companies/1komma50/chief-of-staff-virtual-assembly-line-hamburg-220360",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-12T14:31:15+00:00",
+   "first_seen": "2026-11-12T17:50:26.518274+00:00"
+  },
+  {
+   "id": "e864112806f9",
+   "title": "Lagermitarbeiter /  Picker / Kommissionierer (m/w/d)",
+   "company": "Rohlik",
+   "location": "Bischofsheim bei Frankfurt, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/lagermitarbeiter-picker-kommissionierer-bischofsheim-312509",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-12T12:40:30+00:00",
+   "first_seen": "2026-11-12T17:50:26.518274+00:00"
+  },
+  {
+   "id": "54330dede5fe",
+   "title": "Lagermitarbeiter / Picker / Kommissionierer (m/w/d)",
+   "company": "Rohlik",
+   "location": "Garching bei München, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/lagermitarbeiter-picker-kommissionierer-garching-bei-munchen-102415",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-12T12:40:30+00:00",
+   "first_seen": "2026-11-12T17:50:26.518274+00:00"
+  },
+  {
+   "id": "4d596609fa39",
+   "title": "Assistant Chef de Produit (Stage, Janv. 2027)",
+   "company": "Prose",
+   "location": "Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/prose/assistant-chef-de-produit-stage-janv-2027-paris-110705",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-12T12:40:34+00:00",
+   "first_seen": "2026-11-12T17:50:26.518274+00:00"
+  },
+  {
+   "id": "e2c1bbb04284",
+   "title": "Stage - Chef de projet évènementiel (x/f/m) - janvier 2027",
+   "company": "Doctolib",
+   "location": "Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-chef-de-projet-evenementiel-janvier-2027-levallois-perret-134227",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-12T12:40:30+00:00",
+   "first_seen": "2026-11-12T17:50:26.518274+00:00"
+  },
+  {
+   "id": "2113902a0af4",
+   "title": "Chef des ventes VN/VO Multisites - Toyota & Lexus - H/F",
+   "company": "Groupe Degenève",
+   "location": "Gaillard",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/groupe-degeneve/chef-des-ventes-vn-vo-multisites-toyota-lexus-h-f-gaillard-27632",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-12T12:01:33+00:00",
+   "first_seen": "2026-11-12T17:50:26.518274+00:00"
+  },
+  {
+   "id": "b961816c1a24",
+   "title": "Mechanical Design Engineer",
+   "company": "Coopers Group AG",
+   "location": "Zürich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/mechanical-design-engineer-zurich-92406",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-12T15:01:31+00:00",
+   "first_seen": "2026-11-12T17:50:26.518274+00:00"
+  },
+  {
    "id": "12c4d35f9870",
    "title": "Senior Mechanical Engineer",
    "company": "Wingtra 2",
@@ -722,6 +830,24 @@
    ],
    "posted": "2026-11-05T03:08:36+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "63c47b51dfdc",
+   "title": "MWP Technician",
+   "company": "H-Tech Supports",
+   "location": "Geneva",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/h-tech-supports/mwp-technician-geneva-305570",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-11T09:30:56+00:00",
+   "first_seen": "2026-11-11T12:19:48.917542+00:00"
   },
   {
    "id": "405da15231ad",
