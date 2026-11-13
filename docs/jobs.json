@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T00:50:24.896005+00:00",
+ "updated": "2026-11-13T12:45:15.287087+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -706,96 +706,6 @@
    "first_seen": "2026-11-12T17:50:26.518274+00:00"
   },
   {
-   "id": "e864112806f9",
-   "title": "Lagermitarbeiter /  Picker / Kommissionierer (m/w/d)",
-   "company": "Rohlik",
-   "location": "Bischofsheim bei Frankfurt, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/lagermitarbeiter-picker-kommissionierer-bischofsheim-312509",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-12T12:40:30+00:00",
-   "first_seen": "2026-11-12T17:50:26.518274+00:00"
-  },
-  {
-   "id": "54330dede5fe",
-   "title": "Lagermitarbeiter / Picker / Kommissionierer (m/w/d)",
-   "company": "Rohlik",
-   "location": "Garching bei München, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/lagermitarbeiter-picker-kommissionierer-garching-bei-munchen-102415",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-12T12:40:30+00:00",
-   "first_seen": "2026-11-12T17:50:26.518274+00:00"
-  },
-  {
-   "id": "4d596609fa39",
-   "title": "Assistant Chef de Produit (Stage, Janv. 2027)",
-   "company": "Prose",
-   "location": "Paris",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/prose/assistant-chef-de-produit-stage-janv-2027-paris-110705",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-12T12:40:34+00:00",
-   "first_seen": "2026-11-12T17:50:26.518274+00:00"
-  },
-  {
-   "id": "e2c1bbb04284",
-   "title": "Stage - Chef de projet évènementiel (x/f/m) - janvier 2027",
-   "company": "Doctolib",
-   "location": "Paris",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-chef-de-projet-evenementiel-janvier-2027-levallois-perret-134227",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-12T12:40:30+00:00",
-   "first_seen": "2026-11-12T17:50:26.518274+00:00"
-  },
-  {
-   "id": "2113902a0af4",
-   "title": "Chef des ventes VN/VO Multisites - Toyota & Lexus - H/F",
-   "company": "Groupe Degenève",
-   "location": "Gaillard",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/groupe-degeneve/chef-des-ventes-vn-vo-multisites-toyota-lexus-h-f-gaillard-27632",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-12T12:01:33+00:00",
-   "first_seen": "2026-11-12T17:50:26.518274+00:00"
-  },
-  {
    "id": "b961816c1a24",
    "title": "Mechanical Design Engineer",
    "company": "Coopers Group AG",
@@ -850,6 +760,60 @@
    "first_seen": "2026-11-13T00:50:24.896005+00:00"
   },
   {
+   "id": "bc81b25cafda",
+   "title": "Editor in Chief / Chefredakteur:in (m/w/d)",
+   "company": "DocCheck AG",
+   "location": "Köln, Nordrhein-Westfalen, Deutschland",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.com/jobs/companies/doccheck-ag/editor-in-chief-chefredakteurin-koln-208850",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-13T09:31:34+00:00",
+   "first_seen": "2026-11-13T12:45:15.287087+00:00"
+  },
+  {
+   "id": "fef5067525b0",
+   "title": "Junior Logistics Executive (Netherlands)",
+   "company": "Nivoda",
+   "location": "Amsterdam",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.nl/jobs/companies/nivoda/junior-logistics-executive-netherlands-amsterdam-479080",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-13T00:40:09+00:00",
+   "first_seen": "2026-11-13T12:45:15.287087+00:00"
+  },
+  {
+   "id": "8def651d364c",
+   "title": "Logistics Executive (Netherlands)",
+   "company": "Nivoda",
+   "location": "Amsterdam",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.nl/jobs/companies/nivoda/logistics-executive-netherlands-amsterdam-108430",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-13T00:40:09+00:00",
+   "first_seen": "2026-11-13T12:45:15.287087+00:00"
+  },
+  {
    "id": "12c4d35f9870",
    "title": "Senior Mechanical Engineer",
    "company": "Wingtra 2",
@@ -866,6 +830,96 @@
    ],
    "posted": "2026-11-05T03:08:36+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "e864112806f9",
+   "title": "Lagermitarbeiter /  Picker / Kommissionierer (m/w/d)",
+   "company": "Rohlik",
+   "location": "Bischofsheim bei Frankfurt, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/lagermitarbeiter-picker-kommissionierer-bischofsheim-312509",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-12T12:40:30+00:00",
+   "first_seen": "2026-11-12T17:50:26.518274+00:00"
+  },
+  {
+   "id": "54330dede5fe",
+   "title": "Lagermitarbeiter / Picker / Kommissionierer (m/w/d)",
+   "company": "Rohlik",
+   "location": "Garching bei München, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/lagermitarbeiter-picker-kommissionierer-garching-bei-munchen-102415",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-12T12:40:30+00:00",
+   "first_seen": "2026-11-12T17:50:26.518274+00:00"
+  },
+  {
+   "id": "4d596609fa39",
+   "title": "Assistant Chef de Produit (Stage, Janv. 2027)",
+   "company": "Prose",
+   "location": "Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/prose/assistant-chef-de-produit-stage-janv-2027-paris-110705",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-12T12:40:34+00:00",
+   "first_seen": "2026-11-12T17:50:26.518274+00:00"
+  },
+  {
+   "id": "e2c1bbb04284",
+   "title": "Stage - Chef de projet évènementiel (x/f/m) - janvier 2027",
+   "company": "Doctolib",
+   "location": "Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-chef-de-projet-evenementiel-janvier-2027-levallois-perret-134227",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-12T12:40:30+00:00",
+   "first_seen": "2026-11-12T17:50:26.518274+00:00"
+  },
+  {
+   "id": "2113902a0af4",
+   "title": "Chef des ventes VN/VO Multisites - Toyota & Lexus - H/F",
+   "company": "Groupe Degenève",
+   "location": "Gaillard",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/groupe-degeneve/chef-des-ventes-vn-vo-multisites-toyota-lexus-h-f-gaillard-27632",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-12T12:01:33+00:00",
+   "first_seen": "2026-11-12T17:50:26.518274+00:00"
   },
   {
    "id": "63c47b51dfdc",
