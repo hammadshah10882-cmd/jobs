@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:07:42.918260+00:00",
+ "updated": "2026-11-14T04:26:13.077760+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -779,42 +779,6 @@
    "first_seen": "2026-11-13T12:45:15.287087+00:00"
   },
   {
-   "id": "fef5067525b0",
-   "title": "Junior Logistics Executive (Netherlands)",
-   "company": "Nivoda",
-   "location": "Amsterdam",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.nl/jobs/companies/nivoda/junior-logistics-executive-netherlands-amsterdam-479080",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-13T00:40:09+00:00",
-   "first_seen": "2026-11-13T12:45:15.287087+00:00"
-  },
-  {
-   "id": "8def651d364c",
-   "title": "Logistics Executive (Netherlands)",
-   "company": "Nivoda",
-   "location": "Amsterdam",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.nl/jobs/companies/nivoda/logistics-executive-netherlands-amsterdam-108430",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-13T00:40:09+00:00",
-   "first_seen": "2026-11-13T12:45:15.287087+00:00"
-  },
-  {
    "id": "8c2431470abc",
    "title": "Chef de Projet Marketing Digital CDD de remplacement 3 mois H/F",
    "company": "RUN Services",
@@ -887,6 +851,132 @@
    "first_seen": "2026-11-13T21:07:42.918260+00:00"
   },
   {
+   "id": "34ef4e0f11d6",
+   "title": "Warehouse Trainer / Trainer Logistik (m/w/d)",
+   "company": "Rohlik",
+   "location": "Bischofsheim bei Frankfurt, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/warehouse-trainer-trainer-logistik-bischofsheim-258722",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-14T03:40:24+00:00",
+   "first_seen": "2026-11-14T04:26:13.077760+00:00"
+  },
+  {
+   "id": "6fb8fa53b3e6",
+   "title": "Lagerhelfer / Mitarbeiter Logistik (m/w/d)",
+   "company": "Rohlik",
+   "location": "Schönefeld bei Berlin, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/lagerhelfer-mitarbeiter-logistik-schonefeld-431078",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-14T03:40:24+00:00",
+   "first_seen": "2026-11-14T04:26:13.077760+00:00"
+  },
+  {
+   "id": "31684e8d1b26",
+   "title": "Lagerhelfer / Mitarbeiter Logistik (m/w/d)",
+   "company": "Rohlik",
+   "location": "Garching bei München, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/lagerhelfer-mitarbeiter-logistik-garching-bei-munchen-269720",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-14T03:40:24+00:00",
+   "first_seen": "2026-11-14T04:26:13.077760+00:00"
+  },
+  {
+   "id": "e8f61d3a84e1",
+   "title": "[BA/JC] Lagerist / Warehouse worker (m/f/d)",
+   "company": "Sereact GmbH",
+   "location": "Stuttgart Schockenriedstr. 17",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/ba-jc-lagerist-warehouse-worker-stuttgart-265381",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-14T00:40:13+00:00",
+   "first_seen": "2026-11-14T04:26:13.077760+00:00"
+  },
+  {
+   "id": "78c5d72281c2",
+   "title": "Lagerist / Lagermitarbeiter (m/f/d)",
+   "company": "Sereact GmbH",
+   "location": "Stuttgart Schockenriedstr. 17",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/lagerist-lagermitarbeiter-stuttgart-104478",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-14T00:40:13+00:00",
+   "first_seen": "2026-11-14T04:26:13.077760+00:00"
+  },
+  {
+   "id": "a7f427166a6a",
+   "title": "Assistant.e Chef(fe) de projet évènementiel (stage)",
+   "company": "Artefactjobs",
+   "location": "9th arrondissement of Paris, 75009, Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/assistante-cheffe-de-projet-evenementiel-stage-9th-arrondissement-of-paris-75009-paris-46139",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-14T00:55:27+00:00",
+   "first_seen": "2026-11-14T04:26:13.077760+00:00"
+  },
+  {
+   "id": "6d81d5a543e5",
+   "title": "Ingénieur Méthodes Opérations et Maintenance (H/F)",
+   "company": "EXOCETH CONSULTING",
+   "location": "Nantes, Pays de la Loire, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.fr/jobs/companies/exoceth-consulting/ingenieur-methodes-operations-et-maintenance-h-f-nantes-426238",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-14T00:31:34+00:00",
+   "first_seen": "2026-11-14T04:26:13.077760+00:00"
+  },
+  {
    "id": "12c4d35f9870",
    "title": "Senior Mechanical Engineer",
    "company": "Wingtra 2",
@@ -903,6 +993,42 @@
    ],
    "posted": "2026-11-05T03:08:36+00:00",
    "first_seen": "2026-11-07T16:00:23.796105+00:00"
+  },
+  {
+   "id": "fef5067525b0",
+   "title": "Junior Logistics Executive (Netherlands)",
+   "company": "Nivoda",
+   "location": "Amsterdam",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.nl/jobs/companies/nivoda/junior-logistics-executive-netherlands-amsterdam-479080",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-13T00:40:09+00:00",
+   "first_seen": "2026-11-13T12:45:15.287087+00:00"
+  },
+  {
+   "id": "8def651d364c",
+   "title": "Logistics Executive (Netherlands)",
+   "company": "Nivoda",
+   "location": "Amsterdam",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.nl/jobs/companies/nivoda/logistics-executive-netherlands-amsterdam-108430",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-13T00:40:09+00:00",
+   "first_seen": "2026-11-13T12:45:15.287087+00:00"
   },
   {
    "id": "b961816c1a24",
