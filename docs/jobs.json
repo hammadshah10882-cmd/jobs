@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:53:26.028380+00:00",
+ "updated": "2026-11-14T19:38:16.789694+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -127,44 +127,6 @@
    "first_seen": "2026-11-10T05:31:20.524280+00:00"
   },
   {
-   "id": "42e72d57fbab",
-   "title": "CNC Turner / Tourneur CNC",
-   "company": "The Exploration Company",
-   "location": "Bordeaux, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/cnc-turner-tourneur-cnc-bordeaux-170636",
-   "source": "Arbeitnow",
-   "score": 72,
-   "sponsor": true,
-   "reasons": [
-    "Sponsorship/relocation likha hai",
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-07T06:40:26+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "0cb53177b942",
-   "title": "Welding Engineer",
-   "company": "The Exploration Company",
-   "location": "Bordeaux, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Welding & Fabrication",
-   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/welding-engineer-bordeaux-162980",
-   "source": "Arbeitnow",
-   "score": 72,
-   "sponsor": true,
-   "reasons": [
-    "Sponsorship/relocation likha hai",
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-07T06:40:26+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
    "id": "7133f9e1eef0",
    "title": "Senior Mechanical Systems Test Engineer (all genders)",
    "company": "væridion",
@@ -201,78 +163,6 @@
    ],
    "posted": "2026-11-13T12:30:58+00:00",
    "first_seen": "2026-11-13T21:07:42.918260+00:00"
-  },
-  {
-   "id": "b8d33c93a943",
-   "title": "Senior Mechanical Engineer (f/m/d)",
-   "company": "Black Semiconductor GmbH",
-   "location": "Aachen, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/senior-mechanical-engineer-aachen-284748",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-06T18:40:13+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "13b210078633",
-   "title": "Driver Partner Experience Executive",
-   "company": "Veezu",
-   "location": "Huntingdon",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Driving & Transport",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/veezu/driver-partner-experience-executive-huntingdon-135754",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-07T09:40:19+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "ed1c9b8af541",
-   "title": "Assistant Chef de Projet Influence - Alternance 12 mois (H/F/X)",
-   "company": "Biggie",
-   "location": "Paris",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/biggie/assistant-chef-de-projet-influence-alternance-12-mois-paris-472494",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-07T00:08:39+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "45b73800c4c5",
-   "title": "Ingénieur études HVAC (H/F)",
-   "company": "EXOCETH CONSULTING",
-   "location": "Villeurbanne, Auvergne-Rhône-Alpes, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.fr/jobs/companies/exoceth-consulting/ingenieur-etudes-hvac-h-f-villeurbanne-177464",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-06T21:31:28+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
   },
   {
    "id": "ab33bc120971",
@@ -797,60 +687,6 @@
    "first_seen": "2026-11-13T21:07:42.918260+00:00"
   },
   {
-   "id": "4055d563d5d5",
-   "title": "Chef.fe de Projet numérique en santé / Project Manager Healthtech",
-   "company": "Lifen",
-   "location": "Paris",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/lifen/cheffe-de-projet-numerique-en-sante-project-manager-healthtech-paris-399870",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-13T15:40:18+00:00",
-   "first_seen": "2026-11-13T21:07:42.918260+00:00"
-  },
-  {
-   "id": "aff916bfe44d",
-   "title": "Stage - Assistant.e Chef de Produit PAP Maille et Jersey H/F",
-   "company": "AMI PARIS",
-   "location": "Paris, Île-de-France, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/ami-paris/stage-assistante-chef-de-produit-pap-maille-et-jersey-h-f-paris-202510",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-13T15:31:35+00:00",
-   "first_seen": "2026-11-13T21:07:42.918260+00:00"
-  },
-  {
-   "id": "609846cf433e",
-   "title": "Stage - Assistant.e Chef de Produit PAP Cuir, Denim et Capsules H/F",
-   "company": "AMI PARIS",
-   "location": "Paris, Île-de-France, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/ami-paris/stage-assistante-chef-de-produit-pap-cuir-denim-et-capsules-h-f-paris-138835",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-13T15:31:35+00:00",
-   "first_seen": "2026-11-13T21:07:42.918260+00:00"
-  },
-  {
    "id": "34ef4e0f11d6",
    "title": "Warehouse Trainer / Trainer Logistik (m/w/d)",
    "company": "Rohlik",
@@ -1031,22 +867,76 @@
    "first_seen": "2026-11-14T11:53:26.028380+00:00"
   },
   {
-   "id": "12c4d35f9870",
-   "title": "Senior Mechanical Engineer",
-   "company": "Wingtra 2",
-   "location": "Zürich",
+   "id": "50b0b1dc6c64",
+   "title": "Software Provisioning Technician (m/f/d) - UGV",
+   "company": "Quantum-Systems GmbH",
+   "location": "Göppingen, Baden-Württemberg, Germany",
    "country": "Germany",
    "region": "Europe",
    "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/wingtra-2/senior-mechanical-engineer-zurich-145169",
+   "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-provisioning-technician-ugv-goppingen-499660",
    "source": "Arbeitnow",
-   "score": 35,
+   "score": 40,
    "sponsor": false,
    "reasons": [
-    "Rehaish ya safar ka zikr"
+    "Bilkul nayi (24 ghante)"
    ],
-   "posted": "2026-11-05T03:08:36+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
+   "posted": "2026-11-14T15:31:42+00:00",
+   "first_seen": "2026-11-14T19:38:16.789694+00:00"
+  },
+  {
+   "id": "4055d563d5d5",
+   "title": "Chef.fe de Projet numérique en santé / Project Manager Healthtech",
+   "company": "Lifen",
+   "location": "Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/lifen/cheffe-de-projet-numerique-en-sante-project-manager-healthtech-paris-399870",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-13T15:40:18+00:00",
+   "first_seen": "2026-11-13T21:07:42.918260+00:00"
+  },
+  {
+   "id": "aff916bfe44d",
+   "title": "Stage - Assistant.e Chef de Produit PAP Maille et Jersey H/F",
+   "company": "AMI PARIS",
+   "location": "Paris, Île-de-France, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/ami-paris/stage-assistante-chef-de-produit-pap-maille-et-jersey-h-f-paris-202510",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-13T15:31:35+00:00",
+   "first_seen": "2026-11-13T21:07:42.918260+00:00"
+  },
+  {
+   "id": "609846cf433e",
+   "title": "Stage - Assistant.e Chef de Produit PAP Cuir, Denim et Capsules H/F",
+   "company": "AMI PARIS",
+   "location": "Paris, Île-de-France, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/ami-paris/stage-assistante-chef-de-produit-pap-cuir-denim-et-capsules-h-f-paris-138835",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-13T15:31:35+00:00",
+   "first_seen": "2026-11-13T21:07:42.918260+00:00"
   },
   {
    "id": "fef5067525b0",
@@ -1247,24 +1137,6 @@
    "first_seen": "2026-11-11T00:21:52.842908+00:00"
   },
   {
-   "id": "f4aaf1626f10",
-   "title": "Software Project Manager (Warehouse Management)",
-   "company": "SwissPeak Partners GmbH",
-   "location": "Zurich, Zürich, Switzerland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/software-project-manager-warehouse-management-zurich-84047",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-10T21:31:17+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
    "id": "b06928961f92",
    "title": "Principal Design Engineer - Mechanical Equipment (80-100%)",
    "company": "Climeworks",
@@ -1409,42 +1281,6 @@
    "first_seen": "2026-11-07T23:18:16.836807+00:00"
   },
   {
-   "id": "1f9e46afe788",
-   "title": "Head of Warehouse Projects",
-   "company": "Rohlik",
-   "location": "Berlin, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/head-of-warehouse-projects-berlin-185398",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-07T12:40:15+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "75a86e076827",
-   "title": "CDI - CHEF DE PRODUIT HOMME/SLG/CEINTURE (H/F)",
-   "company": "JACQUEMUS",
-   "location": "Paris HQ, Île de France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/jacquemus/cdi-chef-de-produit-homme-slg-ceinture-h-f-paris-hq-ile-de-france-6654",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-07T12:08:22+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
    "id": "aa44f39eb1ed",
    "title": "Chief Information Security Officer",
    "company": "Decentralized Masters",
@@ -1461,277 +1297,33 @@
    ],
    "posted": "2026-11-07T18:20:14+00:00",
    "first_seen": "2026-11-07T23:18:16.836807+00:00"
-  },
-  {
-   "id": "d2ba345026e8",
-   "title": "Mechanical Engineer (f/m/d)",
-   "company": "Tactiliarobotics",
-   "location": "Munich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/tactiliarobotics/mechanical-engineer-munich-186615",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-07T09:40:17+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "ad5207671b2e",
-   "title": "Senior Multiphysics R&D Engineer (Electro-mechanical)",
-   "company": "Secheron S Dot A",
-   "location": "Satigny, Switzerland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/secheron-s-dot-a/senior-multiphysics-rd-engineer-electro-mechanical-satigny-374681",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-07T06:20:18+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "ef16c53232f8",
-   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services (Télétravail depuis Lille)",
-   "company": "Pennylane SAS",
-   "location": "Lille",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-teletravail-depuis-lille-444166",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-07T00:40:11+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "7d4fa58d14b5",
-   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services (Télétravail depuis Nantes)",
-   "company": "Pennylane SAS",
-   "location": "Nantes",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-teletravail-depuis-nantes-365208",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-07T00:40:11+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "0ae382e2b92b",
-   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services (Télétravail depuis Bordeaux)",
-   "company": "Pennylane SAS",
-   "location": "Bordeaux",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-teletravail-depuis-bordeaux-293186",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-07T00:40:11+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "ebfcf676c528",
-   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services (Télétravail depuis Marseille)",
-   "company": "Pennylane SAS",
-   "location": "Marseille",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-teletravail-depuis-marseille-153557",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-07T00:40:11+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "55d492ede41d",
-   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services (Télétravail depuis Lyon)",
-   "company": "Pennylane SAS",
-   "location": "Lyon",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-teletravail-depuis-lyon-349997",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-07T00:40:11+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "7a41d32332e1",
-   "title": "Associate Team Lead Support Financial Services N2 / Chef(fe) d’équipe Support N2 Financial Services",
-   "company": "Pennylane SAS",
-   "location": "Paris offices",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/associate-team-lead-support-financial-services-n2-cheffe-dequipe-support-n2-financial-services-paris-75632",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-07T00:40:11+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "1d978e893a4f",
-   "title": "CNC-Zerspanungsmechaniker (m/w/d)",
-   "company": "Isembard",
-   "location": "Hamburg",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/isembard/cnc-zerspanungsmechaniker-hamburg-149797",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-06T18:40:13+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "34b7ba4ba316",
-   "title": "CNC Machinist (m/w/d)",
-   "company": "Isembard",
-   "location": "Hamburg",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/isembard/cnc-machinist-hamburg-357013",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-06T18:40:13+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "36aa5480f0ca",
-   "title": "Mechanical Engineer, Jigs & Tools",
-   "company": "Destinusgroup",
-   "location": "Payerne, Switzerland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-jigs-tools-payerne-499599",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-06T12:20:15+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "dbd2614fe8d4",
-   "title": "Mechanical Engineer, Jigs & Tools",
-   "company": "Destinusgroup",
-   "location": "Zürich, Switzerland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-jigs-tools-zurich-173900",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-06T12:20:15+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "9316efa5ede8",
-   "title": "Mechanical Engineer, Automation Projects",
-   "company": "Destinusgroup",
-   "location": "Payerne, Switzerland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-automation-projects-payerne-267521",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-06T12:20:15+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "c7acc56f600d",
-   "title": "Mechanical Engineer, Automation Projects",
-   "company": "Destinusgroup",
-   "location": "Zürich, Switzerland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-automation-projects-zurich-308242",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-06T12:20:15+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
-  },
-  {
-   "id": "d682c3f315ec",
-   "title": "Nanofabrication Technician",
-   "company": "Quantware",
-   "location": "Delft",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.nl/jobs/companies/quantware/nanofabrication-technician-delft-168721",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-05T12:40:32+00:00",
-   "first_seen": "2026-11-07T16:00:23.796105+00:00"
   }
  ],
- "expired": {}
+ "expired": {
+  "42e72d57fbab": "2026-11-14T19:38:16.789694+00:00",
+  "0cb53177b942": "2026-11-14T19:38:16.789694+00:00",
+  "b8d33c93a943": "2026-11-14T19:38:16.789694+00:00",
+  "13b210078633": "2026-11-14T19:38:16.789694+00:00",
+  "ed1c9b8af541": "2026-11-14T19:38:16.789694+00:00",
+  "45b73800c4c5": "2026-11-14T19:38:16.789694+00:00",
+  "12c4d35f9870": "2026-11-14T19:38:16.789694+00:00",
+  "f4aaf1626f10": "2026-11-14T19:38:16.789694+00:00",
+  "1f9e46afe788": "2026-11-14T19:38:16.789694+00:00",
+  "75a86e076827": "2026-11-14T19:38:16.789694+00:00",
+  "d2ba345026e8": "2026-11-14T19:38:16.789694+00:00",
+  "ad5207671b2e": "2026-11-14T19:38:16.789694+00:00",
+  "ef16c53232f8": "2026-11-14T19:38:16.789694+00:00",
+  "7d4fa58d14b5": "2026-11-14T19:38:16.789694+00:00",
+  "0ae382e2b92b": "2026-11-14T19:38:16.789694+00:00",
+  "ebfcf676c528": "2026-11-14T19:38:16.789694+00:00",
+  "55d492ede41d": "2026-11-14T19:38:16.789694+00:00",
+  "7a41d32332e1": "2026-11-14T19:38:16.789694+00:00",
+  "1d978e893a4f": "2026-11-14T19:38:16.789694+00:00",
+  "34b7ba4ba316": "2026-11-14T19:38:16.789694+00:00",
+  "36aa5480f0ca": "2026-11-14T19:38:16.789694+00:00",
+  "dbd2614fe8d4": "2026-11-14T19:38:16.789694+00:00",
+  "9316efa5ede8": "2026-11-14T19:38:16.789694+00:00",
+  "c7acc56f600d": "2026-11-14T19:38:16.789694+00:00",
+  "d682c3f315ec": "2026-11-14T19:38:16.789694+00:00"
+ }
 }
