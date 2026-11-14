@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T19:38:16.789694+00:00",
+ "updated": "2026-11-14T23:33:51.647702+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -669,24 +669,6 @@
    "first_seen": "2026-11-13T12:45:15.287087+00:00"
   },
   {
-   "id": "8c2431470abc",
-   "title": "Chef de Projet Marketing Digital CDD de remplacement 3 mois H/F",
-   "company": "RUN Services",
-   "location": "Nanterre",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/run-services/chef-de-projet-marketing-digital-cdd-de-remplacement-3-mois-h-f-nanterre-83261",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-13T20:00:41+00:00",
-   "first_seen": "2026-11-13T21:07:42.918260+00:00"
-  },
-  {
    "id": "34ef4e0f11d6",
    "title": "Warehouse Trainer / Trainer Logistik (m/w/d)",
    "company": "Rohlik",
@@ -883,6 +865,42 @@
    ],
    "posted": "2026-11-14T15:31:42+00:00",
    "first_seen": "2026-11-14T19:38:16.789694+00:00"
+  },
+  {
+   "id": "bd8aaebe4a02",
+   "title": "Warehouse Supervisor - Manchester",
+   "company": "Deliveroo",
+   "location": "Manchester - Western St (Hop)",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-supervisor-manchester-417931",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-14T21:40:11+00:00",
+   "first_seen": "2026-11-14T23:33:51.647702+00:00"
+  },
+  {
+   "id": "8c2431470abc",
+   "title": "Chef de Projet Marketing Digital CDD de remplacement 3 mois H/F",
+   "company": "RUN Services",
+   "location": "Nanterre",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/run-services/chef-de-projet-marketing-digital-cdd-de-remplacement-3-mois-h-f-nanterre-83261",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-13T20:00:41+00:00",
+   "first_seen": "2026-11-13T21:07:42.918260+00:00"
   },
   {
    "id": "4055d563d5d5",
@@ -1225,78 +1243,6 @@
    ],
    "posted": "2026-11-08T12:55:18+00:00",
    "first_seen": "2026-11-08T19:15:36.209209+00:00"
-  },
-  {
-   "id": "8e6806938035",
-   "title": "Working Student - Project management and Construction (all genders)",
-   "company": "Q Energy",
-   "location": "Berlin, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Construction",
-   "url": "https://www.arbeitnow.com/jobs/companies/q-energy/working-student-project-management-and-construction-all-genders-berlin-388754",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-07T21:20:17+00:00",
-   "first_seen": "2026-11-07T23:18:16.836807+00:00"
-  },
-  {
-   "id": "0d802ea9cbcb",
-   "title": "Technicien de Maintenance Multi-technique",
-   "company": "Signal Processing Engineer (RF Processing & Analytics)",
-   "location": "Orly",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/technicien-de-maintenance-multi-technique-orly-481933",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-07T21:40:15+00:00",
-   "first_seen": "2026-11-07T23:18:16.836807+00:00"
-  },
-  {
-   "id": "2dc4569ffe29",
-   "title": "Chief Information Security Officer",
-   "company": "Decentralized Masters",
-   "location": "Amsterdam, Netherlands",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Security",
-   "url": "https://www.arbeitnow.nl/jobs/companies/decentralized-masters/remote-chief-information-security-officer-amsterdam-193201",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-07T22:20:05+00:00",
-   "first_seen": "2026-11-07T23:18:16.836807+00:00"
-  },
-  {
-   "id": "aa44f39eb1ed",
-   "title": "Chief Information Security Officer",
-   "company": "Decentralized Masters",
-   "location": "Berlin, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Security",
-   "url": "https://www.arbeitnow.com/jobs/companies/decentralized-masters/remote-chief-information-security-officer-berlin-162086",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-07T18:20:14+00:00",
-   "first_seen": "2026-11-07T23:18:16.836807+00:00"
   }
  ],
  "expired": {
@@ -1324,6 +1270,10 @@
   "dbd2614fe8d4": "2026-11-14T19:38:16.789694+00:00",
   "9316efa5ede8": "2026-11-14T19:38:16.789694+00:00",
   "c7acc56f600d": "2026-11-14T19:38:16.789694+00:00",
-  "d682c3f315ec": "2026-11-14T19:38:16.789694+00:00"
+  "d682c3f315ec": "2026-11-14T19:38:16.789694+00:00",
+  "8e6806938035": "2026-11-14T23:33:51.647702+00:00",
+  "0d802ea9cbcb": "2026-11-14T23:33:51.647702+00:00",
+  "2dc4569ffe29": "2026-11-14T23:33:51.647702+00:00",
+  "aa44f39eb1ed": "2026-11-14T23:33:51.647702+00:00"
  }
 }
