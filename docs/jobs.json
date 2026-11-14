@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T04:26:13.077760+00:00",
+ "updated": "2026-11-14T11:53:26.028380+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -975,6 +975,60 @@
    ],
    "posted": "2026-11-14T00:31:34+00:00",
    "first_seen": "2026-11-14T04:26:13.077760+00:00"
+  },
+  {
+   "id": "b0e17f6723e9",
+   "title": "Mechanical Design Engineer",
+   "company": "Proxima Fusion GmbH",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/mechanical-design-engineer-munich-174564",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-14T09:40:20+00:00",
+   "first_seen": "2026-11-14T11:53:26.028380+00:00"
+  },
+  {
+   "id": "0f2eae2965a3",
+   "title": "Assistant.e Chef(fe) de projet évènementiel (stage)",
+   "company": "Artefactlinkedin",
+   "location": "9th arrondissement of Paris, 75009, Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/assistante-cheffe-de-projet-evenementiel-stage-9th-arrondissement-of-paris-75009-paris-344696",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-14T09:55:27+00:00",
+   "first_seen": "2026-11-14T11:53:26.028380+00:00"
+  },
+  {
+   "id": "30403573ed05",
+   "title": "Mechanical Engineer - Control Node",
+   "company": "Destinusgroup",
+   "location": "Zürich, Switzerland",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-control-node-zurich-68036",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-14T06:20:07+00:00",
+   "first_seen": "2026-11-14T11:53:26.028380+00:00"
   },
   {
    "id": "12c4d35f9870",
