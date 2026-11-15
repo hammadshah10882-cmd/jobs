@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T12:25:32.513280+00:00",
+ "updated": "2026-11-15T20:04:16.479487+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -85,6 +85,63 @@
    ],
    "posted": "2026-11-10T03:40:13+00:00",
    "first_seen": "2026-11-10T05:31:20.524280+00:00"
+  },
+  {
+   "id": "2b569f1cb397",
+   "title": "AIT Test & Assembly Technician",
+   "company": "The Exploration Company",
+   "location": "Munich, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-test-assembly-technician-munich-462971",
+   "source": "Arbeitnow",
+   "score": 80,
+   "sponsor": true,
+   "reasons": [
+    "Sponsorship/relocation likha hai",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-15T15:40:14+00:00",
+   "first_seen": "2026-11-15T20:04:16.479487+00:00"
+  },
+  {
+   "id": "a1a8ba620c3e",
+   "title": "AIT Mechanical Technician - Thermal Protection System",
+   "company": "The Exploration Company",
+   "location": "Munich, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-mechanical-technician-thermal-protection-system-munich-416618",
+   "source": "Arbeitnow",
+   "score": 80,
+   "sponsor": true,
+   "reasons": [
+    "Sponsorship/relocation likha hai",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-15T15:40:14+00:00",
+   "first_seen": "2026-11-15T20:04:16.479487+00:00"
+  },
+  {
+   "id": "48e5fe57e445",
+   "title": "AIT Senior Test Technician",
+   "company": "The Exploration Company",
+   "location": "Munich, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-senior-test-technician-munich-48849",
+   "source": "Arbeitnow",
+   "score": 80,
+   "sponsor": true,
+   "reasons": [
+    "Sponsorship/relocation likha hai",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-15T15:40:14+00:00",
+   "first_seen": "2026-11-15T20:04:16.479487+00:00"
   },
   {
    "id": "7133f9e1eef0",
@@ -629,24 +686,6 @@
    "first_seen": "2026-11-13T12:45:15.287087+00:00"
   },
   {
-   "id": "50b0b1dc6c64",
-   "title": "Software Provisioning Technician (m/f/d) - UGV",
-   "company": "Quantum-Systems GmbH",
-   "location": "Göppingen, Baden-Württemberg, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-provisioning-technician-ugv-goppingen-499660",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-14T15:31:42+00:00",
-   "first_seen": "2026-11-14T19:38:16.789694+00:00"
-  },
-  {
    "id": "bd8aaebe4a02",
    "title": "Warehouse Supervisor - Manchester",
    "company": "Deliveroo",
@@ -681,6 +720,60 @@
    ],
    "posted": "2026-11-15T03:40:12+00:00",
    "first_seen": "2026-11-15T12:25:32.513280+00:00"
+  },
+  {
+   "id": "b82b69a82352",
+   "title": "Staff Machine Learning Engineer (TLM), Driver Understanding and Evaluation",
+   "company": "Waymo",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Driving & Transport",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/staff-machine-learning-engineer-tlm-driver-understanding-and-evaluation-london-160812",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-15T15:55:25+00:00",
+   "first_seen": "2026-11-15T20:04:16.479487+00:00"
+  },
+  {
+   "id": "ae963f40bcd0",
+   "title": "Chef.fe de Projet Applicatifs Hôpitaux",
+   "company": "Lifen",
+   "location": "Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/lifen/cheffe-de-projet-applicatifs-hopitaux-paris-260176",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-15T12:40:17+00:00",
+   "first_seen": "2026-11-15T20:04:16.479487+00:00"
+  },
+  {
+   "id": "50b0b1dc6c64",
+   "title": "Software Provisioning Technician (m/f/d) - UGV",
+   "company": "Quantum-Systems GmbH",
+   "location": "Göppingen, Baden-Württemberg, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-provisioning-technician-ugv-goppingen-499660",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-14T15:31:42+00:00",
+   "first_seen": "2026-11-14T19:38:16.789694+00:00"
   },
   {
    "id": "b0e17f6723e9",
@@ -1185,24 +1278,6 @@
    ],
    "posted": "2026-11-08T18:31:26+00:00",
    "first_seen": "2026-11-08T23:21:31.418393+00:00"
-  },
-  {
-   "id": "07fb2bafad33",
-   "title": "Mechanical Forward Deployed Engineer - Switzerland",
-   "company": "colabsoftware",
-   "location": "",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/colabsoftware/mechanical-forward-deployed-engineer-switzerland-385092",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-08T12:55:18+00:00",
-   "first_seen": "2026-11-08T19:15:36.209209+00:00"
   }
  ],
  "expired": {
@@ -1237,6 +1312,7 @@
   "aa44f39eb1ed": "2026-11-14T23:33:51.647702+00:00",
   "86429d862a98": "2026-11-15T04:10:42.981132+00:00",
   "5afd7500ab07": "2026-11-15T04:10:42.981132+00:00",
-  "8af5f062bcd9": "2026-11-15T12:25:32.513280+00:00"
+  "8af5f062bcd9": "2026-11-15T12:25:32.513280+00:00",
+  "07fb2bafad33": "2026-11-15T20:04:16.479487+00:00"
  }
 }
