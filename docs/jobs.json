@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T04:10:42.981132+00:00",
+ "updated": "2026-11-15T12:25:32.513280+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -629,60 +629,6 @@
    "first_seen": "2026-11-13T12:45:15.287087+00:00"
   },
   {
-   "id": "b0e17f6723e9",
-   "title": "Mechanical Design Engineer",
-   "company": "Proxima Fusion GmbH",
-   "location": "Munich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/mechanical-design-engineer-munich-174564",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-14T09:40:20+00:00",
-   "first_seen": "2026-11-14T11:53:26.028380+00:00"
-  },
-  {
-   "id": "0f2eae2965a3",
-   "title": "Assistant.e Chef(fe) de projet évènementiel (stage)",
-   "company": "Artefactlinkedin",
-   "location": "9th arrondissement of Paris, 75009, Paris",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/assistante-cheffe-de-projet-evenementiel-stage-9th-arrondissement-of-paris-75009-paris-344696",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-14T09:55:27+00:00",
-   "first_seen": "2026-11-14T11:53:26.028380+00:00"
-  },
-  {
-   "id": "30403573ed05",
-   "title": "Mechanical Engineer - Control Node",
-   "company": "Destinusgroup",
-   "location": "Zürich, Switzerland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-control-node-zurich-68036",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-14T06:20:07+00:00",
-   "first_seen": "2026-11-14T11:53:26.028380+00:00"
-  },
-  {
    "id": "50b0b1dc6c64",
    "title": "Software Provisioning Technician (m/f/d) - UGV",
    "company": "Quantum-Systems GmbH",
@@ -717,6 +663,78 @@
    ],
    "posted": "2026-11-14T21:40:11+00:00",
    "first_seen": "2026-11-14T23:33:51.647702+00:00"
+  },
+  {
+   "id": "50387fe646ad",
+   "title": "Elektriker (m/w/d)",
+   "company": "Black Semiconductor GmbH",
+   "location": "Aachen, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/elektriker-aachen-280453",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-15T03:40:12+00:00",
+   "first_seen": "2026-11-15T12:25:32.513280+00:00"
+  },
+  {
+   "id": "b0e17f6723e9",
+   "title": "Mechanical Design Engineer",
+   "company": "Proxima Fusion GmbH",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/mechanical-design-engineer-munich-174564",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-14T09:40:20+00:00",
+   "first_seen": "2026-11-14T11:53:26.028380+00:00"
+  },
+  {
+   "id": "0f2eae2965a3",
+   "title": "Assistant.e Chef(fe) de projet évènementiel (stage)",
+   "company": "Artefactlinkedin",
+   "location": "9th arrondissement of Paris, 75009, Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/assistante-cheffe-de-projet-evenementiel-stage-9th-arrondissement-of-paris-75009-paris-344696",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-14T09:55:27+00:00",
+   "first_seen": "2026-11-14T11:53:26.028380+00:00"
+  },
+  {
+   "id": "30403573ed05",
+   "title": "Mechanical Engineer - Control Node",
+   "company": "Destinusgroup",
+   "location": "Zürich, Switzerland",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-control-node-zurich-68036",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-14T06:20:07+00:00",
+   "first_seen": "2026-11-14T11:53:26.028380+00:00"
   },
   {
    "id": "34ef4e0f11d6",
@@ -1169,24 +1187,6 @@
    "first_seen": "2026-11-08T23:21:31.418393+00:00"
   },
   {
-   "id": "8af5f062bcd9",
-   "title": "Warehouse Operative",
-   "company": "AIOS (YC W20/S21)",
-   "location": "Blackburn, Lancashire",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/warehouse-operative-blackburn-360966",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-08T06:40:11+00:00",
-   "first_seen": "2026-11-08T11:38:04.006311+00:00"
-  },
-  {
    "id": "07fb2bafad33",
    "title": "Mechanical Forward Deployed Engineer - Switzerland",
    "company": "colabsoftware",
@@ -1236,6 +1236,7 @@
   "2dc4569ffe29": "2026-11-14T23:33:51.647702+00:00",
   "aa44f39eb1ed": "2026-11-14T23:33:51.647702+00:00",
   "86429d862a98": "2026-11-15T04:10:42.981132+00:00",
-  "5afd7500ab07": "2026-11-15T04:10:42.981132+00:00"
+  "5afd7500ab07": "2026-11-15T04:10:42.981132+00:00",
+  "8af5f062bcd9": "2026-11-15T12:25:32.513280+00:00"
  }
 }
