@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T13:17:01.405678+00:00",
+ "updated": "2026-11-16T23:36:48.189628+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -180,24 +180,6 @@
    ],
    "posted": "2026-11-13T12:30:58+00:00",
    "first_seen": "2026-11-13T21:07:42.918260+00:00"
-  },
-  {
-   "id": "ab33bc120971",
-   "title": "Director Software Foundations - Warehouse Robotics & Automation",
-   "company": "Exotec",
-   "location": "Lille, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.fr/jobs/companies/exotec/director-software-foundations-warehouse-robotics-automation-lille-67270",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-09T11:20:13+00:00",
-   "first_seen": "2026-11-09T13:31:24.350727+00:00"
   },
   {
    "id": "63e7fcf3cf09",
@@ -686,24 +668,6 @@
    "first_seen": "2026-11-13T12:45:15.287087+00:00"
   },
   {
-   "id": "b82b69a82352",
-   "title": "Staff Machine Learning Engineer (TLM), Driver Understanding and Evaluation",
-   "company": "Waymo",
-   "location": "London",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Driving & Transport",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/staff-machine-learning-engineer-tlm-driver-understanding-and-evaluation-london-160812",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-15T15:55:25+00:00",
-   "first_seen": "2026-11-15T20:04:16.479487+00:00"
-  },
-  {
    "id": "00a560a14bab",
    "title": "Senior Mechanical Engineer - Robotic Systems",
    "company": "Agilerobotsse",
@@ -756,6 +720,150 @@
    ],
    "posted": "2026-11-16T11:01:56+00:00",
    "first_seen": "2026-11-16T13:17:01.405678+00:00"
+  },
+  {
+   "id": "d2cc8f258475",
+   "title": "Senior Data Collection Operator (FR)",
+   "company": "Genesis",
+   "location": "Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.fr/jobs/companies/genesis/senior-data-collection-operator-fr-paris-206359",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-16T15:40:14+00:00",
+   "first_seen": "2026-11-16T23:36:48.189628+00:00"
+  },
+  {
+   "id": "d16bbcd98122",
+   "title": "Semantic HVAC & Ontology Engineer",
+   "company": "Coopers Group AG",
+   "location": "Zug",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/semantic-hvac-ontology-engineer-zug-207845",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-16T15:31:23+00:00",
+   "first_seen": "2026-11-16T23:36:48.189628+00:00"
+  },
+  {
+   "id": "120d10499064",
+   "title": "Warehouse Associate - Part Time",
+   "company": "Deliveroo",
+   "location": "London - Yorkton St (Hop)",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-associate-part-time-london-31016",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-16T15:40:12+00:00",
+   "first_seen": "2026-11-16T23:36:48.189628+00:00"
+  },
+  {
+   "id": "bc2a00b42069",
+   "title": "Warehouse Associate - Bermondsey",
+   "company": "Deliveroo",
+   "location": "London - Enid (Hop)",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-associate-bermondsey-london-133086",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-16T15:40:12+00:00",
+   "first_seen": "2026-11-16T23:36:48.189628+00:00"
+  },
+  {
+   "id": "137122268114",
+   "title": "Warehouse Supervisor",
+   "company": "Deliveroo",
+   "location": "London - Randall Road (Hop)",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-supervisor-london-110287",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-16T15:40:12+00:00",
+   "first_seen": "2026-11-16T23:36:48.189628+00:00"
+  },
+  {
+   "id": "0f47df2e338f",
+   "title": "Warehouse Associate (Part time)",
+   "company": "Deliveroo",
+   "location": "London - Canning Town (Hop)",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-associate-part-time-london-42675",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-16T15:40:12+00:00",
+   "first_seen": "2026-11-16T23:36:48.189628+00:00"
+  },
+  {
+   "id": "fd50586178c6",
+   "title": "Senior Optical Packaging & Assembly Engineer",
+   "company": "Psiquantum",
+   "location": "Daresbury",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/psiquantum/senior-optical-packaging-assembly-engineer-daresbury-284998",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-16T12:55:17+00:00",
+   "first_seen": "2026-11-16T23:36:48.189628+00:00"
+  },
+  {
+   "id": "b82b69a82352",
+   "title": "Staff Machine Learning Engineer (TLM), Driver Understanding and Evaluation",
+   "company": "Waymo",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Driving & Transport",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/staff-machine-learning-engineer-tlm-driver-understanding-and-evaluation-london-160812",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-15T15:55:25+00:00",
+   "first_seen": "2026-11-15T20:04:16.479487+00:00"
   },
   {
    "id": "ae963f40bcd0",
@@ -1350,6 +1458,7 @@
   "5afd7500ab07": "2026-11-15T04:10:42.981132+00:00",
   "8af5f062bcd9": "2026-11-15T12:25:32.513280+00:00",
   "07fb2bafad33": "2026-11-15T20:04:16.479487+00:00",
-  "a347a5e5748a": "2026-11-16T04:10:33.065691+00:00"
+  "a347a5e5748a": "2026-11-16T04:10:33.065691+00:00",
+  "ab33bc120971": "2026-11-16T23:36:48.189628+00:00"
  }
 }
