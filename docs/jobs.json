@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T20:04:16.479487+00:00",
+ "updated": "2026-11-16T04:10:33.065691+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -686,42 +686,6 @@
    "first_seen": "2026-11-13T12:45:15.287087+00:00"
   },
   {
-   "id": "bd8aaebe4a02",
-   "title": "Warehouse Supervisor - Manchester",
-   "company": "Deliveroo",
-   "location": "Manchester - Western St (Hop)",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-supervisor-manchester-417931",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-14T21:40:11+00:00",
-   "first_seen": "2026-11-14T23:33:51.647702+00:00"
-  },
-  {
-   "id": "50387fe646ad",
-   "title": "Elektriker (m/w/d)",
-   "company": "Black Semiconductor GmbH",
-   "location": "Aachen, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/elektriker-aachen-280453",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-15T03:40:12+00:00",
-   "first_seen": "2026-11-15T12:25:32.513280+00:00"
-  },
-  {
    "id": "b82b69a82352",
    "title": "Staff Machine Learning Engineer (TLM), Driver Understanding and Evaluation",
    "company": "Waymo",
@@ -756,6 +720,78 @@
    ],
    "posted": "2026-11-15T12:40:17+00:00",
    "first_seen": "2026-11-15T20:04:16.479487+00:00"
+  },
+  {
+   "id": "00a560a14bab",
+   "title": "Senior Mechanical Engineer - Robotic Systems",
+   "company": "Agilerobotsse",
+   "location": "Munich, Bavaria",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-mechanical-engineer-robotic-systems-munich-bavaria-66135",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-16T00:55:24+00:00",
+   "first_seen": "2026-11-16T04:10:33.065691+00:00"
+  },
+  {
+   "id": "895bd14b01a1",
+   "title": "Lagermitarbeiter / Picker / Kommissionierer (m/w/d)",
+   "company": "Rohlik",
+   "location": "Schönefeld bei Berlin, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/lagermitarbeiter-picker-kommissionierer-schonefeld-453595",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-15T21:40:11+00:00",
+   "first_seen": "2026-11-16T04:10:33.065691+00:00"
+  },
+  {
+   "id": "bd8aaebe4a02",
+   "title": "Warehouse Supervisor - Manchester",
+   "company": "Deliveroo",
+   "location": "Manchester - Western St (Hop)",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-supervisor-manchester-417931",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-14T21:40:11+00:00",
+   "first_seen": "2026-11-14T23:33:51.647702+00:00"
+  },
+  {
+   "id": "50387fe646ad",
+   "title": "Elektriker (m/w/d)",
+   "company": "Black Semiconductor GmbH",
+   "location": "Aachen, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/elektriker-aachen-280453",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-15T03:40:12+00:00",
+   "first_seen": "2026-11-15T12:25:32.513280+00:00"
   },
   {
    "id": "50b0b1dc6c64",
@@ -1260,24 +1296,6 @@
    ],
    "posted": "2026-11-09T18:31:21+00:00",
    "first_seen": "2026-11-09T23:39:28.564808+00:00"
-  },
-  {
-   "id": "a347a5e5748a",
-   "title": "(Senior) Oracle Data Warehouse / BI-Developer (m/w/d)",
-   "company": "virtual7 GmbH",
-   "location": "Karlsruhe, Baden-Württemberg, Deutschland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/senior-oracle-data-warehouse-bi-developer-karlsruhe-173565",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-08T18:31:26+00:00",
-   "first_seen": "2026-11-08T23:21:31.418393+00:00"
   }
  ],
  "expired": {
@@ -1313,6 +1331,7 @@
   "86429d862a98": "2026-11-15T04:10:42.981132+00:00",
   "5afd7500ab07": "2026-11-15T04:10:42.981132+00:00",
   "8af5f062bcd9": "2026-11-15T12:25:32.513280+00:00",
-  "07fb2bafad33": "2026-11-15T20:04:16.479487+00:00"
+  "07fb2bafad33": "2026-11-15T20:04:16.479487+00:00",
+  "a347a5e5748a": "2026-11-16T04:10:33.065691+00:00"
  }
 }
