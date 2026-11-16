@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T04:10:33.065691+00:00",
+ "updated": "2026-11-16T13:17:01.405678+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -704,24 +704,6 @@
    "first_seen": "2026-11-15T20:04:16.479487+00:00"
   },
   {
-   "id": "ae963f40bcd0",
-   "title": "Chef.fe de Projet Applicatifs Hôpitaux",
-   "company": "Lifen",
-   "location": "Paris",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/lifen/cheffe-de-projet-applicatifs-hopitaux-paris-260176",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-15T12:40:17+00:00",
-   "first_seen": "2026-11-15T20:04:16.479487+00:00"
-  },
-  {
    "id": "00a560a14bab",
    "title": "Senior Mechanical Engineer - Robotic Systems",
    "company": "Agilerobotsse",
@@ -756,6 +738,42 @@
    ],
    "posted": "2026-11-15T21:40:11+00:00",
    "first_seen": "2026-11-16T04:10:33.065691+00:00"
+  },
+  {
+   "id": "f79933c612a1",
+   "title": "IT Security Officer (m/w/d)",
+   "company": "NXT Hero GmbH",
+   "location": "Leipzig",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Security",
+   "url": "https://www.arbeitnow.com/jobs/companies/nxt-hero-gmbh/it-security-officer-leipzig-233450",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-16T11:01:56+00:00",
+   "first_seen": "2026-11-16T13:17:01.405678+00:00"
+  },
+  {
+   "id": "ae963f40bcd0",
+   "title": "Chef.fe de Projet Applicatifs Hôpitaux",
+   "company": "Lifen",
+   "location": "Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/lifen/cheffe-de-projet-applicatifs-hopitaux-paris-260176",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-15T12:40:17+00:00",
+   "first_seen": "2026-11-15T20:04:16.479487+00:00"
   },
   {
    "id": "bd8aaebe4a02",
