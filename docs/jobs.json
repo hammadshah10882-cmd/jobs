@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T23:36:48.189628+00:00",
+ "updated": "2026-11-17T05:57:43.707937+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -66,25 +66,6 @@
    ],
    "posted": "2026-11-12T03:40:16+00:00",
    "first_seen": "2026-11-12T05:14:26.367566+00:00"
-  },
-  {
-   "id": "7d03d2df4eb4",
-   "title": "Senior Mechanical Engineer - Robotics (m/f/d)",
-   "company": "Omegga",
-   "location": "Munich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/omegga/senior-mechanical-engineer-robotics-munich-69572",
-   "source": "Arbeitnow",
-   "score": 80,
-   "sponsor": true,
-   "reasons": [
-    "Sponsorship/relocation likha hai",
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-10T03:40:13+00:00",
-   "first_seen": "2026-11-10T05:31:20.524280+00:00"
   },
   {
    "id": "2b569f1cb397",
@@ -180,150 +161,6 @@
    ],
    "posted": "2026-11-13T12:30:58+00:00",
    "first_seen": "2026-11-13T21:07:42.918260+00:00"
-  },
-  {
-   "id": "63e7fcf3cf09",
-   "title": "Regional Director Construction UK",
-   "company": "Nlighten",
-   "location": "",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Construction",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/nlighten/regional-director-construction-uk-59785",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-09T21:55:31+00:00",
-   "first_seen": "2026-11-09T23:39:28.564808+00:00"
-  },
-  {
-   "id": "0638537a0c1a",
-   "title": "Senior Product Analyst, Driver Supply",
-   "company": "Relay",
-   "location": "London - Hybrid",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Driving & Transport",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/relay/senior-product-analyst-driver-supply-london-170914",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-09T21:40:15+00:00",
-   "first_seen": "2026-11-09T23:39:28.564808+00:00"
-  },
-  {
-   "id": "706d6cea0478",
-   "title": "Staff Product Analyst, Driver Supply",
-   "company": "Relay",
-   "location": "London - Hybrid",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Driving & Transport",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/relay/staff-product-analyst-driver-supply-london-457379",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-09T21:40:15+00:00",
-   "first_seen": "2026-11-09T23:39:28.564808+00:00"
-  },
-  {
-   "id": "b5653f8c831f",
-   "title": "Assistant·e Chef de Projet Marketing - alternance",
-   "company": "Deliveroo ",
-   "location": "Paris, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/deliveroo/assistante-chef-de-projet-marketing-alternance-paris-63352",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-09T16:45:25+00:00",
-   "first_seen": "2026-11-09T23:39:28.564808+00:00"
-  },
-  {
-   "id": "47c9e903ce44",
-   "title": "Chef de Projets H/F",
-   "company": "TOP CLEAN PACKAGING",
-   "location": "Peschadoires",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/top-clean-packaging/chef-de-projets-h-f-peschadoires-494716",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-09T16:31:07+00:00",
-   "first_seen": "2026-11-09T23:39:28.564808+00:00"
-  },
-  {
-   "id": "40efc6e1056f",
-   "title": "Technicien Qualité (Quality Technician)",
-   "company": "Signal Processing Engineer (RF Processing & Analytics)",
-   "location": "Orly",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/technicien-qualite-quality-technician-orly-458925",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-09T15:40:15+00:00",
-   "first_seen": "2026-11-09T23:39:28.564808+00:00"
-  },
-  {
-   "id": "50d73ff3fe5b",
-   "title": "Technician (f/m/d)",
-   "company": "Black Semiconductor GmbH",
-   "location": "Aachen, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/technician-aachen-485115",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-10T03:40:13+00:00",
-   "first_seen": "2026-11-10T05:31:20.524280+00:00"
-  },
-  {
-   "id": "ef095881b545",
-   "title": "Assistant·e Chef de Projet Marketing - alternance",
-   "company": "Deliveroo",
-   "location": "Paris",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/deliveroo/assistante-chef-de-projet-marketing-alternance-paris-388571",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-10T00:55:26+00:00",
-   "first_seen": "2026-11-10T05:31:20.524280+00:00"
   },
   {
    "id": "28213aa8e180",
@@ -1386,42 +1223,6 @@
    ],
    "posted": "2026-11-10T21:55:18+00:00",
    "first_seen": "2026-11-11T00:21:52.842908+00:00"
-  },
-  {
-   "id": "b06928961f92",
-   "title": "Principal Design Engineer - Mechanical Equipment (80-100%)",
-   "company": "Climeworks",
-   "location": "Zurich, Zürich, Switzerland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/climeworks/principal-design-engineer-mechanical-equipment-80-100-zurich-483998",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-10T03:31:32+00:00",
-   "first_seen": "2026-11-10T05:31:20.524280+00:00"
-  },
-  {
-   "id": "f84e196539c6",
-   "title": "Senior Mechanical Engineer (OptiArray)",
-   "company": "Optics11",
-   "location": "Amsterdam, Noord-Holland, Netherlands",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.nl/jobs/companies/optics11/senior-mechanical-engineer-optiarray-amsterdam-306068",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-09T18:31:21+00:00",
-   "first_seen": "2026-11-09T23:39:28.564808+00:00"
   }
  ],
  "expired": {
@@ -1459,6 +1260,17 @@
   "8af5f062bcd9": "2026-11-15T12:25:32.513280+00:00",
   "07fb2bafad33": "2026-11-15T20:04:16.479487+00:00",
   "a347a5e5748a": "2026-11-16T04:10:33.065691+00:00",
-  "ab33bc120971": "2026-11-16T23:36:48.189628+00:00"
+  "ab33bc120971": "2026-11-16T23:36:48.189628+00:00",
+  "7d03d2df4eb4": "2026-11-17T05:57:43.707937+00:00",
+  "63e7fcf3cf09": "2026-11-17T05:57:43.707937+00:00",
+  "0638537a0c1a": "2026-11-17T05:57:43.707937+00:00",
+  "706d6cea0478": "2026-11-17T05:57:43.707937+00:00",
+  "b5653f8c831f": "2026-11-17T05:57:43.707937+00:00",
+  "47c9e903ce44": "2026-11-17T05:57:43.707937+00:00",
+  "40efc6e1056f": "2026-11-17T05:57:43.707937+00:00",
+  "50d73ff3fe5b": "2026-11-17T05:57:43.707937+00:00",
+  "ef095881b545": "2026-11-17T05:57:43.707937+00:00",
+  "b06928961f92": "2026-11-17T05:57:43.707937+00:00",
+  "f84e196539c6": "2026-11-17T05:57:43.707937+00:00"
  }
 }
