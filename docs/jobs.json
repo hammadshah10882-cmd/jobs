@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T18:53:32.792331+00:00",
+ "updated": "2026-11-18T01:58:54.296154+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -125,6 +125,44 @@
    "first_seen": "2026-11-15T20:04:16.479487+00:00"
   },
   {
+   "id": "aa6704a45568",
+   "title": "Technician",
+   "company": "Enactintelligence",
+   "location": "Zürich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/technician-zurich-54904",
+   "source": "Arbeitnow",
+   "score": 80,
+   "sponsor": true,
+   "reasons": [
+    "Sponsorship/relocation likha hai",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-18T00:40:32+00:00",
+   "first_seen": "2026-11-18T01:58:54.296154+00:00"
+  },
+  {
+   "id": "f2d328decdb1",
+   "title": "Robot Operator",
+   "company": "Enactintelligence",
+   "location": "Zürich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/robot-operator-zurich-157267",
+   "source": "Arbeitnow",
+   "score": 80,
+   "sponsor": true,
+   "reasons": [
+    "Sponsorship/relocation likha hai",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-18T00:40:32+00:00",
+   "first_seen": "2026-11-18T01:58:54.296154+00:00"
+  },
+  {
    "id": "7133f9e1eef0",
    "title": "Senior Mechanical Systems Test Engineer (all genders)",
    "company": "væridion",
@@ -180,78 +218,6 @@
    ],
    "posted": "2026-11-17T15:55:29+00:00",
    "first_seen": "2026-11-17T18:53:32.792331+00:00"
-  },
-  {
-   "id": "886addfb2217",
-   "title": "Mechanical Design Engineering Team Lead",
-   "company": "pplwise",
-   "location": "Munich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/pplwise/mechanical-design-engineering-team-lead-munich-79680",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-10T21:40:20+00:00",
-   "first_seen": "2026-11-11T00:21:52.842908+00:00"
-  },
-  {
-   "id": "796d66237393",
-   "title": "Senior Mechanical Design Engineer",
-   "company": "pplwise",
-   "location": "Munich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/pplwise/senior-mechanical-design-engineer-munich-233752",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-10T21:40:20+00:00",
-   "first_seen": "2026-11-11T00:21:52.842908+00:00"
-  },
-  {
-   "id": "048615c82e67",
-   "title": "Principal Data Engineer, Data Warehouse (TPL)",
-   "company": "engelhart",
-   "location": "London",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/engelhart/principal-data-engineer-data-warehouse-tpl-london-379586",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-10T21:55:19+00:00",
-   "first_seen": "2026-11-11T00:21:52.842908+00:00"
-  },
-  {
-   "id": "4b864fd5f124",
-   "title": "Hardware Technician - Preclinical Research",
-   "company": "Netholabs",
-   "location": "London/Brighton",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/netholabs/hardware-technician-preclinical-research-london-brighton-466931",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-10T21:40:22+00:00",
-   "first_seen": "2026-11-11T00:21:52.842908+00:00"
   },
   {
    "id": "f7da7ae44f41",
@@ -648,6 +614,168 @@
    ],
    "posted": "2026-11-17T12:40:16+00:00",
    "first_seen": "2026-11-17T18:53:32.792331+00:00"
+  },
+  {
+   "id": "8c4cffec9974",
+   "title": "Senior Mechanical Engineer - Drone Port (m/f/d)",
+   "company": "Quantum-Systems GmbH",
+   "location": "Gilching, Bayern, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-mechanical-engineer-drone-port-gilching-358088",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-17T21:31:21+00:00",
+   "first_seen": "2026-11-18T01:58:54.296154+00:00"
+  },
+  {
+   "id": "5ce8fba7b4d9",
+   "title": "VR Robot Operator (Zürich, 100%)",
+   "company": "Loki",
+   "location": "Zürich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.ch/jobs/companies/loki/vr-robot-operator-zurich-100-48478",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-18T00:40:31+00:00",
+   "first_seen": "2026-11-18T01:58:54.296154+00:00"
+  },
+  {
+   "id": "8f7ef0fd53e1",
+   "title": "Electrical Technician, Magnet Systems",
+   "company": "Proxima Fusion GmbH",
+   "location": "Zurich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/proxima-fusion-gmbh/electrical-technician-magnet-systems-zurich-401281",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-17T21:40:30+00:00",
+   "first_seen": "2026-11-18T01:58:54.296154+00:00"
+  },
+  {
+   "id": "821593068e48",
+   "title": "Elektriker / Prüftechniker DGUV (m/w/d) | Firmenwagen zur Privatnutzung + Bikeleasing + Umsatzbeteiligung + Hansefit",
+   "company": "PRÜFHELDEN GmbH",
+   "location": "Duisburg",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/prufhelden-gmbh/elektriker-pruftechniker-dguv-firmenwagen-zur-privatnutzung-bikeleasing-umsatzbeteiligung-hansefit-duisburg-85341",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-17T20:30:44+00:00",
+   "first_seen": "2026-11-18T01:58:54.296154+00:00"
+  },
+  {
+   "id": "5bd5cc2853e5",
+   "title": "Elektriker / Elektroniker als Projektleiter (m/w/d) | regionale Projekte | 60.000-65.000€",
+   "company": "Riverstate Premium Recruiting",
+   "location": "Ingelheim am Rhein",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/riverstate-premium-recruiting/elektriker-elektroniker-als-projektleiter-regionale-projekte-60000-65000eur-ingelheim-am-rhein-485781",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-17T20:30:44+00:00",
+   "first_seen": "2026-11-18T01:58:54.296154+00:00"
+  },
+  {
+   "id": "0e0084164cf8",
+   "title": "Senior Mechanical Design Engineer (m/w/d)",
+   "company": "ITM Power",
+   "location": "Linden",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/itm-power/senior-mechanical-design-engineer-linden-405453",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-17T20:30:43+00:00",
+   "first_seen": "2026-11-18T01:58:54.296154+00:00"
+  },
+  {
+   "id": "8fc9f921a018",
+   "title": "Post-doctorant(e) en IA agentique correcte par construction (SoS)  - CDD de 12 mois",
+   "company": "Institut Mines-Télécom",
+   "location": "PALAISEAU, Île-de-France, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Construction",
+   "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-en-ia-agentique-correcte-par-construction-sos-cdd-de-12-mois-palaiseau-137257",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-17T18:31:17+00:00",
+   "first_seen": "2026-11-18T01:58:54.296154+00:00"
+  },
+  {
+   "id": "14601a638ab3",
+   "title": "Senior AV Technician | Global Fashion Brand ** New Building**",
+   "company": "Kinly",
+   "location": "London, England, United Kingdom",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/kinly/senior-av-technician-global-fashion-brand-new-building-london-205192",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-17T18:31:21+00:00",
+   "first_seen": "2026-11-18T01:58:54.296154+00:00"
+  },
+  {
+   "id": "f585db63f54a",
+   "title": "Senior AV Technician | New Client Account",
+   "company": "Kinly",
+   "location": "London, England, United Kingdom",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/kinly/senior-av-technician-new-client-account-london-251346",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-17T18:31:21+00:00",
+   "first_seen": "2026-11-18T01:58:54.296154+00:00"
   },
   {
    "id": "d2cc8f258475",
@@ -1188,42 +1316,6 @@
    ],
    "posted": "2026-11-11T09:30:56+00:00",
    "first_seen": "2026-11-11T12:19:48.917542+00:00"
-  },
-  {
-   "id": "405da15231ad",
-   "title": "Senior Engineer I, Mechanical Engineering",
-   "company": "Asm",
-   "location": "",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.nl/jobs/companies/asm/senior-engineer-i-mechanical-engineering-97068",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-10T21:55:18+00:00",
-   "first_seen": "2026-11-11T00:21:52.842908+00:00"
-  },
-  {
-   "id": "eeacbff19e20",
-   "title": "Senior Engineer II, Mechanical Engineering",
-   "company": "Asm",
-   "location": "",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.nl/jobs/companies/asm/senior-engineer-ii-mechanical-engineering-324487",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-10T21:55:18+00:00",
-   "first_seen": "2026-11-11T00:21:52.842908+00:00"
   }
  ],
  "expired": {
@@ -1278,6 +1370,12 @@
   "d1cf150465a7": "2026-11-17T18:53:32.792331+00:00",
   "76a81172dc3c": "2026-11-17T18:53:32.792331+00:00",
   "872c6b890148": "2026-11-17T18:53:32.792331+00:00",
-  "f3b1650e285f": "2026-11-17T18:53:32.792331+00:00"
+  "f3b1650e285f": "2026-11-17T18:53:32.792331+00:00",
+  "886addfb2217": "2026-11-18T01:58:54.296154+00:00",
+  "796d66237393": "2026-11-18T01:58:54.296154+00:00",
+  "048615c82e67": "2026-11-18T01:58:54.296154+00:00",
+  "4b864fd5f124": "2026-11-18T01:58:54.296154+00:00",
+  "405da15231ad": "2026-11-18T01:58:54.296154+00:00",
+  "eeacbff19e20": "2026-11-18T01:58:54.296154+00:00"
  }
 }
