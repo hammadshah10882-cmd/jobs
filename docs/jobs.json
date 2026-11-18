@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T13:36:53.694559+00:00",
+ "updated": "2026-11-18T22:26:12.119089+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -239,40 +239,23 @@
    "first_seen": "2026-11-18T13:36:53.694559+00:00"
   },
   {
-   "id": "1deb24bf9a2d",
-   "title": "Stage - Chef de projet Supply Chain & Data (Paris ou Barcelone)",
-   "company": "SPRiNG",
-   "location": "Paris, Île-de-France, France",
+   "id": "db4ac61e2239",
+   "title": "Composite Technician - Airframe",
+   "company": "Harmattan Ai",
+   "location": "Lausanne",
    "country": "Germany",
    "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/spring/stage-chef-de-projet-supply-chain-data-paris-ou-barcelone-99155",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/composite-technician-airframe-lausanne-62891",
    "source": "Arbeitnow",
-   "score": 40,
+   "score": 50,
    "sponsor": false,
    "reasons": [
+    "Rehaish ya safar ka zikr",
     "Bilkul nayi (24 ghante)"
    ],
-   "posted": "2026-11-11T15:31:26+00:00",
-   "first_seen": "2026-11-11T21:40:48.549716+00:00"
-  },
-  {
-   "id": "b89d6293a137",
-   "title": "Chef de produit digital F/H",
-   "company": "Groupe Fondasol",
-   "location": "Montfavet, Provence-Alpes-Côte d'Azur, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/groupe-fondasol/chef-de-produit-digital-f-h-montfavet-167306",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-11T12:52:03+00:00",
-   "first_seen": "2026-11-11T21:40:48.549716+00:00"
+   "posted": "2026-11-18T12:40:16+00:00",
+   "first_seen": "2026-11-18T22:26:12.119089+00:00"
   },
   {
    "id": "bac7580b48c0",
@@ -581,24 +564,6 @@
    "first_seen": "2026-11-17T18:53:32.792331+00:00"
   },
   {
-   "id": "9117dc2d3c26",
-   "title": "Chef de projet technique ERP M3",
-   "company": "ELCIMAI",
-   "location": "Melun",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/elcimai/chef-de-projet-technique-erp-m3-melun-461281",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-17T16:30:50+00:00",
-   "first_seen": "2026-11-17T18:53:32.792331+00:00"
-  },
-  {
    "id": "27e5a4f3a560",
    "title": "IT Operations Technician",
    "company": "Getyourguide",
@@ -617,24 +582,6 @@
    "first_seen": "2026-11-17T18:53:32.792331+00:00"
   },
   {
-   "id": "8c4cffec9974",
-   "title": "Senior Mechanical Engineer - Drone Port (m/f/d)",
-   "company": "Quantum-Systems GmbH",
-   "location": "Gilching, Bayern, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-mechanical-engineer-drone-port-gilching-358088",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-17T21:31:21+00:00",
-   "first_seen": "2026-11-18T01:58:54.296154+00:00"
-  },
-  {
    "id": "5ce8fba7b4d9",
    "title": "VR Robot Operator (Zürich, 100%)",
    "company": "Loki",
@@ -650,24 +597,6 @@
     "Bilkul nayi (24 ghante)"
    ],
    "posted": "2026-11-18T00:40:31+00:00",
-   "first_seen": "2026-11-18T01:58:54.296154+00:00"
-  },
-  {
-   "id": "8f7ef0fd53e1",
-   "title": "Electrical Technician, Magnet Systems",
-   "company": "Proxima Fusion GmbH",
-   "location": "Zurich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/proxima-fusion-gmbh/electrical-technician-magnet-systems-zurich-401281",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-17T21:40:30+00:00",
    "first_seen": "2026-11-18T01:58:54.296154+00:00"
   },
   {
@@ -722,24 +651,6 @@
     "Bilkul nayi (24 ghante)"
    ],
    "posted": "2026-11-17T20:30:43+00:00",
-   "first_seen": "2026-11-18T01:58:54.296154+00:00"
-  },
-  {
-   "id": "8fc9f921a018",
-   "title": "Post-doctorant(e) en IA agentique correcte par construction (SoS)  - CDD de 12 mois",
-   "company": "Institut Mines-Télécom",
-   "location": "PALAISEAU, Île-de-France, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Construction",
-   "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-en-ia-agentique-correcte-par-construction-sos-cdd-de-12-mois-palaiseau-137257",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-17T18:31:17+00:00",
    "first_seen": "2026-11-18T01:58:54.296154+00:00"
   },
   {
@@ -867,6 +778,168 @@
    ],
    "posted": "2026-11-18T03:55:22+00:00",
    "first_seen": "2026-11-18T13:36:53.694559+00:00"
+  },
+  {
+   "id": "ccfa8fda428f",
+   "title": "Workingstudent - Data Maintenance (m/f/x)",
+   "company": "Samsung SDS Europe Ltd. German Branch (Logistics Division)",
+   "location": "Korbach",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/samsung-sds-europe-ltd-german-branch-logistics-division/workingstudent-data-maintenance-korbach-168720",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-18T17:00:45+00:00",
+   "first_seen": "2026-11-18T22:26:12.119089+00:00"
+  },
+  {
+   "id": "5b86b093c19d",
+   "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
+   "company": "Exotec",
+   "location": "Lille, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.fr/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-lille-198757",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-18T20:20:17+00:00",
+   "first_seen": "2026-11-18T22:26:12.119089+00:00"
+  },
+  {
+   "id": "ae7dae7f136d",
+   "title": "EDISYS - Responsable commercial / Account Executive - Construction et BTP (H/F) - CDI",
+   "company": "INTESCIA GROUP",
+   "location": "Issy-les-Moulineaux, Île-de-France, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Construction",
+   "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/edisys-responsable-commercial-account-executive-construction-et-btp-h-f-cdi-issy-les-moulineaux-363292",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-18T15:31:25+00:00",
+   "first_seen": "2026-11-18T22:26:12.119089+00:00"
+  },
+  {
+   "id": "0fd7200ad425",
+   "title": "EDISYS - Responsable de comptes (Account manager) - BTP et Construction (H/F) - CDI",
+   "company": "INTESCIA GROUP",
+   "location": "Issy-les-Moulineaux, Île-de-France, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Construction",
+   "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/edisys-responsable-de-comptes-account-manager-btp-et-construction-h-f-cdi-issy-les-moulineaux-362624",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-18T15:31:25+00:00",
+   "first_seen": "2026-11-18T22:26:12.119089+00:00"
+  },
+  {
+   "id": "83753027a4bf",
+   "title": "Engineering Technician",
+   "company": "IBA Dosimetry GmbH",
+   "location": "Nuremberg",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/iba-dosimetry-gmbh/engineering-technician-nuremberg-297634",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-18T12:31:28+00:00",
+   "first_seen": "2026-11-18T22:26:12.119089+00:00"
+  },
+  {
+   "id": "9117dc2d3c26",
+   "title": "Chef de projet technique ERP M3",
+   "company": "ELCIMAI",
+   "location": "Melun",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/elcimai/chef-de-projet-technique-erp-m3-melun-461281",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-17T16:30:50+00:00",
+   "first_seen": "2026-11-17T18:53:32.792331+00:00"
+  },
+  {
+   "id": "8c4cffec9974",
+   "title": "Senior Mechanical Engineer - Drone Port (m/f/d)",
+   "company": "Quantum-Systems GmbH",
+   "location": "Gilching, Bayern, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-mechanical-engineer-drone-port-gilching-358088",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-17T21:31:21+00:00",
+   "first_seen": "2026-11-18T01:58:54.296154+00:00"
+  },
+  {
+   "id": "8f7ef0fd53e1",
+   "title": "Electrical Technician, Magnet Systems",
+   "company": "Proxima Fusion GmbH",
+   "location": "Zurich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/proxima-fusion-gmbh/electrical-technician-magnet-systems-zurich-401281",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-17T21:40:30+00:00",
+   "first_seen": "2026-11-18T01:58:54.296154+00:00"
+  },
+  {
+   "id": "8fc9f921a018",
+   "title": "Post-doctorant(e) en IA agentique correcte par construction (SoS)  - CDD de 12 mois",
+   "company": "Institut Mines-Télécom",
+   "location": "PALAISEAU, Île-de-France, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Construction",
+   "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-en-ia-agentique-correcte-par-construction-sos-cdd-de-12-mois-palaiseau-137257",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-17T18:31:17+00:00",
+   "first_seen": "2026-11-18T01:58:54.296154+00:00"
   },
   {
    "id": "d2cc8f258475",
@@ -1451,6 +1524,8 @@
   "405da15231ad": "2026-11-18T01:58:54.296154+00:00",
   "eeacbff19e20": "2026-11-18T01:58:54.296154+00:00",
   "f7da7ae44f41": "2026-11-18T13:36:53.694559+00:00",
-  "63c47b51dfdc": "2026-11-18T13:36:53.694559+00:00"
+  "63c47b51dfdc": "2026-11-18T13:36:53.694559+00:00",
+  "1deb24bf9a2d": "2026-11-18T22:26:12.119089+00:00",
+  "b89d6293a137": "2026-11-18T22:26:12.119089+00:00"
  }
 }
