@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T01:58:54.296154+00:00",
+ "updated": "2026-11-18T13:36:53.694559+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -220,22 +220,23 @@
    "first_seen": "2026-11-17T18:53:32.792331+00:00"
   },
   {
-   "id": "f7da7ae44f41",
-   "title": "Geschäftsführender Gesellschafter Zerspanungstechnik CNC (m/w/d)",
-   "company": "WIEMEYER & partners",
-   "location": "Rendsburg",
+   "id": "ff6851fc24b5",
+   "title": "Director of Indirect Procurement and Logistics (m/f/d)",
+   "company": "isaraerospace",
+   "location": "Parsdorf, Bavaria",
    "country": "Germany",
    "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/wiemeyer-partners/geschaftsfuhrender-gesellschafter-zerspanungstechnik-cnc-rendsburg-353995",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-of-indirect-procurement-and-logistics-parsdorf-bavaria-258967",
    "source": "Arbeitnow",
-   "score": 40,
+   "score": 50,
    "sponsor": false,
    "reasons": [
+    "Rehaish ya safar ka zikr",
     "Bilkul nayi (24 ghante)"
    ],
-   "posted": "2026-11-11T10:00:47+00:00",
-   "first_seen": "2026-11-11T12:19:48.917542+00:00"
+   "posted": "2026-11-18T03:55:23+00:00",
+   "first_seen": "2026-11-18T13:36:53.694559+00:00"
   },
   {
    "id": "1deb24bf9a2d",
@@ -778,6 +779,96 @@
    "first_seen": "2026-11-18T01:58:54.296154+00:00"
   },
   {
+   "id": "9a563c123dee",
+   "title": "Senior Maintenance Manager (all genders)",
+   "company": "hellofresh",
+   "location": "Barleben, Saxony-Anhalt; Magdeburg, Saxony-Anhalt",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-maintenance-manager-all-genders-barleben-saxony-anhalt-magdeburg-saxony-anhalt-486044",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-18T03:55:23+00:00",
+   "first_seen": "2026-11-18T13:36:53.694559+00:00"
+  },
+  {
+   "id": "418b9280624d",
+   "title": "Warehouse Supervisor",
+   "company": "Deliveroo",
+   "location": "Brighton - St Josephs Business Park (Hop)",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-supervisor-brighton-315520",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-18T09:40:13+00:00",
+   "first_seen": "2026-11-18T13:36:53.694559+00:00"
+  },
+  {
+   "id": "d72620e15cee",
+   "title": "Warehouse Supervisor - Bristol",
+   "company": "Deliveroo",
+   "location": "Bristol - Oxford Street (Hop)",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-supervisor-bristol-292698",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-18T09:40:13+00:00",
+   "first_seen": "2026-11-18T13:36:53.694559+00:00"
+  },
+  {
+   "id": "8a330769538c",
+   "title": "Senior Lab Technician",
+   "company": "Infinitesima",
+   "location": "Abingdon",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/infinitesima/senior-lab-technician-abingdon-360861",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-18T03:55:25+00:00",
+   "first_seen": "2026-11-18T13:36:53.694559+00:00"
+  },
+  {
+   "id": "5941a83f848a",
+   "title": "Solutions Architect - Travel, Transport, Hospitality & Logistics",
+   "company": "databricks",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-travel-transport-hospitality-logistics-london-33467",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-18T03:55:22+00:00",
+   "first_seen": "2026-11-18T13:36:53.694559+00:00"
+  },
+  {
    "id": "d2cc8f258475",
    "title": "Senior Data Collection Operator (FR)",
    "company": "Genesis",
@@ -1298,24 +1389,6 @@
    ],
    "posted": "2026-11-12T12:01:33+00:00",
    "first_seen": "2026-11-12T17:50:26.518274+00:00"
-  },
-  {
-   "id": "63c47b51dfdc",
-   "title": "MWP Technician",
-   "company": "H-Tech Supports",
-   "location": "Geneva",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/h-tech-supports/mwp-technician-geneva-305570",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-11T09:30:56+00:00",
-   "first_seen": "2026-11-11T12:19:48.917542+00:00"
   }
  ],
  "expired": {
@@ -1376,6 +1449,8 @@
   "048615c82e67": "2026-11-18T01:58:54.296154+00:00",
   "4b864fd5f124": "2026-11-18T01:58:54.296154+00:00",
   "405da15231ad": "2026-11-18T01:58:54.296154+00:00",
-  "eeacbff19e20": "2026-11-18T01:58:54.296154+00:00"
+  "eeacbff19e20": "2026-11-18T01:58:54.296154+00:00",
+  "f7da7ae44f41": "2026-11-18T13:36:53.694559+00:00",
+  "63c47b51dfdc": "2026-11-18T13:36:53.694559+00:00"
  }
 }
