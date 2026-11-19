@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:26:12.119089+00:00",
+ "updated": "2026-11-19T05:24:27.001889+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -47,26 +47,6 @@
   "Welding & Fabrication"
  ],
  "jobs": [
-  {
-   "id": "e973a5e05b32",
-   "title": "Mechanical engineering / Composite Structures internship",
-   "company": "Stealthrocketrystartup",
-   "location": "Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/mechanical-engineering-composite-structures-internship-germany-471725",
-   "source": "Arbeitnow",
-   "score": 90,
-   "sponsor": true,
-   "reasons": [
-    "Sponsorship/relocation likha hai",
-    "Rehaish ya safar ka zikr",
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-12T03:40:16+00:00",
-   "first_seen": "2026-11-12T05:14:26.367566+00:00"
-  },
   {
    "id": "2b569f1cb397",
    "title": "AIT Test & Assembly Technician",
@@ -125,6 +105,25 @@
    "first_seen": "2026-11-15T20:04:16.479487+00:00"
   },
   {
+   "id": "883097e53e14",
+   "title": "Non-linear Analyses Mechanical Engineer",
+   "company": "The Exploration Company",
+   "location": "Munich, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/non-linear-analyses-mechanical-engineer-munich-147222",
+   "source": "Arbeitnow",
+   "score": 80,
+   "sponsor": true,
+   "reasons": [
+    "Sponsorship/relocation likha hai",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T03:43:25+00:00",
+   "first_seen": "2026-11-19T05:24:27.001889+00:00"
+  },
+  {
    "id": "aa6704a45568",
    "title": "Technician",
    "company": "Enactintelligence",
@@ -134,11 +133,11 @@
    "field": "Electrical & Mechanical",
    "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/technician-zurich-54904",
    "source": "Arbeitnow",
-   "score": 80,
+   "score": 72,
    "sponsor": true,
    "reasons": [
     "Sponsorship/relocation likha hai",
-    "Bilkul nayi (24 ghante)"
+    "Nayi (3 din)"
    ],
    "posted": "2026-11-18T00:40:32+00:00",
    "first_seen": "2026-11-18T01:58:54.296154+00:00"
@@ -153,33 +152,14 @@
    "field": "Factory & Production",
    "url": "https://www.arbeitnow.ch/jobs/companies/enactintelligence/robot-operator-zurich-157267",
    "source": "Arbeitnow",
-   "score": 80,
+   "score": 72,
    "sponsor": true,
    "reasons": [
     "Sponsorship/relocation likha hai",
-    "Bilkul nayi (24 ghante)"
+    "Nayi (3 din)"
    ],
    "posted": "2026-11-18T00:40:32+00:00",
    "first_seen": "2026-11-18T01:58:54.296154+00:00"
-  },
-  {
-   "id": "7133f9e1eef0",
-   "title": "Senior Mechanical Systems Test Engineer (all genders)",
-   "company": "væridion",
-   "location": "EDMO Manufacturing & Testing Facility",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/senior-mechanical-systems-test-engineer-all-genders-munich-114740",
-   "source": "Arbeitnow",
-   "score": 50,
-   "sponsor": false,
-   "reasons": [
-    "Rehaish ya safar ka zikr",
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-12T03:40:15+00:00",
-   "first_seen": "2026-11-12T05:14:26.367566+00:00"
   },
   {
    "id": "36dd5bb3e9d5",
@@ -220,25 +200,6 @@
    "first_seen": "2026-11-17T18:53:32.792331+00:00"
   },
   {
-   "id": "ff6851fc24b5",
-   "title": "Director of Indirect Procurement and Logistics (m/f/d)",
-   "company": "isaraerospace",
-   "location": "Parsdorf, Bavaria",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-of-indirect-procurement-and-logistics-parsdorf-bavaria-258967",
-   "source": "Arbeitnow",
-   "score": 50,
-   "sponsor": false,
-   "reasons": [
-    "Rehaish ya safar ka zikr",
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-18T03:55:23+00:00",
-   "first_seen": "2026-11-18T13:36:53.694559+00:00"
-  },
-  {
    "id": "db4ac61e2239",
    "title": "Composite Technician - Airframe",
    "company": "Harmattan Ai",
@@ -258,40 +219,42 @@
    "first_seen": "2026-11-18T22:26:12.119089+00:00"
   },
   {
-   "id": "bac7580b48c0",
-   "title": "Principal Thermal-Mechanical Engineer-Munich, Germany",
-   "company": "Vinci",
-   "location": "Munich, Germany",
+   "id": "fb6d6b30351c",
+   "title": "Serviced Accommodation Operator: Part-Time Growth Partner",
+   "company": "The Flex",
+   "location": "London",
    "country": "Germany",
    "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/vinci/principal-thermal-mechanical-engineer-munich-germany-303801",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/the-flex/serviced-accommodation-operator-part-time-growth-partner-london-94824",
    "source": "Arbeitnow",
-   "score": 40,
+   "score": 50,
    "sponsor": false,
    "reasons": [
+    "Rehaish ya safar ka zikr",
     "Bilkul nayi (24 ghante)"
    ],
-   "posted": "2026-11-11T21:40:15+00:00",
-   "first_seen": "2026-11-12T05:14:26.367566+00:00"
+   "posted": "2026-11-19T03:43:25+00:00",
+   "first_seen": "2026-11-19T05:24:27.001889+00:00"
   },
   {
-   "id": "6146b4a29750",
-   "title": "Senior Mechanical Design Manager",
-   "company": "Stack Infrastructure Emea",
-   "location": "London Office",
+   "id": "ff6851fc24b5",
+   "title": "Director of Indirect Procurement and Logistics (m/f/d)",
+   "company": "isaraerospace",
+   "location": "Parsdorf, Bavaria",
    "country": "Germany",
    "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/stack-infrastructure-emea/senior-mechanical-design-manager-london-95859",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-of-indirect-procurement-and-logistics-parsdorf-bavaria-258967",
    "source": "Arbeitnow",
-   "score": 40,
+   "score": 42,
    "sponsor": false,
    "reasons": [
-    "Bilkul nayi (24 ghante)"
+    "Rehaish ya safar ka zikr",
+    "Nayi (3 din)"
    ],
-   "posted": "2026-11-12T03:40:17+00:00",
-   "first_seen": "2026-11-12T05:14:26.367566+00:00"
+   "posted": "2026-11-18T03:55:23+00:00",
+   "first_seen": "2026-11-18T13:36:53.694559+00:00"
   },
   {
    "id": "95cf5af8b83e",
@@ -582,24 +545,6 @@
    "first_seen": "2026-11-17T18:53:32.792331+00:00"
   },
   {
-   "id": "5ce8fba7b4d9",
-   "title": "VR Robot Operator (Zürich, 100%)",
-   "company": "Loki",
-   "location": "Zürich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Factory & Production",
-   "url": "https://www.arbeitnow.ch/jobs/companies/loki/vr-robot-operator-zurich-100-48478",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-18T00:40:31+00:00",
-   "first_seen": "2026-11-18T01:58:54.296154+00:00"
-  },
-  {
    "id": "821593068e48",
    "title": "Elektriker / Prüftechniker DGUV (m/w/d) | Firmenwagen zur Privatnutzung + Bikeleasing + Umsatzbeteiligung + Hansefit",
    "company": "PRÜFHELDEN GmbH",
@@ -688,24 +633,6 @@
    ],
    "posted": "2026-11-17T18:31:21+00:00",
    "first_seen": "2026-11-18T01:58:54.296154+00:00"
-  },
-  {
-   "id": "9a563c123dee",
-   "title": "Senior Maintenance Manager (all genders)",
-   "company": "hellofresh",
-   "location": "Barleben, Saxony-Anhalt; Magdeburg, Saxony-Anhalt",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-maintenance-manager-all-genders-barleben-saxony-anhalt-magdeburg-saxony-anhalt-486044",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-18T03:55:23+00:00",
-   "first_seen": "2026-11-18T13:36:53.694559+00:00"
   },
   {
    "id": "418b9280624d",
@@ -868,6 +795,150 @@
    ],
    "posted": "2026-11-18T12:31:28+00:00",
    "first_seen": "2026-11-18T22:26:12.119089+00:00"
+  },
+  {
+   "id": "d92133441b39",
+   "title": "Kfz-Mechatroniker:in / Kfz-Mechaniker:in (m/w/d) – Campervan-Flotte Frankfurt",
+   "company": "Roadsurfer",
+   "location": "Frankfurt",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/kfz-mechatronikerin-kfz-mechanikerin-campervan-flotte-frankfurt-frankfurt-am-main-252373",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T03:43:26+00:00",
+   "first_seen": "2026-11-19T05:24:27.001889+00:00"
+  },
+  {
+   "id": "b6640abe64f7",
+   "title": "Short-Term Rental Operator in France: Grow Base360 in the French Market",
+   "company": "The Flex",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/the-flex/short-term-rental-operator-in-france-grow-base360-in-the-french-market-london-161829",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T03:43:25+00:00",
+   "first_seen": "2026-11-19T05:24:27.001889+00:00"
+  },
+  {
+   "id": "c191d343a312",
+   "title": "Short-Term Rental Operator: Join a Startup Growing 30% a Month",
+   "company": "The Flex",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/the-flex/short-term-rental-operator-join-a-startup-growing-30-a-month-london-204919",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T03:43:25+00:00",
+   "first_seen": "2026-11-19T05:24:27.001889+00:00"
+  },
+  {
+   "id": "0009157b92b1",
+   "title": "Senior Associate, Dasher & Logistics - Strategy & Operations EMEA (L3)",
+   "company": "Deliveroo ",
+   "location": "London, England, United Kingdom",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-associate-dasher-logistics-strategy-operations-emea-l3-london-292734",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-18T22:45:24+00:00",
+   "first_seen": "2026-11-19T05:24:27.001889+00:00"
+  },
+  {
+   "id": "a33aeb3818be",
+   "title": "Operations Manager – Field Deployment, Logistics & Validation",
+   "company": "Alta Ares",
+   "location": "Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/operations-manager-field-deployment-logistics-validation-paris-67168",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T03:43:25+00:00",
+   "first_seen": "2026-11-19T05:24:27.001889+00:00"
+  },
+  {
+   "id": "21aa3c02aee8",
+   "title": "Mechanical Engineer - Antenna Positioning & Ground Equipment",
+   "company": "Alta Ares",
+   "location": "Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/mechanical-engineer-antenna-positioning-ground-equipment-paris-285975",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T03:43:25+00:00",
+   "first_seen": "2026-11-19T05:24:27.001889+00:00"
+  },
+  {
+   "id": "5ce8fba7b4d9",
+   "title": "VR Robot Operator (Zürich, 100%)",
+   "company": "Loki",
+   "location": "Zürich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.ch/jobs/companies/loki/vr-robot-operator-zurich-100-48478",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-18T00:40:31+00:00",
+   "first_seen": "2026-11-18T01:58:54.296154+00:00"
+  },
+  {
+   "id": "9a563c123dee",
+   "title": "Senior Maintenance Manager (all genders)",
+   "company": "hellofresh",
+   "location": "Barleben, Saxony-Anhalt; Magdeburg, Saxony-Anhalt",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-maintenance-manager-all-genders-barleben-saxony-anhalt-magdeburg-saxony-anhalt-486044",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-18T03:55:23+00:00",
+   "first_seen": "2026-11-18T13:36:53.694559+00:00"
   },
   {
    "id": "9117dc2d3c26",
@@ -1526,6 +1597,10 @@
   "f7da7ae44f41": "2026-11-18T13:36:53.694559+00:00",
   "63c47b51dfdc": "2026-11-18T13:36:53.694559+00:00",
   "1deb24bf9a2d": "2026-11-18T22:26:12.119089+00:00",
-  "b89d6293a137": "2026-11-18T22:26:12.119089+00:00"
+  "b89d6293a137": "2026-11-18T22:26:12.119089+00:00",
+  "e973a5e05b32": "2026-11-19T05:24:27.001889+00:00",
+  "7133f9e1eef0": "2026-11-19T05:24:27.001889+00:00",
+  "bac7580b48c0": "2026-11-19T05:24:27.001889+00:00",
+  "6146b4a29750": "2026-11-19T05:24:27.001889+00:00"
  }
 }
