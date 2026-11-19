@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:24:27.001889+00:00",
+ "updated": "2026-11-19T18:45:52.166542+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -200,25 +200,6 @@
    "first_seen": "2026-11-17T18:53:32.792331+00:00"
   },
   {
-   "id": "db4ac61e2239",
-   "title": "Composite Technician - Airframe",
-   "company": "Harmattan Ai",
-   "location": "Lausanne",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/composite-technician-airframe-lausanne-62891",
-   "source": "Arbeitnow",
-   "score": 50,
-   "sponsor": false,
-   "reasons": [
-    "Rehaish ya safar ka zikr",
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-18T12:40:16+00:00",
-   "first_seen": "2026-11-18T22:26:12.119089+00:00"
-  },
-  {
    "id": "fb6d6b30351c",
    "title": "Serviced Accommodation Operator: Part-Time Growth Partner",
    "company": "The Flex",
@@ -238,6 +219,44 @@
    "first_seen": "2026-11-19T05:24:27.001889+00:00"
   },
   {
+   "id": "9f38ae87b804",
+   "title": "Senior Garment Technologist",
+   "company": "Quince",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Textile & Tailoring",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/quince/senior-garment-technologist-london-50074",
+   "source": "Arbeitnow",
+   "score": 50,
+   "sponsor": false,
+   "reasons": [
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T09:55:15+00:00",
+   "first_seen": "2026-11-19T18:45:52.166542+00:00"
+  },
+  {
+   "id": "db4ac61e2239",
+   "title": "Composite Technician - Airframe",
+   "company": "Harmattan Ai",
+   "location": "Lausanne",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/composite-technician-airframe-lausanne-62891",
+   "source": "Arbeitnow",
+   "score": 42,
+   "sponsor": false,
+   "reasons": [
+    "Rehaish ya safar ka zikr",
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-18T12:40:16+00:00",
+   "first_seen": "2026-11-18T22:26:12.119089+00:00"
+  },
+  {
    "id": "ff6851fc24b5",
    "title": "Director of Indirect Procurement and Logistics (m/f/d)",
    "company": "isaraerospace",
@@ -255,24 +274,6 @@
    ],
    "posted": "2026-11-18T03:55:23+00:00",
    "first_seen": "2026-11-18T13:36:53.694559+00:00"
-  },
-  {
-   "id": "95cf5af8b83e",
-   "title": "Chief of Staff - Virtual Assembly Line (m/f/d)",
-   "company": "1KOMMA5˚",
-   "location": "Hamburg",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Factory & Production",
-   "url": "https://www.arbeitnow.com/jobs/companies/1komma50/chief-of-staff-virtual-assembly-line-hamburg-220360",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-12T14:31:15+00:00",
-   "first_seen": "2026-11-12T17:50:26.518274+00:00"
   },
   {
    "id": "a4492e1900d7",
@@ -743,42 +744,6 @@
    "first_seen": "2026-11-18T22:26:12.119089+00:00"
   },
   {
-   "id": "ae7dae7f136d",
-   "title": "EDISYS - Responsable commercial / Account Executive - Construction et BTP (H/F) - CDI",
-   "company": "INTESCIA GROUP",
-   "location": "Issy-les-Moulineaux, Île-de-France, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Construction",
-   "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/edisys-responsable-commercial-account-executive-construction-et-btp-h-f-cdi-issy-les-moulineaux-363292",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-18T15:31:25+00:00",
-   "first_seen": "2026-11-18T22:26:12.119089+00:00"
-  },
-  {
-   "id": "0fd7200ad425",
-   "title": "EDISYS - Responsable de comptes (Account manager) - BTP et Construction (H/F) - CDI",
-   "company": "INTESCIA GROUP",
-   "location": "Issy-les-Moulineaux, Île-de-France, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Construction",
-   "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/edisys-responsable-de-comptes-account-manager-btp-et-construction-h-f-cdi-issy-les-moulineaux-362624",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-18T15:31:25+00:00",
-   "first_seen": "2026-11-18T22:26:12.119089+00:00"
-  },
-  {
    "id": "83753027a4bf",
    "title": "Engineering Technician",
    "company": "IBA Dosimetry GmbH",
@@ -903,6 +868,294 @@
    ],
    "posted": "2026-11-19T03:43:25+00:00",
    "first_seen": "2026-11-19T05:24:27.001889+00:00"
+  },
+  {
+   "id": "e8f61d3a84e1",
+   "title": "[BA/JC] Lagerist / Warehouse worker (m/f/d)",
+   "company": "Sereact GmbH",
+   "location": "Stuttgart Schockenriedstr. 17",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/ba-jc-lagerist-warehouse-worker-stuttgart-256498",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T06:40:19+00:00",
+   "first_seen": "2026-11-14T04:26:13.077760+00:00"
+  },
+  {
+   "id": "ff9759fed748",
+   "title": "Senior Mechanical / Electrical System Integration Lead",
+   "company": "OnTarget Communications",
+   "location": "Stuttgart",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/ontarget-communications/senior-mechanical-electrical-system-integration-lead-stuttgart-411362",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T16:20:11+00:00",
+   "first_seen": "2026-11-19T18:45:52.166542+00:00"
+  },
+  {
+   "id": "4480f1747a80",
+   "title": "Senior Associate, Dasher & Logistics - Strategy & Operations EMEA (L3)",
+   "company": "Deliveroo",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-associate-dasher-logistics-strategy-operations-emea-l3-london-494897",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T12:55:20+00:00",
+   "first_seen": "2026-11-19T18:45:52.166542+00:00"
+  },
+  {
+   "id": "d1272635034c",
+   "title": "Management Consulting, Director - Logistics  & Supply Chain Transformation",
+   "company": "Teneo",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/teneo/management-consulting-director-logistics-supply-chain-transformation-london-158903",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T12:55:15+00:00",
+   "first_seen": "2026-11-19T18:45:52.166542+00:00"
+  },
+  {
+   "id": "9f311ea80165",
+   "title": "Senior Mechanical Designer",
+   "company": "CDDS AG",
+   "location": "Zürich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/cdds-ag/senior-mechanical-designer-zurich-81528",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T15:00:52+00:00",
+   "first_seen": "2026-11-19T18:45:52.166542+00:00"
+  },
+  {
+   "id": "0692b88326fb",
+   "title": "Technician Garching (m/w/d)",
+   "company": "Rohlik",
+   "location": "Garching bei München, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/technician-garching-garching-bei-munchen-451879",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T09:40:13+00:00",
+   "first_seen": "2026-11-19T18:45:52.166542+00:00"
+  },
+  {
+   "id": "4416c5ac4f63",
+   "title": "R&D Engineering Intern (Mechanical, Electronics, Software, System) (f/m/d)",
+   "company": "Tactiliarobotics",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/tactiliarobotics/rd-engineering-intern-mechanical-electronics-software-system-munich-415248",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T06:40:25+00:00",
+   "first_seen": "2026-11-19T18:45:52.166542+00:00"
+  },
+  {
+   "id": "d0d0ceca3a78",
+   "title": "Mechaniker / Mechatroniker (m/w/d) – Robotersysteme",
+   "company": "Sereact GmbH",
+   "location": "Stuttgart Schockenriedstr. 17",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/mechaniker-mechatroniker-robotersysteme-stuttgart-452968",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T06:40:19+00:00",
+   "first_seen": "2026-11-19T18:45:52.166542+00:00"
+  },
+  {
+   "id": "dc25b6da59f8",
+   "title": "Robotics Technician",
+   "company": "Vesoma",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/vesoma/robotics-technician-garching-bei-munchen-11761",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T06:40:14+00:00",
+   "first_seen": "2026-11-19T18:45:52.166542+00:00"
+  },
+  {
+   "id": "d5dc5d89090f",
+   "title": "Working student - Mechanical",
+   "company": "Vesoma",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/vesoma/working-student-mechanical-garching-bei-munchen-91397",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T06:40:14+00:00",
+   "first_seen": "2026-11-19T18:45:52.166542+00:00"
+  },
+  {
+   "id": "d7cec1bd08ef",
+   "title": "Senior Mechanical Engineer - CAD",
+   "company": "Vesoma",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/vesoma/senior-mechanical-engineer-cad-garching-bei-munchen-411438",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T06:40:14+00:00",
+   "first_seen": "2026-11-19T18:45:52.166542+00:00"
+  },
+  {
+   "id": "13bc302ccc87",
+   "title": "R&D Mechanic",
+   "company": "Vesoma",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/vesoma/rd-mechanic-garching-bei-munchen-291389",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T06:40:14+00:00",
+   "first_seen": "2026-11-19T18:45:52.166542+00:00"
+  },
+  {
+   "id": "8451e8319695",
+   "title": "Junior Mechanical Engineer - CAD",
+   "company": "Vesoma",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/vesoma/junior-mechanical-engineer-cad-garching-bei-munchen-235380",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T06:40:14+00:00",
+   "first_seen": "2026-11-19T18:45:52.166542+00:00"
+  },
+  {
+   "id": "7c44abe2d7cb",
+   "title": "Actuator Mechanical Engineer",
+   "company": "Vesoma",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/vesoma/actuator-mechanical-engineer-garching-bei-munchen-443945",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T06:40:14+00:00",
+   "first_seen": "2026-11-19T18:45:52.166542+00:00"
+  },
+  {
+   "id": "ae7dae7f136d",
+   "title": "EDISYS - Responsable commercial / Account Executive - Construction et BTP (H/F) - CDI",
+   "company": "INTESCIA GROUP",
+   "location": "Issy-les-Moulineaux, Île-de-France, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Construction",
+   "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/edisys-responsable-commercial-account-executive-construction-et-btp-h-f-cdi-issy-les-moulineaux-363292",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-18T15:31:25+00:00",
+   "first_seen": "2026-11-18T22:26:12.119089+00:00"
+  },
+  {
+   "id": "0fd7200ad425",
+   "title": "EDISYS - Responsable de comptes (Account manager) - BTP et Construction (H/F) - CDI",
+   "company": "INTESCIA GROUP",
+   "location": "Issy-les-Moulineaux, Île-de-France, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Construction",
+   "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/edisys-responsable-de-comptes-account-manager-btp-et-construction-h-f-cdi-issy-les-moulineaux-362624",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-18T15:31:25+00:00",
+   "first_seen": "2026-11-18T22:26:12.119089+00:00"
   },
   {
    "id": "5ce8fba7b4d9",
@@ -1247,24 +1500,6 @@
    "first_seen": "2026-11-14T04:26:13.077760+00:00"
   },
   {
-   "id": "e8f61d3a84e1",
-   "title": "[BA/JC] Lagerist / Warehouse worker (m/f/d)",
-   "company": "Sereact GmbH",
-   "location": "Stuttgart Schockenriedstr. 17",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/ba-jc-lagerist-warehouse-worker-stuttgart-265381",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-14T00:40:13+00:00",
-   "first_seen": "2026-11-14T04:26:13.077760+00:00"
-  },
-  {
    "id": "78c5d72281c2",
    "title": "Lagerist / Lagermitarbeiter (m/f/d)",
    "company": "Sereact GmbH",
@@ -1425,114 +1660,6 @@
    ],
    "posted": "2026-11-13T00:40:09+00:00",
    "first_seen": "2026-11-13T12:45:15.287087+00:00"
-  },
-  {
-   "id": "b961816c1a24",
-   "title": "Mechanical Design Engineer",
-   "company": "Coopers Group AG",
-   "location": "Zürich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/mechanical-design-engineer-zurich-92406",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-12T15:01:31+00:00",
-   "first_seen": "2026-11-12T17:50:26.518274+00:00"
-  },
-  {
-   "id": "e864112806f9",
-   "title": "Lagermitarbeiter /  Picker / Kommissionierer (m/w/d)",
-   "company": "Rohlik",
-   "location": "Bischofsheim bei Frankfurt, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/lagermitarbeiter-picker-kommissionierer-bischofsheim-312509",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-12T12:40:30+00:00",
-   "first_seen": "2026-11-12T17:50:26.518274+00:00"
-  },
-  {
-   "id": "54330dede5fe",
-   "title": "Lagermitarbeiter / Picker / Kommissionierer (m/w/d)",
-   "company": "Rohlik",
-   "location": "Garching bei München, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/lagermitarbeiter-picker-kommissionierer-garching-bei-munchen-102415",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-12T12:40:30+00:00",
-   "first_seen": "2026-11-12T17:50:26.518274+00:00"
-  },
-  {
-   "id": "4d596609fa39",
-   "title": "Assistant Chef de Produit (Stage, Janv. 2027)",
-   "company": "Prose",
-   "location": "Paris",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/prose/assistant-chef-de-produit-stage-janv-2027-paris-110705",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-12T12:40:34+00:00",
-   "first_seen": "2026-11-12T17:50:26.518274+00:00"
-  },
-  {
-   "id": "e2c1bbb04284",
-   "title": "Stage - Chef de projet évènementiel (x/f/m) - janvier 2027",
-   "company": "Doctolib",
-   "location": "Paris",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/stage-chef-de-projet-evenementiel-janvier-2027-levallois-perret-134227",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-12T12:40:30+00:00",
-   "first_seen": "2026-11-12T17:50:26.518274+00:00"
-  },
-  {
-   "id": "2113902a0af4",
-   "title": "Chef des ventes VN/VO Multisites - Toyota & Lexus - H/F",
-   "company": "Groupe Degenève",
-   "location": "Gaillard",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/groupe-degeneve/chef-des-ventes-vn-vo-multisites-toyota-lexus-h-f-gaillard-27632",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-12T12:01:33+00:00",
-   "first_seen": "2026-11-12T17:50:26.518274+00:00"
   }
  ],
  "expired": {
@@ -1601,6 +1728,13 @@
   "e973a5e05b32": "2026-11-19T05:24:27.001889+00:00",
   "7133f9e1eef0": "2026-11-19T05:24:27.001889+00:00",
   "bac7580b48c0": "2026-11-19T05:24:27.001889+00:00",
-  "6146b4a29750": "2026-11-19T05:24:27.001889+00:00"
+  "6146b4a29750": "2026-11-19T05:24:27.001889+00:00",
+  "95cf5af8b83e": "2026-11-19T18:45:52.166542+00:00",
+  "b961816c1a24": "2026-11-19T18:45:52.166542+00:00",
+  "e864112806f9": "2026-11-19T18:45:52.166542+00:00",
+  "54330dede5fe": "2026-11-19T18:45:52.166542+00:00",
+  "4d596609fa39": "2026-11-19T18:45:52.166542+00:00",
+  "e2c1bbb04284": "2026-11-19T18:45:52.166542+00:00",
+  "2113902a0af4": "2026-11-19T18:45:52.166542+00:00"
  }
 }
