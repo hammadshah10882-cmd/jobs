@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T01:35:19.207176+00:00",
+ "updated": "2026-11-20T13:46:04.116016+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -124,6 +124,25 @@
    "first_seen": "2026-11-19T05:24:27.001889+00:00"
   },
   {
+   "id": "07da78cf6807",
+   "title": "Information Security Officer (ISB)",
+   "company": "True Talent Solutions Partners",
+   "location": "Cologne",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Security",
+   "url": "https://www.arbeitnow.com/jobs/companies/true-talent-solutions-partners/information-security-officer-isb-cologne-28318",
+   "source": "Arbeitnow",
+   "score": 80,
+   "sponsor": true,
+   "reasons": [
+    "Sponsorship/relocation likha hai",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-20T03:43:07+00:00",
+   "first_seen": "2026-11-20T13:46:04.116016+00:00"
+  },
+  {
    "id": "aa6704a45568",
    "title": "Technician",
    "company": "Enactintelligence",
@@ -238,6 +257,101 @@
    "first_seen": "2026-11-19T18:45:52.166542+00:00"
   },
   {
+   "id": "9a4f9b89053d",
+   "title": "Copy of Senior Manager, Maintenance –Compounding Pharmacy Facilites",
+   "company": "Hims And Hers",
+   "location": "London, England",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/hims-and-hers/copy-of-senior-manager-maintenance-compounding-pharmacy-facilites-london-140027",
+   "source": "Arbeitnow",
+   "score": 50,
+   "sponsor": false,
+   "reasons": [
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-20T12:40:17+00:00",
+   "first_seen": "2026-11-20T13:46:04.116016+00:00"
+  },
+  {
+   "id": "e33825b1c54c",
+   "title": "Logistics & Customs Coordinator",
+   "company": "Foundational",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/foundational/logistics-customs-coordinator-london-177279",
+   "source": "Arbeitnow",
+   "score": 50,
+   "sponsor": false,
+   "reasons": [
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-20T06:40:11+00:00",
+   "first_seen": "2026-11-20T13:46:04.116016+00:00"
+  },
+  {
+   "id": "7b4e1f7899c0",
+   "title": "Apprentice Technician",
+   "company": "Foundational",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/foundational/apprentice-technician-london-143603",
+   "source": "Arbeitnow",
+   "score": 50,
+   "sponsor": false,
+   "reasons": [
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-20T06:40:11+00:00",
+   "first_seen": "2026-11-20T13:46:04.116016+00:00"
+  },
+  {
+   "id": "51c1ae25fc43",
+   "title": "Workshop Technician",
+   "company": "Foundational",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/foundational/workshop-technician-london-196727",
+   "source": "Arbeitnow",
+   "score": 50,
+   "sponsor": false,
+   "reasons": [
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-20T06:40:11+00:00",
+   "first_seen": "2026-11-20T13:46:04.116016+00:00"
+  },
+  {
+   "id": "e9b80f38771d",
+   "title": "Opto-mechanical Engineer",
+   "company": "Foundational",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/foundational/opto-mechanical-engineer-london-365246",
+   "source": "Arbeitnow",
+   "score": 50,
+   "sponsor": false,
+   "reasons": [
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-20T06:40:11+00:00",
+   "first_seen": "2026-11-20T13:46:04.116016+00:00"
+  },
+  {
    "id": "db4ac61e2239",
    "title": "Composite Technician - Airframe",
    "company": "Harmattan Ai",
@@ -274,24 +388,6 @@
    ],
    "posted": "2026-11-18T03:55:23+00:00",
    "first_seen": "2026-11-18T13:36:53.694559+00:00"
-  },
-  {
-   "id": "bc81b25cafda",
-   "title": "Editor in Chief / Chefredakteur:in (m/w/d)",
-   "company": "DocCheck AG",
-   "location": "Köln, Nordrhein-Westfalen, Deutschland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.com/jobs/companies/doccheck-ag/editor-in-chief-chefredakteurin-koln-208850",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-13T09:31:34+00:00",
-   "first_seen": "2026-11-13T12:45:15.287087+00:00"
   },
   {
    "id": "00a560a14bab",
@@ -1158,6 +1254,78 @@
    "first_seen": "2026-11-20T01:35:19.207176+00:00"
   },
   {
+   "id": "ec33af54dd10",
+   "title": "Systemadministrator (m/w/d) / DevOps Engineer für Linux- und Kubernetes-basierte OSS-Infrastrukturen",
+   "company": "Biz Factory GmbH",
+   "location": "Berlin",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Care & Support",
+   "url": "https://www.arbeitnow.com/jobs/companies/biz-factory-gmbh/systemadministrator-devops-engineer-fur-linux-und-kubernetes-basierte-oss-infrastrukturen-berlin-183922",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-20T12:31:00+00:00",
+   "first_seen": "2026-11-20T13:46:04.116016+00:00"
+  },
+  {
+   "id": "7a8d6e0247c8",
+   "title": "Data Engineer – Data Warehouse & AI Foundation (m/w/d)",
+   "company": "GENO Broker GmbH",
+   "location": "Frankfurt am Main",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/geno-broker-gmbh/data-engineer-data-warehouse-ai-foundation-frankfurt-am-main-302625",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-20T11:01:15+00:00",
+   "first_seen": "2026-11-20T13:46:04.116016+00:00"
+  },
+  {
+   "id": "020fea044818",
+   "title": "Senior Account Manager - Warehouse Automation - BENELUX",
+   "company": "Exotec",
+   "location": "Netherlands",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-20T04:20:15+00:00",
+   "first_seen": "2026-11-20T13:46:04.116016+00:00"
+  },
+  {
+   "id": "8b17f91f882f",
+   "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
+   "company": "Exotec",
+   "location": "Netherlands",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-20T04:20:15+00:00",
+   "first_seen": "2026-11-20T13:46:04.116016+00:00"
+  },
+  {
    "id": "ae7dae7f136d",
    "title": "EDISYS - Responsable commercial / Account Executive - Construction et BTP (H/F) - CDI",
    "company": "INTESCIA GROUP",
@@ -1660,42 +1828,6 @@
    ],
    "posted": "2026-11-13T15:31:35+00:00",
    "first_seen": "2026-11-13T21:07:42.918260+00:00"
-  },
-  {
-   "id": "fef5067525b0",
-   "title": "Junior Logistics Executive (Netherlands)",
-   "company": "Nivoda",
-   "location": "Amsterdam",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.nl/jobs/companies/nivoda/junior-logistics-executive-netherlands-amsterdam-479080",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-13T00:40:09+00:00",
-   "first_seen": "2026-11-13T12:45:15.287087+00:00"
-  },
-  {
-   "id": "8def651d364c",
-   "title": "Logistics Executive (Netherlands)",
-   "company": "Nivoda",
-   "location": "Amsterdam",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.nl/jobs/companies/nivoda/logistics-executive-netherlands-amsterdam-108430",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-13T00:40:09+00:00",
-   "first_seen": "2026-11-13T12:45:15.287087+00:00"
   }
  ],
  "expired": {
@@ -1773,6 +1905,9 @@
   "e2c1bbb04284": "2026-11-19T18:45:52.166542+00:00",
   "2113902a0af4": "2026-11-19T18:45:52.166542+00:00",
   "a4492e1900d7": "2026-11-20T01:35:19.207176+00:00",
-  "c4690c088f7d": "2026-11-20T01:35:19.207176+00:00"
+  "c4690c088f7d": "2026-11-20T01:35:19.207176+00:00",
+  "bc81b25cafda": "2026-11-20T13:46:04.116016+00:00",
+  "fef5067525b0": "2026-11-20T13:46:04.116016+00:00",
+  "8def651d364c": "2026-11-20T13:46:04.116016+00:00"
  }
 }
