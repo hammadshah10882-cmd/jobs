@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:46:04.116016+00:00",
+ "updated": "2026-11-20T22:04:16.674133+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -143,6 +143,25 @@
    "first_seen": "2026-11-20T13:46:04.116016+00:00"
   },
   {
+   "id": "5060f6116902",
+   "title": "Thermo-Mechanical Engineer",
+   "company": "The Exploration Company",
+   "location": "Bordeaux, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/thermo-mechanical-engineer-bordeaux-147977",
+   "source": "Arbeitnow",
+   "score": 80,
+   "sponsor": true,
+   "reasons": [
+    "Sponsorship/relocation likha hai",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-20T21:40:14+00:00",
+   "first_seen": "2026-11-20T22:04:16.674133+00:00"
+  },
+  {
    "id": "aa6704a45568",
    "title": "Technician",
    "company": "Enactintelligence",
@@ -179,25 +198,6 @@
    ],
    "posted": "2026-11-18T00:40:32+00:00",
    "first_seen": "2026-11-18T01:58:54.296154+00:00"
-  },
-  {
-   "id": "36dd5bb3e9d5",
-   "title": "Product Assurance Manager (w/f/d) - Space Hardware / Mechanics",
-   "company": "My Project Box",
-   "location": "Munich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/my-project-box/product-assurance-manager-space-hardware-mechanics-munich-288162",
-   "source": "Arbeitnow",
-   "score": 50,
-   "sponsor": false,
-   "reasons": [
-    "Rehaish ya safar ka zikr",
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-13T12:30:58+00:00",
-   "first_seen": "2026-11-13T21:07:42.918260+00:00"
   },
   {
    "id": "fd756a648d42",
@@ -1002,24 +1002,6 @@
    "first_seen": "2026-11-19T18:45:52.166542+00:00"
   },
   {
-   "id": "9f311ea80165",
-   "title": "Senior Mechanical Designer",
-   "company": "CDDS AG",
-   "location": "Zürich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/cdds-ag/senior-mechanical-designer-zurich-81528",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-19T15:00:52+00:00",
-   "first_seen": "2026-11-19T18:45:52.166542+00:00"
-  },
-  {
    "id": "0692b88326fb",
    "title": "Technician Garching (m/w/d)",
    "company": "Rohlik",
@@ -1182,24 +1164,6 @@
    "first_seen": "2026-11-19T18:45:52.166542+00:00"
   },
   {
-   "id": "2c573210489d",
-   "title": "Senior Mechanical Design Engineer (Power Electronics)",
-   "company": "Hyperscale Power",
-   "location": "Zürich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/hyperscale-power/senior-mechanical-design-engineer-power-electronics-zurich-483575",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-19T21:40:33+00:00",
-   "first_seen": "2026-11-20T01:35:19.207176+00:00"
-  },
-  {
    "id": "70768b0dc10f",
    "title": "Laboratory Technician",
    "company": "Basecamp Research",
@@ -1324,6 +1288,150 @@
    ],
    "posted": "2026-11-20T04:20:15+00:00",
    "first_seen": "2026-11-20T13:46:04.116016+00:00"
+  },
+  {
+   "id": "565e60048d59",
+   "title": "Kfz-Mechatroniker:in / Kfz-Mechaniker:in (m/w/d) – Campervan-Flotte München",
+   "company": "Roadsurfer",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/kfz-mechatronikerin-kfz-mechanikerin-campervan-flotte-munchen-munich-332433",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-20T21:40:18+00:00",
+   "first_seen": "2026-11-20T22:04:16.674133+00:00"
+  },
+  {
+   "id": "fac8b07370b8",
+   "title": "Senior Expert (w/m/d) - Logistics Management Systems",
+   "company": "Miebach Consulting GmbH",
+   "location": "Frankfurt am Main, Hessen, Deutschland",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/miebach-consulting-gmbh/senior-expert-logistics-management-systems-frankfurt-am-main-337349",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-20T21:31:20+00:00",
+   "first_seen": "2026-11-20T22:04:16.674133+00:00"
+  },
+  {
+   "id": "2b76ae4c3825",
+   "title": "Senior Compliance Manager & Information Security Officer (ISO) (f/m/d)",
+   "company": "Accurids GmbH",
+   "location": "Cologne",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Security",
+   "url": "https://www.arbeitnow.com/jobs/companies/accurids-gmbh/senior-compliance-manager-information-security-officer-iso-cologne-127371",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-20T18:47:35+00:00",
+   "first_seen": "2026-11-20T22:04:16.674133+00:00"
+  },
+  {
+   "id": "e679d81dda0e",
+   "title": "Retention & CLV Operator (all genders)",
+   "company": "Glow25 (by Primal State Performance GmbH)",
+   "location": "Berlin",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.com/jobs/companies/glow25-by-primal-state-performance-gmbh/retention-clv-operator-all-genders-berlin-399114",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-20T14:01:22+00:00",
+   "first_seen": "2026-11-20T22:04:16.674133+00:00"
+  },
+  {
+   "id": "584b06d42cc0",
+   "title": "Growth Acquisition Operator (all genders)",
+   "company": "Glow25 (by Primal State Performance GmbH)",
+   "location": "Berlin",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.com/jobs/companies/glow25-by-primal-state-performance-gmbh/growth-acquisition-operator-all-genders-berlin-290724",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-20T14:01:22+00:00",
+   "first_seen": "2026-11-20T22:04:16.674133+00:00"
+  },
+  {
+   "id": "43f214ac90cf",
+   "title": "Graduate Mechanical Engineer (2027 start)",
+   "company": "Cambridgeconsultantslimited",
+   "location": "",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-mechanical-engineer-2027-start-176453",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-20T03:55:20+00:00",
+   "first_seen": "2026-11-20T22:04:16.674133+00:00"
+  },
+  {
+   "id": "9f311ea80165",
+   "title": "Senior Mechanical Designer",
+   "company": "CDDS AG",
+   "location": "Zürich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/cdds-ag/senior-mechanical-designer-zurich-81528",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-19T15:00:52+00:00",
+   "first_seen": "2026-11-19T18:45:52.166542+00:00"
+  },
+  {
+   "id": "2c573210489d",
+   "title": "Senior Mechanical Design Engineer (Power Electronics)",
+   "company": "Hyperscale Power",
+   "location": "Zürich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/hyperscale-power/senior-mechanical-design-engineer-power-electronics-zurich-483575",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-19T21:40:33+00:00",
+   "first_seen": "2026-11-20T01:35:19.207176+00:00"
   },
   {
    "id": "ae7dae7f136d",
@@ -1756,78 +1864,6 @@
    ],
    "posted": "2026-11-14T00:31:34+00:00",
    "first_seen": "2026-11-14T04:26:13.077760+00:00"
-  },
-  {
-   "id": "8c2431470abc",
-   "title": "Chef de Projet Marketing Digital CDD de remplacement 3 mois H/F",
-   "company": "RUN Services",
-   "location": "Nanterre",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/run-services/chef-de-projet-marketing-digital-cdd-de-remplacement-3-mois-h-f-nanterre-83261",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-13T20:00:41+00:00",
-   "first_seen": "2026-11-13T21:07:42.918260+00:00"
-  },
-  {
-   "id": "4055d563d5d5",
-   "title": "Chef.fe de Projet numérique en santé / Project Manager Healthtech",
-   "company": "Lifen",
-   "location": "Paris",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/lifen/cheffe-de-projet-numerique-en-sante-project-manager-healthtech-paris-399870",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-13T15:40:18+00:00",
-   "first_seen": "2026-11-13T21:07:42.918260+00:00"
-  },
-  {
-   "id": "aff916bfe44d",
-   "title": "Stage - Assistant.e Chef de Produit PAP Maille et Jersey H/F",
-   "company": "AMI PARIS",
-   "location": "Paris, Île-de-France, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/ami-paris/stage-assistante-chef-de-produit-pap-maille-et-jersey-h-f-paris-202510",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-13T15:31:35+00:00",
-   "first_seen": "2026-11-13T21:07:42.918260+00:00"
-  },
-  {
-   "id": "609846cf433e",
-   "title": "Stage - Assistant.e Chef de Produit PAP Cuir, Denim et Capsules H/F",
-   "company": "AMI PARIS",
-   "location": "Paris, Île-de-France, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/ami-paris/stage-assistante-chef-de-produit-pap-cuir-denim-et-capsules-h-f-paris-138835",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-13T15:31:35+00:00",
-   "first_seen": "2026-11-13T21:07:42.918260+00:00"
   }
  ],
  "expired": {
@@ -1908,6 +1944,11 @@
   "c4690c088f7d": "2026-11-20T01:35:19.207176+00:00",
   "bc81b25cafda": "2026-11-20T13:46:04.116016+00:00",
   "fef5067525b0": "2026-11-20T13:46:04.116016+00:00",
-  "8def651d364c": "2026-11-20T13:46:04.116016+00:00"
+  "8def651d364c": "2026-11-20T13:46:04.116016+00:00",
+  "36dd5bb3e9d5": "2026-11-20T22:04:16.674133+00:00",
+  "8c2431470abc": "2026-11-20T22:04:16.674133+00:00",
+  "4055d563d5d5": "2026-11-20T22:04:16.674133+00:00",
+  "aff916bfe44d": "2026-11-20T22:04:16.674133+00:00",
+  "609846cf433e": "2026-11-20T22:04:16.674133+00:00"
  }
 }
