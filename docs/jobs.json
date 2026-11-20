@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:45:52.166542+00:00",
+ "updated": "2026-11-20T01:35:19.207176+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -274,42 +274,6 @@
    ],
    "posted": "2026-11-18T03:55:23+00:00",
    "first_seen": "2026-11-18T13:36:53.694559+00:00"
-  },
-  {
-   "id": "a4492e1900d7",
-   "title": "Chefarzt (m/w/d) Neurologie",
-   "company": "PraxisEins",
-   "location": "Migräne- und Kopfschmerzklinik Königstein",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.com/jobs/companies/praxiseins/chefarzt-neurologie-konigstein-im-taunus-66618",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-12T18:40:17+00:00",
-   "first_seen": "2026-11-13T00:50:24.896005+00:00"
-  },
-  {
-   "id": "c4690c088f7d",
-   "title": "Field Solutions Technician (m/f/d)",
-   "company": "RobCo",
-   "location": "Munich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/robco/field-solutions-technician-munich-255021",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-12T18:40:16+00:00",
-   "first_seen": "2026-11-13T00:50:24.896005+00:00"
   },
   {
    "id": "bc81b25cafda",
@@ -1122,6 +1086,78 @@
    "first_seen": "2026-11-19T18:45:52.166542+00:00"
   },
   {
+   "id": "2c573210489d",
+   "title": "Senior Mechanical Design Engineer (Power Electronics)",
+   "company": "Hyperscale Power",
+   "location": "Zürich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/hyperscale-power/senior-mechanical-design-engineer-power-electronics-zurich-483575",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T21:40:33+00:00",
+   "first_seen": "2026-11-20T01:35:19.207176+00:00"
+  },
+  {
+   "id": "70768b0dc10f",
+   "title": "Laboratory Technician",
+   "company": "Basecamp Research",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/basecamp-research/laboratory-technician-london-235260",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T21:40:30+00:00",
+   "first_seen": "2026-11-20T01:35:19.207176+00:00"
+  },
+  {
+   "id": "ec6e9bc00e8c",
+   "title": "Strategic Account Director, Logistics",
+   "company": "Altanaai",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/altanaai/strategic-account-director-logistics-london-380013",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T18:55:38+00:00",
+   "first_seen": "2026-11-20T01:35:19.207176+00:00"
+  },
+  {
+   "id": "2b8e160f6cfd",
+   "title": "Engineering Lead (Drivers & Delivery)",
+   "company": "Hived",
+   "location": "London HQ",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Driving & Transport",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/hived/engineering-lead-drivers-delivery-london-431940",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-19T18:40:29+00:00",
+   "first_seen": "2026-11-20T01:35:19.207176+00:00"
+  },
+  {
    "id": "ae7dae7f136d",
    "title": "EDISYS - Responsable commercial / Account Executive - Construction et BTP (H/F) - CDI",
    "company": "INTESCIA GROUP",
@@ -1735,6 +1771,8 @@
   "54330dede5fe": "2026-11-19T18:45:52.166542+00:00",
   "4d596609fa39": "2026-11-19T18:45:52.166542+00:00",
   "e2c1bbb04284": "2026-11-19T18:45:52.166542+00:00",
-  "2113902a0af4": "2026-11-19T18:45:52.166542+00:00"
+  "2113902a0af4": "2026-11-19T18:45:52.166542+00:00",
+  "a4492e1900d7": "2026-11-20T01:35:19.207176+00:00",
+  "c4690c088f7d": "2026-11-20T01:35:19.207176+00:00"
  }
 }
