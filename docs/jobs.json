@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T05:03:47.011207+00:00",
+ "updated": "2026-11-21T17:02:09.516199+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -1219,24 +1219,6 @@
    "first_seen": "2026-11-20T01:35:19.207176+00:00"
   },
   {
-   "id": "ec33af54dd10",
-   "title": "Systemadministrator (m/w/d) / DevOps Engineer für Linux- und Kubernetes-basierte OSS-Infrastrukturen",
-   "company": "Biz Factory GmbH",
-   "location": "Berlin",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Care & Support",
-   "url": "https://www.arbeitnow.com/jobs/companies/biz-factory-gmbh/systemadministrator-devops-engineer-fur-linux-und-kubernetes-basierte-oss-infrastrukturen-berlin-183922",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-20T12:31:00+00:00",
-   "first_seen": "2026-11-20T13:46:04.116016+00:00"
-  },
-  {
    "id": "7a8d6e0247c8",
    "title": "Data Engineer – Data Warehouse & AI Foundation (m/w/d)",
    "company": "GENO Broker GmbH",
@@ -1309,42 +1291,6 @@
    "first_seen": "2026-11-20T22:04:16.674133+00:00"
   },
   {
-   "id": "e679d81dda0e",
-   "title": "Retention & CLV Operator (all genders)",
-   "company": "Glow25 (by Primal State Performance GmbH)",
-   "location": "Berlin",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Factory & Production",
-   "url": "https://www.arbeitnow.com/jobs/companies/glow25-by-primal-state-performance-gmbh/retention-clv-operator-all-genders-berlin-399114",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-20T14:01:22+00:00",
-   "first_seen": "2026-11-20T22:04:16.674133+00:00"
-  },
-  {
-   "id": "584b06d42cc0",
-   "title": "Growth Acquisition Operator (all genders)",
-   "company": "Glow25 (by Primal State Performance GmbH)",
-   "location": "Berlin",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Factory & Production",
-   "url": "https://www.arbeitnow.com/jobs/companies/glow25-by-primal-state-performance-gmbh/growth-acquisition-operator-all-genders-berlin-290724",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-20T14:01:22+00:00",
-   "first_seen": "2026-11-20T22:04:16.674133+00:00"
-  },
-  {
    "id": "43f214ac90cf",
    "title": "Graduate Mechanical Engineer (2027 start)",
    "company": "Cambridgeconsultantslimited",
@@ -1379,6 +1325,258 @@
    ],
    "posted": "2026-11-21T02:20:10+00:00",
    "first_seen": "2026-11-21T05:03:47.011207+00:00"
+  },
+  {
+   "id": "3ccdf332c557",
+   "title": "Engineering Technician",
+   "company": "Proxima Fusion GmbH",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/engineering-technician-munich-20102",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-21T09:40:15+00:00",
+   "first_seen": "2026-11-21T17:02:09.516199+00:00"
+  },
+  {
+   "id": "0149915097cc",
+   "title": "Maintenance Technician",
+   "company": "Proxima Fusion GmbH",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/maintenance-technician-munich-447427",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-21T09:40:15+00:00",
+   "first_seen": "2026-11-21T17:02:09.516199+00:00"
+  },
+  {
+   "id": "0910a9a55a92",
+   "title": "Manufacturing Technician",
+   "company": "Proxima Fusion GmbH",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/manufacturing-technician-munich-441580",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-21T09:40:15+00:00",
+   "first_seen": "2026-11-21T17:02:09.516199+00:00"
+  },
+  {
+   "id": "a572bca5869d",
+   "title": "Production Technician",
+   "company": "Proxima Fusion GmbH",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/production-technician-munich-207420",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-21T09:40:15+00:00",
+   "first_seen": "2026-11-21T17:02:09.516199+00:00"
+  },
+  {
+   "id": "32d888d08d43",
+   "title": "Senior Event Logistics Specialist",
+   "company": "Privateequityinsights",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-logistics-specialist-london-316483",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-21T15:55:28+00:00",
+   "first_seen": "2026-11-21T17:02:09.516199+00:00"
+  },
+  {
+   "id": "fd2a6048eb57",
+   "title": "Senior Event Logistics Manager",
+   "company": "Privateequityinsights",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-logistics-manager-london-38518",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-21T15:55:28+00:00",
+   "first_seen": "2026-11-21T17:02:09.516199+00:00"
+  },
+  {
+   "id": "8410af4e0495",
+   "title": "Senior Event Logistics Lead",
+   "company": "Privateequityinsights",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-logistics-lead-london-142584",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-21T15:55:28+00:00",
+   "first_seen": "2026-11-21T17:02:09.516199+00:00"
+  },
+  {
+   "id": "3f0f34ff2191",
+   "title": "Senior Event Logistics Executive",
+   "company": "Privateequityinsights",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-logistics-executive-london-347210",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-21T15:55:28+00:00",
+   "first_seen": "2026-11-21T17:02:09.516199+00:00"
+  },
+  {
+   "id": "23fce4d8cc01",
+   "title": "Senior Event Logistics Coordinator",
+   "company": "Privateequityinsights",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-logistics-coordinator-london-353934",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-21T15:55:28+00:00",
+   "first_seen": "2026-11-21T17:02:09.516199+00:00"
+  },
+  {
+   "id": "febc44666ca3",
+   "title": "Senior Event Logistics Associate",
+   "company": "Privateequityinsights",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-event-logistics-associate-london-52044",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-21T15:55:28+00:00",
+   "first_seen": "2026-11-21T17:02:09.516199+00:00"
+  },
+  {
+   "id": "5442bc87ec5d",
+   "title": "Chef d'équipe logistique (H/F)",
+   "company": "Teampicnic",
+   "location": "Fretin, Nord",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/teampicnic/chef-dequipe-logistique-h-f-fretin-nord-52145",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-21T12:55:31+00:00",
+   "first_seen": "2026-11-21T17:02:09.516199+00:00"
+  },
+  {
+   "id": "ec33af54dd10",
+   "title": "Systemadministrator (m/w/d) / DevOps Engineer für Linux- und Kubernetes-basierte OSS-Infrastrukturen",
+   "company": "Biz Factory GmbH",
+   "location": "Berlin",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Care & Support",
+   "url": "https://www.arbeitnow.com/jobs/companies/biz-factory-gmbh/systemadministrator-devops-engineer-fur-linux-und-kubernetes-basierte-oss-infrastrukturen-berlin-183922",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-20T12:31:00+00:00",
+   "first_seen": "2026-11-20T13:46:04.116016+00:00"
+  },
+  {
+   "id": "e679d81dda0e",
+   "title": "Retention & CLV Operator (all genders)",
+   "company": "Glow25 (by Primal State Performance GmbH)",
+   "location": "Berlin",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.com/jobs/companies/glow25-by-primal-state-performance-gmbh/retention-clv-operator-all-genders-berlin-399114",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-20T14:01:22+00:00",
+   "first_seen": "2026-11-20T22:04:16.674133+00:00"
+  },
+  {
+   "id": "584b06d42cc0",
+   "title": "Growth Acquisition Operator (all genders)",
+   "company": "Glow25 (by Primal State Performance GmbH)",
+   "location": "Berlin",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.com/jobs/companies/glow25-by-primal-state-performance-gmbh/growth-acquisition-operator-all-genders-berlin-290724",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-20T14:01:22+00:00",
+   "first_seen": "2026-11-20T22:04:16.674133+00:00"
   },
   {
    "id": "020fea044818",
@@ -1721,60 +1919,6 @@
    ],
    "posted": "2026-11-14T15:31:42+00:00",
    "first_seen": "2026-11-14T19:38:16.789694+00:00"
-  },
-  {
-   "id": "b0e17f6723e9",
-   "title": "Mechanical Design Engineer",
-   "company": "Proxima Fusion GmbH",
-   "location": "Munich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/mechanical-design-engineer-munich-174564",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-14T09:40:20+00:00",
-   "first_seen": "2026-11-14T11:53:26.028380+00:00"
-  },
-  {
-   "id": "0f2eae2965a3",
-   "title": "Assistant.e Chef(fe) de projet évènementiel (stage)",
-   "company": "Artefactlinkedin",
-   "location": "9th arrondissement of Paris, 75009, Paris",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/assistante-cheffe-de-projet-evenementiel-stage-9th-arrondissement-of-paris-75009-paris-344696",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-14T09:55:27+00:00",
-   "first_seen": "2026-11-14T11:53:26.028380+00:00"
-  },
-  {
-   "id": "30403573ed05",
-   "title": "Mechanical Engineer - Control Node",
-   "company": "Destinusgroup",
-   "location": "Zürich, Switzerland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/destinusgroup/mechanical-engineer-control-node-zurich-68036",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-14T06:20:07+00:00",
-   "first_seen": "2026-11-14T11:53:26.028380+00:00"
   }
  ],
  "expired": {
@@ -1867,6 +2011,9 @@
   "31684e8d1b26": "2026-11-21T05:03:47.011207+00:00",
   "78c5d72281c2": "2026-11-21T05:03:47.011207+00:00",
   "a7f427166a6a": "2026-11-21T05:03:47.011207+00:00",
-  "6d81d5a543e5": "2026-11-21T05:03:47.011207+00:00"
+  "6d81d5a543e5": "2026-11-21T05:03:47.011207+00:00",
+  "b0e17f6723e9": "2026-11-21T17:02:09.516199+00:00",
+  "0f2eae2965a3": "2026-11-21T17:02:09.516199+00:00",
+  "30403573ed05": "2026-11-21T17:02:09.516199+00:00"
  }
 }
