@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T22:04:16.674133+00:00",
+ "updated": "2026-11-21T05:03:47.011207+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -350,6 +350,25 @@
    ],
    "posted": "2026-11-20T06:40:11+00:00",
    "first_seen": "2026-11-20T13:46:04.116016+00:00"
+  },
+  {
+   "id": "c7f25e285b49",
+   "title": "Lead Mechanical Engineer H/F Heat Pumps - France",
+   "company": "Octopus Energy Group",
+   "location": "Paris (FR)",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.fr/jobs/companies/octopus-energy-group/lead-mechanical-engineer-h-f-heat-pumps-france-paris-fr-35310",
+   "source": "Arbeitnow",
+   "score": 50,
+   "sponsor": false,
+   "reasons": [
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-21T03:26:44+00:00",
+   "first_seen": "2026-11-21T05:03:47.011207+00:00"
   },
   {
    "id": "db4ac61e2239",
@@ -930,24 +949,6 @@
    "first_seen": "2026-11-19T05:24:27.001889+00:00"
   },
   {
-   "id": "e8f61d3a84e1",
-   "title": "[BA/JC] Lagerist / Warehouse worker (m/f/d)",
-   "company": "Sereact GmbH",
-   "location": "Stuttgart Schockenriedstr. 17",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/ba-jc-lagerist-warehouse-worker-stuttgart-256498",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-19T06:40:19+00:00",
-   "first_seen": "2026-11-14T04:26:13.077760+00:00"
-  },
-  {
    "id": "ff9759fed748",
    "title": "Senior Mechanical / Electrical System Integration Lead",
    "company": "OnTarget Communications",
@@ -1254,42 +1255,6 @@
    "first_seen": "2026-11-20T13:46:04.116016+00:00"
   },
   {
-   "id": "020fea044818",
-   "title": "Senior Account Manager - Warehouse Automation - BENELUX",
-   "company": "Exotec",
-   "location": "Netherlands",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-20T04:20:15+00:00",
-   "first_seen": "2026-11-20T13:46:04.116016+00:00"
-  },
-  {
-   "id": "8b17f91f882f",
-   "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
-   "company": "Exotec",
-   "location": "Netherlands",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-20T04:20:15+00:00",
-   "first_seen": "2026-11-20T13:46:04.116016+00:00"
-  },
-  {
    "id": "565e60048d59",
    "title": "Kfz-Mechatroniker:in / Kfz-Mechaniker:in (m/w/d) – Campervan-Flotte München",
    "company": "Roadsurfer",
@@ -1396,6 +1361,60 @@
    ],
    "posted": "2026-11-20T03:55:20+00:00",
    "first_seen": "2026-11-20T22:04:16.674133+00:00"
+  },
+  {
+   "id": "bfb8fd97a084",
+   "title": "Stage - Assistant(e) Chef(fe) de Projet Marketing - Projets Spéciaux (H/F)",
+   "company": "Sezane 3",
+   "location": "Paris, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/stage-assistante-cheffe-de-projet-marketing-projets-speciaux-h-f-paris-101408",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-21T02:20:10+00:00",
+   "first_seen": "2026-11-21T05:03:47.011207+00:00"
+  },
+  {
+   "id": "020fea044818",
+   "title": "Senior Account Manager - Warehouse Automation - BENELUX",
+   "company": "Exotec",
+   "location": "Netherlands",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-benelux-netherlands-21998",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-20T04:20:15+00:00",
+   "first_seen": "2026-11-20T13:46:04.116016+00:00"
+  },
+  {
+   "id": "8b17f91f882f",
+   "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
+   "company": "Exotec",
+   "location": "Netherlands",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.nl/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-netherlands-325427",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-20T04:20:15+00:00",
+   "first_seen": "2026-11-20T13:46:04.116016+00:00"
   },
   {
    "id": "9f311ea80165",
@@ -1756,114 +1775,6 @@
    ],
    "posted": "2026-11-14T06:20:07+00:00",
    "first_seen": "2026-11-14T11:53:26.028380+00:00"
-  },
-  {
-   "id": "34ef4e0f11d6",
-   "title": "Warehouse Trainer / Trainer Logistik (m/w/d)",
-   "company": "Rohlik",
-   "location": "Bischofsheim bei Frankfurt, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/warehouse-trainer-trainer-logistik-bischofsheim-258722",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-14T03:40:24+00:00",
-   "first_seen": "2026-11-14T04:26:13.077760+00:00"
-  },
-  {
-   "id": "6fb8fa53b3e6",
-   "title": "Lagerhelfer / Mitarbeiter Logistik (m/w/d)",
-   "company": "Rohlik",
-   "location": "Schönefeld bei Berlin, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/lagerhelfer-mitarbeiter-logistik-schonefeld-431078",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-14T03:40:24+00:00",
-   "first_seen": "2026-11-14T04:26:13.077760+00:00"
-  },
-  {
-   "id": "31684e8d1b26",
-   "title": "Lagerhelfer / Mitarbeiter Logistik (m/w/d)",
-   "company": "Rohlik",
-   "location": "Garching bei München, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/lagerhelfer-mitarbeiter-logistik-garching-bei-munchen-269720",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-14T03:40:24+00:00",
-   "first_seen": "2026-11-14T04:26:13.077760+00:00"
-  },
-  {
-   "id": "78c5d72281c2",
-   "title": "Lagerist / Lagermitarbeiter (m/f/d)",
-   "company": "Sereact GmbH",
-   "location": "Stuttgart Schockenriedstr. 17",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/sereact-gmbh/lagerist-lagermitarbeiter-stuttgart-104478",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-14T00:40:13+00:00",
-   "first_seen": "2026-11-14T04:26:13.077760+00:00"
-  },
-  {
-   "id": "a7f427166a6a",
-   "title": "Assistant.e Chef(fe) de projet évènementiel (stage)",
-   "company": "Artefactjobs",
-   "location": "9th arrondissement of Paris, 75009, Paris",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/assistante-cheffe-de-projet-evenementiel-stage-9th-arrondissement-of-paris-75009-paris-46139",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-14T00:55:27+00:00",
-   "first_seen": "2026-11-14T04:26:13.077760+00:00"
-  },
-  {
-   "id": "6d81d5a543e5",
-   "title": "Ingénieur Méthodes Opérations et Maintenance (H/F)",
-   "company": "EXOCETH CONSULTING",
-   "location": "Nantes, Pays de la Loire, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.fr/jobs/companies/exoceth-consulting/ingenieur-methodes-operations-et-maintenance-h-f-nantes-426238",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-14T00:31:34+00:00",
-   "first_seen": "2026-11-14T04:26:13.077760+00:00"
   }
  ],
  "expired": {
@@ -1949,6 +1860,13 @@
   "8c2431470abc": "2026-11-20T22:04:16.674133+00:00",
   "4055d563d5d5": "2026-11-20T22:04:16.674133+00:00",
   "aff916bfe44d": "2026-11-20T22:04:16.674133+00:00",
-  "609846cf433e": "2026-11-20T22:04:16.674133+00:00"
+  "609846cf433e": "2026-11-20T22:04:16.674133+00:00",
+  "e8f61d3a84e1": "2026-11-21T05:03:47.011207+00:00",
+  "34ef4e0f11d6": "2026-11-21T05:03:47.011207+00:00",
+  "6fb8fa53b3e6": "2026-11-21T05:03:47.011207+00:00",
+  "31684e8d1b26": "2026-11-21T05:03:47.011207+00:00",
+  "78c5d72281c2": "2026-11-21T05:03:47.011207+00:00",
+  "a7f427166a6a": "2026-11-21T05:03:47.011207+00:00",
+  "6d81d5a543e5": "2026-11-21T05:03:47.011207+00:00"
  }
 }
