@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:58:25.911203+00:00",
+ "updated": "2026-11-22T20:53:35.299512+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -47,63 +47,6 @@
   "Welding & Fabrication"
  ],
  "jobs": [
-  {
-   "id": "2b569f1cb397",
-   "title": "AIT Test & Assembly Technician",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-test-assembly-technician-munich-462971",
-   "source": "Arbeitnow",
-   "score": 80,
-   "sponsor": true,
-   "reasons": [
-    "Sponsorship/relocation likha hai",
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-15T15:40:14+00:00",
-   "first_seen": "2026-11-15T20:04:16.479487+00:00"
-  },
-  {
-   "id": "a1a8ba620c3e",
-   "title": "AIT Mechanical Technician - Thermal Protection System",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-mechanical-technician-thermal-protection-system-munich-416618",
-   "source": "Arbeitnow",
-   "score": 80,
-   "sponsor": true,
-   "reasons": [
-    "Sponsorship/relocation likha hai",
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-15T15:40:14+00:00",
-   "first_seen": "2026-11-15T20:04:16.479487+00:00"
-  },
-  {
-   "id": "48e5fe57e445",
-   "title": "AIT Senior Test Technician",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-senior-test-technician-munich-48849",
-   "source": "Arbeitnow",
-   "score": 80,
-   "sponsor": true,
-   "reasons": [
-    "Sponsorship/relocation likha hai",
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-15T15:40:14+00:00",
-   "first_seen": "2026-11-15T20:04:16.479487+00:00"
-  },
   {
    "id": "883097e53e14",
    "title": "Non-linear Analyses Mechanical Engineer",
@@ -1363,24 +1306,6 @@
    "first_seen": "2026-11-21T17:02:09.516199+00:00"
   },
   {
-   "id": "697d4a2833a9",
-   "title": "Senior AI Platform Engineer - Data Factory (f/m/d)",
-   "company": "Decathlontechnology",
-   "location": "Paris, Paris; Villeneuve-d'Ascq, Nord",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Factory & Production",
-   "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-ai-platform-engineer-data-factory-paris-paris-villeneuve-dascq-nord-441555",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-21T18:55:33+00:00",
-   "first_seen": "2026-11-22T00:00:19.262199+00:00"
-  },
-  {
    "id": "5cbd16b37f00",
    "title": "Retention & CLV Operator (all genders)",
    "company": "Glow25",
@@ -1469,6 +1394,60 @@
    ],
    "posted": "2026-11-22T03:07:41+00:00",
    "first_seen": "2026-11-22T12:58:25.911203+00:00"
+  },
+  {
+   "id": "d990fbace07f",
+   "title": "Bauleiter / Projektleiter Innenausbau - Hotelbau/Hospitality (m/w/d)",
+   "company": "Marwio GmbH",
+   "location": "Hamm",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.com/jobs/companies/marwio-gmbh/bauleiter-projektleiter-innenausbau-hotelbau-hospitality-hamm-256579",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-22T15:01:01+00:00",
+   "first_seen": "2026-11-22T20:53:35.299512+00:00"
+  },
+  {
+   "id": "28792d5a0cf5",
+   "title": "Servicetechniker (m/w/d) Elektroniker / Elektriker / Elektrofachkraft München",
+   "company": "ACU Prüfservice Knut Simon",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/acu-prufservice-knut-simon/servicetechniker-elektroniker-elektriker-elektrofachkraft-munchen-munich-293622",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-22T15:00:46+00:00",
+   "first_seen": "2026-11-22T20:53:35.299512+00:00"
+  },
+  {
+   "id": "697d4a2833a9",
+   "title": "Senior AI Platform Engineer - Data Factory (f/m/d)",
+   "company": "Decathlontechnology",
+   "location": "Paris, Paris; Villeneuve-d'Ascq, Nord",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-ai-platform-engineer-data-factory-paris-paris-villeneuve-dascq-nord-441555",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-21T18:55:33+00:00",
+   "first_seen": "2026-11-22T00:00:19.262199+00:00"
   },
   {
    "id": "bfb8fd97a084",
@@ -1937,42 +1916,6 @@
    ],
    "posted": "2026-11-16T15:31:23+00:00",
    "first_seen": "2026-11-16T23:36:48.189628+00:00"
-  },
-  {
-   "id": "b82b69a82352",
-   "title": "Staff Machine Learning Engineer (TLM), Driver Understanding and Evaluation",
-   "company": "Waymo",
-   "location": "London",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Driving & Transport",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/staff-machine-learning-engineer-tlm-driver-understanding-and-evaluation-london-160812",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-15T15:55:25+00:00",
-   "first_seen": "2026-11-15T20:04:16.479487+00:00"
-  },
-  {
-   "id": "ae963f40bcd0",
-   "title": "Chef.fe de Projet Applicatifs Hôpitaux",
-   "company": "Lifen",
-   "location": "Paris",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/lifen/cheffe-de-projet-applicatifs-hopitaux-paris-260176",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-15T12:40:17+00:00",
-   "first_seen": "2026-11-15T20:04:16.479487+00:00"
   }
  ],
  "expired": {
@@ -2071,6 +2014,11 @@
   "30403573ed05": "2026-11-21T17:02:09.516199+00:00",
   "bd8aaebe4a02": "2026-11-22T00:00:19.262199+00:00",
   "50b0b1dc6c64": "2026-11-22T00:00:19.262199+00:00",
-  "50387fe646ad": "2026-11-22T12:58:25.911203+00:00"
+  "50387fe646ad": "2026-11-22T12:58:25.911203+00:00",
+  "2b569f1cb397": "2026-11-22T20:53:35.299512+00:00",
+  "a1a8ba620c3e": "2026-11-22T20:53:35.299512+00:00",
+  "48e5fe57e445": "2026-11-22T20:53:35.299512+00:00",
+  "b82b69a82352": "2026-11-22T20:53:35.299512+00:00",
+  "ae963f40bcd0": "2026-11-22T20:53:35.299512+00:00"
  }
 }
