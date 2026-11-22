@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T00:00:19.262199+00:00",
+ "updated": "2026-11-22T12:58:25.911203+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -361,11 +361,11 @@
    "field": "Electrical & Mechanical",
    "url": "https://www.arbeitnow.fr/jobs/companies/octopus-energy-group/lead-mechanical-engineer-h-f-heat-pumps-france-paris-fr-35310",
    "source": "Arbeitnow",
-   "score": 50,
+   "score": 42,
    "sponsor": false,
    "reasons": [
     "Rehaish ya safar ka zikr",
-    "Bilkul nayi (24 ghante)"
+    "Nayi (3 din)"
    ],
    "posted": "2026-11-21T03:26:44+00:00",
    "first_seen": "2026-11-21T05:03:47.011207+00:00"
@@ -1255,96 +1255,6 @@
    "first_seen": "2026-11-20T22:04:16.674133+00:00"
   },
   {
-   "id": "bfb8fd97a084",
-   "title": "Stage - Assistant(e) Chef(fe) de Projet Marketing - Projets Spéciaux (H/F)",
-   "company": "Sezane 3",
-   "location": "Paris, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/stage-assistante-cheffe-de-projet-marketing-projets-speciaux-h-f-paris-101408",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-21T02:20:10+00:00",
-   "first_seen": "2026-11-21T05:03:47.011207+00:00"
-  },
-  {
-   "id": "3ccdf332c557",
-   "title": "Engineering Technician",
-   "company": "Proxima Fusion GmbH",
-   "location": "Munich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/engineering-technician-munich-20102",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-21T09:40:15+00:00",
-   "first_seen": "2026-11-21T17:02:09.516199+00:00"
-  },
-  {
-   "id": "0149915097cc",
-   "title": "Maintenance Technician",
-   "company": "Proxima Fusion GmbH",
-   "location": "Munich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/maintenance-technician-munich-447427",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-21T09:40:15+00:00",
-   "first_seen": "2026-11-21T17:02:09.516199+00:00"
-  },
-  {
-   "id": "0910a9a55a92",
-   "title": "Manufacturing Technician",
-   "company": "Proxima Fusion GmbH",
-   "location": "Munich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/manufacturing-technician-munich-441580",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-21T09:40:15+00:00",
-   "first_seen": "2026-11-21T17:02:09.516199+00:00"
-  },
-  {
-   "id": "a572bca5869d",
-   "title": "Production Technician",
-   "company": "Proxima Fusion GmbH",
-   "location": "Munich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/production-technician-munich-207420",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-21T09:40:15+00:00",
-   "first_seen": "2026-11-21T17:02:09.516199+00:00"
-  },
-  {
    "id": "32d888d08d43",
    "title": "Senior Event Logistics Specialist",
    "company": "Privateequityinsights",
@@ -1453,24 +1363,6 @@
    "first_seen": "2026-11-21T17:02:09.516199+00:00"
   },
   {
-   "id": "5442bc87ec5d",
-   "title": "Chef d'équipe logistique (H/F)",
-   "company": "Teampicnic",
-   "location": "Fretin, Nord",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/teampicnic/chef-dequipe-logistique-h-f-fretin-nord-52145",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-21T12:55:31+00:00",
-   "first_seen": "2026-11-21T17:02:09.516199+00:00"
-  },
-  {
    "id": "697d4a2833a9",
    "title": "Senior AI Platform Engineer - Data Factory (f/m/d)",
    "company": "Decathlontechnology",
@@ -1487,6 +1379,204 @@
    ],
    "posted": "2026-11-21T18:55:33+00:00",
    "first_seen": "2026-11-22T00:00:19.262199+00:00"
+  },
+  {
+   "id": "5cbd16b37f00",
+   "title": "Retention & CLV Operator (all genders)",
+   "company": "Glow25",
+   "location": "Remote - Europe Only",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.com/jobs/companies/glow25/remote-retention-clv-operator-all-genders-388619",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-22T03:43:11+00:00",
+   "first_seen": "2026-11-22T12:58:25.911203+00:00"
+  },
+  {
+   "id": "0c2068abeacf",
+   "title": "Growth Acquisition Operator (all genders)",
+   "company": "Glow25",
+   "location": "Remote - Europe Only",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.com/jobs/companies/glow25/remote-growth-acquisition-operator-all-genders-455935",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-22T03:43:11+00:00",
+   "first_seen": "2026-11-22T12:58:25.911203+00:00"
+  },
+  {
+   "id": "6dc77fcaaa26",
+   "title": "Senior Mechanical Engineer (f/m/d)",
+   "company": "isaraerospace",
+   "location": "Parsdorf, Bavaria",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/senior-mechanical-engineer-parsdorf-bavaria-69004",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-22T00:55:23+00:00",
+   "first_seen": "2026-11-22T12:58:25.911203+00:00"
+  },
+  {
+   "id": "d1dfd596b4a0",
+   "title": "Senior Warehouse Design Manager (all genders)",
+   "company": "hellofresh",
+   "location": "Magdeburg, Saxony-Anhalt",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-warehouse-design-manager-all-genders-magdeburg-saxony-anhalt-399090",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-22T00:55:23+00:00",
+   "first_seen": "2026-11-22T12:58:25.911203+00:00"
+  },
+  {
+   "id": "df197d6d1878",
+   "title": "Intern AI Researcher: Anomaly Detection for Predictive Maintenance in Distributed Storage",
+   "company": "Scality",
+   "location": "Paris, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.fr/jobs/companies/scality/intern-ai-researcher-anomaly-detection-for-predictive-maintenance-in-distributed-storage-paris-france-483265",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-22T03:07:41+00:00",
+   "first_seen": "2026-11-22T12:58:25.911203+00:00"
+  },
+  {
+   "id": "bfb8fd97a084",
+   "title": "Stage - Assistant(e) Chef(fe) de Projet Marketing - Projets Spéciaux (H/F)",
+   "company": "Sezane 3",
+   "location": "Paris, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/stage-assistante-cheffe-de-projet-marketing-projets-speciaux-h-f-paris-101408",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-21T02:20:10+00:00",
+   "first_seen": "2026-11-21T05:03:47.011207+00:00"
+  },
+  {
+   "id": "3ccdf332c557",
+   "title": "Engineering Technician",
+   "company": "Proxima Fusion GmbH",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/engineering-technician-munich-20102",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-21T09:40:15+00:00",
+   "first_seen": "2026-11-21T17:02:09.516199+00:00"
+  },
+  {
+   "id": "0149915097cc",
+   "title": "Maintenance Technician",
+   "company": "Proxima Fusion GmbH",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/maintenance-technician-munich-447427",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-21T09:40:15+00:00",
+   "first_seen": "2026-11-21T17:02:09.516199+00:00"
+  },
+  {
+   "id": "0910a9a55a92",
+   "title": "Manufacturing Technician",
+   "company": "Proxima Fusion GmbH",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/manufacturing-technician-munich-441580",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-21T09:40:15+00:00",
+   "first_seen": "2026-11-21T17:02:09.516199+00:00"
+  },
+  {
+   "id": "a572bca5869d",
+   "title": "Production Technician",
+   "company": "Proxima Fusion GmbH",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/proxima-fusion-gmbh/production-technician-munich-207420",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-21T09:40:15+00:00",
+   "first_seen": "2026-11-21T17:02:09.516199+00:00"
+  },
+  {
+   "id": "5442bc87ec5d",
+   "title": "Chef d'équipe logistique (H/F)",
+   "company": "Teampicnic",
+   "location": "Fretin, Nord",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/teampicnic/chef-dequipe-logistique-h-f-fretin-nord-52145",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-21T12:55:31+00:00",
+   "first_seen": "2026-11-21T17:02:09.516199+00:00"
   },
   {
    "id": "565e60048d59",
@@ -1883,24 +1973,6 @@
    ],
    "posted": "2026-11-15T12:40:17+00:00",
    "first_seen": "2026-11-15T20:04:16.479487+00:00"
-  },
-  {
-   "id": "50387fe646ad",
-   "title": "Elektriker (m/w/d)",
-   "company": "Black Semiconductor GmbH",
-   "location": "Aachen, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/elektriker-aachen-280453",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-15T03:40:12+00:00",
-   "first_seen": "2026-11-15T12:25:32.513280+00:00"
   }
  ],
  "expired": {
@@ -1998,6 +2070,7 @@
   "0f2eae2965a3": "2026-11-21T17:02:09.516199+00:00",
   "30403573ed05": "2026-11-21T17:02:09.516199+00:00",
   "bd8aaebe4a02": "2026-11-22T00:00:19.262199+00:00",
-  "50b0b1dc6c64": "2026-11-22T00:00:19.262199+00:00"
+  "50b0b1dc6c64": "2026-11-22T00:00:19.262199+00:00",
+  "50387fe646ad": "2026-11-22T12:58:25.911203+00:00"
  }
 }
