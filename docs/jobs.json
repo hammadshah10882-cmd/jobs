@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T17:02:09.516199+00:00",
+ "updated": "2026-11-22T00:00:19.262199+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -152,11 +152,11 @@
    "field": "Electrical & Mechanical",
    "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/thermo-mechanical-engineer-bordeaux-147977",
    "source": "Arbeitnow",
-   "score": 80,
+   "score": 72,
    "sponsor": true,
    "reasons": [
     "Sponsorship/relocation likha hai",
-    "Bilkul nayi (24 ghante)"
+    "Nayi (3 din)"
    ],
    "posted": "2026-11-20T21:40:14+00:00",
    "first_seen": "2026-11-20T22:04:16.674133+00:00"
@@ -1237,60 +1237,6 @@
    "first_seen": "2026-11-20T13:46:04.116016+00:00"
   },
   {
-   "id": "565e60048d59",
-   "title": "Kfz-Mechatroniker:in / Kfz-Mechaniker:in (m/w/d) – Campervan-Flotte München",
-   "company": "Roadsurfer",
-   "location": "Munich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/kfz-mechatronikerin-kfz-mechanikerin-campervan-flotte-munchen-munich-332433",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-20T21:40:18+00:00",
-   "first_seen": "2026-11-20T22:04:16.674133+00:00"
-  },
-  {
-   "id": "fac8b07370b8",
-   "title": "Senior Expert (w/m/d) - Logistics Management Systems",
-   "company": "Miebach Consulting GmbH",
-   "location": "Frankfurt am Main, Hessen, Deutschland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/miebach-consulting-gmbh/senior-expert-logistics-management-systems-frankfurt-am-main-337349",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-20T21:31:20+00:00",
-   "first_seen": "2026-11-20T22:04:16.674133+00:00"
-  },
-  {
-   "id": "2b76ae4c3825",
-   "title": "Senior Compliance Manager & Information Security Officer (ISO) (f/m/d)",
-   "company": "Accurids GmbH",
-   "location": "Cologne",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Security",
-   "url": "https://www.arbeitnow.com/jobs/companies/accurids-gmbh/senior-compliance-manager-information-security-officer-iso-cologne-127371",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-20T18:47:35+00:00",
-   "first_seen": "2026-11-20T22:04:16.674133+00:00"
-  },
-  {
    "id": "43f214ac90cf",
    "title": "Graduate Mechanical Engineer (2027 start)",
    "company": "Cambridgeconsultantslimited",
@@ -1523,6 +1469,78 @@
    ],
    "posted": "2026-11-21T12:55:31+00:00",
    "first_seen": "2026-11-21T17:02:09.516199+00:00"
+  },
+  {
+   "id": "697d4a2833a9",
+   "title": "Senior AI Platform Engineer - Data Factory (f/m/d)",
+   "company": "Decathlontechnology",
+   "location": "Paris, Paris; Villeneuve-d'Ascq, Nord",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-ai-platform-engineer-data-factory-paris-paris-villeneuve-dascq-nord-441555",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-21T18:55:33+00:00",
+   "first_seen": "2026-11-22T00:00:19.262199+00:00"
+  },
+  {
+   "id": "565e60048d59",
+   "title": "Kfz-Mechatroniker:in / Kfz-Mechaniker:in (m/w/d) – Campervan-Flotte München",
+   "company": "Roadsurfer",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/kfz-mechatronikerin-kfz-mechanikerin-campervan-flotte-munchen-munich-332433",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-20T21:40:18+00:00",
+   "first_seen": "2026-11-20T22:04:16.674133+00:00"
+  },
+  {
+   "id": "fac8b07370b8",
+   "title": "Senior Expert (w/m/d) - Logistics Management Systems",
+   "company": "Miebach Consulting GmbH",
+   "location": "Frankfurt am Main, Hessen, Deutschland",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/miebach-consulting-gmbh/senior-expert-logistics-management-systems-frankfurt-am-main-337349",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-20T21:31:20+00:00",
+   "first_seen": "2026-11-20T22:04:16.674133+00:00"
+  },
+  {
+   "id": "2b76ae4c3825",
+   "title": "Senior Compliance Manager & Information Security Officer (ISO) (f/m/d)",
+   "company": "Accurids GmbH",
+   "location": "Cologne",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Security",
+   "url": "https://www.arbeitnow.com/jobs/companies/accurids-gmbh/senior-compliance-manager-information-security-officer-iso-cologne-127371",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-20T18:47:35+00:00",
+   "first_seen": "2026-11-20T22:04:16.674133+00:00"
   },
   {
    "id": "ec33af54dd10",
@@ -1867,24 +1885,6 @@
    "first_seen": "2026-11-15T20:04:16.479487+00:00"
   },
   {
-   "id": "bd8aaebe4a02",
-   "title": "Warehouse Supervisor - Manchester",
-   "company": "Deliveroo",
-   "location": "Manchester - Western St (Hop)",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-supervisor-manchester-417931",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-14T21:40:11+00:00",
-   "first_seen": "2026-11-14T23:33:51.647702+00:00"
-  },
-  {
    "id": "50387fe646ad",
    "title": "Elektriker (m/w/d)",
    "company": "Black Semiconductor GmbH",
@@ -1901,24 +1901,6 @@
    ],
    "posted": "2026-11-15T03:40:12+00:00",
    "first_seen": "2026-11-15T12:25:32.513280+00:00"
-  },
-  {
-   "id": "50b0b1dc6c64",
-   "title": "Software Provisioning Technician (m/f/d) - UGV",
-   "company": "Quantum-Systems GmbH",
-   "location": "Göppingen, Baden-Württemberg, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/software-provisioning-technician-ugv-goppingen-499660",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-14T15:31:42+00:00",
-   "first_seen": "2026-11-14T19:38:16.789694+00:00"
   }
  ],
  "expired": {
@@ -2014,6 +1996,8 @@
   "6d81d5a543e5": "2026-11-21T05:03:47.011207+00:00",
   "b0e17f6723e9": "2026-11-21T17:02:09.516199+00:00",
   "0f2eae2965a3": "2026-11-21T17:02:09.516199+00:00",
-  "30403573ed05": "2026-11-21T17:02:09.516199+00:00"
+  "30403573ed05": "2026-11-21T17:02:09.516199+00:00",
+  "bd8aaebe4a02": "2026-11-22T00:00:19.262199+00:00",
+  "50b0b1dc6c64": "2026-11-22T00:00:19.262199+00:00"
  }
 }
