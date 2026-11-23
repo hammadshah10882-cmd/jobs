@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:04:12.138200+00:00",
+ "updated": "2026-11-23T21:50:59.931382+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -350,24 +350,6 @@
    ],
    "posted": "2026-11-18T03:55:23+00:00",
    "first_seen": "2026-11-18T13:36:53.694559+00:00"
-  },
-  {
-   "id": "f79933c612a1",
-   "title": "IT Security Officer (m/w/d)",
-   "company": "NXT Hero GmbH",
-   "location": "Leipzig",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Security",
-   "url": "https://www.arbeitnow.com/jobs/companies/nxt-hero-gmbh/it-security-officer-leipzig-233450",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-16T11:01:56+00:00",
-   "first_seen": "2026-11-16T13:17:01.405678+00:00"
   },
   {
    "id": "120d10499064",
@@ -1414,6 +1396,78 @@
    "first_seen": "2026-11-18T22:26:12.119089+00:00"
   },
   {
+   "id": "09ed34f20d16",
+   "title": "Lab Technician",
+   "company": "Halo",
+   "location": "Bristol, UK",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/halo/lab-technician-bristol-334101",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-23T18:40:21+00:00",
+   "first_seen": "2026-11-23T21:50:59.931382+00:00"
+  },
+  {
+   "id": "c1d488743c5f",
+   "title": "Vehicle Integration Technician",
+   "company": "Hive Autonomy",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/hive-autonomy/vehicle-integration-technician-london-158781",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-23T15:40:28+00:00",
+   "first_seen": "2026-11-23T21:50:59.931382+00:00"
+  },
+  {
+   "id": "606e1fe4ae58",
+   "title": "Stage - Assistant(e) Chef de Projet Event France (H/F)",
+   "company": "Sezane 3",
+   "location": "Paris, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/stage-assistante-chef-de-projet-event-france-h-f-paris-109007",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-23T20:20:03+00:00",
+   "first_seen": "2026-11-23T21:50:59.931382+00:00"
+  },
+  {
+   "id": "6455d17d3cf6",
+   "title": "Chef de Projet senior Data Center",
+   "company": "XERUS CONSEIL",
+   "location": "Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/xerus-conseil/chef-de-projet-senior-data-center-paris-19056",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-23T10:01:07+00:00",
+   "first_seen": "2026-11-23T21:50:59.931382+00:00"
+  },
+  {
    "id": "df197d6d1878",
    "title": "Intern AI Researcher: Anomaly Detection for Predictive Maintenance in Distributed Storage",
    "company": "Scality",
@@ -1985,6 +2039,7 @@
   "b82b69a82352": "2026-11-22T20:53:35.299512+00:00",
   "ae963f40bcd0": "2026-11-22T20:53:35.299512+00:00",
   "00a560a14bab": "2026-11-23T05:04:12.138200+00:00",
-  "895bd14b01a1": "2026-11-23T05:04:12.138200+00:00"
+  "895bd14b01a1": "2026-11-23T05:04:12.138200+00:00",
+  "f79933c612a1": "2026-11-23T21:50:59.931382+00:00"
  }
 }
