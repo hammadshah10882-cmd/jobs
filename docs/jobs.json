@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:53:35.299512+00:00",
+ "updated": "2026-11-23T05:04:12.138200+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -350,42 +350,6 @@
    ],
    "posted": "2026-11-18T03:55:23+00:00",
    "first_seen": "2026-11-18T13:36:53.694559+00:00"
-  },
-  {
-   "id": "00a560a14bab",
-   "title": "Senior Mechanical Engineer - Robotic Systems",
-   "company": "Agilerobotsse",
-   "location": "Munich, Bavaria",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/agilerobotsse/senior-mechanical-engineer-robotic-systems-munich-bavaria-66135",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-16T00:55:24+00:00",
-   "first_seen": "2026-11-16T04:10:33.065691+00:00"
-  },
-  {
-   "id": "895bd14b01a1",
-   "title": "Lagermitarbeiter / Picker / Kommissionierer (m/w/d)",
-   "company": "Rohlik",
-   "location": "Schönefeld bei Berlin, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/rohlik/lagermitarbeiter-picker-kommissionierer-schonefeld-453595",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-15T21:40:11+00:00",
-   "first_seen": "2026-11-16T04:10:33.065691+00:00"
   },
   {
    "id": "f79933c612a1",
@@ -1378,24 +1342,6 @@
    "first_seen": "2026-11-22T12:58:25.911203+00:00"
   },
   {
-   "id": "df197d6d1878",
-   "title": "Intern AI Researcher: Anomaly Detection for Predictive Maintenance in Distributed Storage",
-   "company": "Scality",
-   "location": "Paris, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.fr/jobs/companies/scality/intern-ai-researcher-anomaly-detection-for-predictive-maintenance-in-distributed-storage-paris-france-483265",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-22T03:07:41+00:00",
-   "first_seen": "2026-11-22T12:58:25.911203+00:00"
-  },
-  {
    "id": "d990fbace07f",
    "title": "Bauleiter / Projektleiter Innenausbau - Hotelbau/Hospitality (m/w/d)",
    "company": "Marwio GmbH",
@@ -1430,6 +1376,60 @@
    ],
    "posted": "2026-11-22T15:00:46+00:00",
    "first_seen": "2026-11-22T20:53:35.299512+00:00"
+  },
+  {
+   "id": "ae7dae7f136d",
+   "title": "EDISYS - Responsable commercial / Account Executive - Construction et BTP (H/F) - CDI",
+   "company": "INTESCIA GROUP",
+   "location": "Issy-les-Moulineaux, Île-de-France, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Construction",
+   "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/edisys-responsable-commercial-account-executive-construction-et-btp-h-f-cdi-issy-les-moulineaux-132798",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-23T00:31:23+00:00",
+   "first_seen": "2026-11-18T22:26:12.119089+00:00"
+  },
+  {
+   "id": "0fd7200ad425",
+   "title": "EDISYS - Responsable de comptes (Account manager) - BTP et Construction (H/F) - CDI",
+   "company": "INTESCIA GROUP",
+   "location": "Issy-les-Moulineaux, Île-de-France, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Construction",
+   "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/edisys-responsable-de-comptes-account-manager-btp-et-construction-h-f-cdi-issy-les-moulineaux-134459",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-23T00:31:23+00:00",
+   "first_seen": "2026-11-18T22:26:12.119089+00:00"
+  },
+  {
+   "id": "df197d6d1878",
+   "title": "Intern AI Researcher: Anomaly Detection for Predictive Maintenance in Distributed Storage",
+   "company": "Scality",
+   "location": "Paris, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.fr/jobs/companies/scality/intern-ai-researcher-anomaly-detection-for-predictive-maintenance-in-distributed-storage-paris-france-483265",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-22T03:07:41+00:00",
+   "first_seen": "2026-11-22T12:58:25.911203+00:00"
   },
   {
    "id": "697d4a2833a9",
@@ -1738,42 +1738,6 @@
    "first_seen": "2026-11-20T01:35:19.207176+00:00"
   },
   {
-   "id": "ae7dae7f136d",
-   "title": "EDISYS - Responsable commercial / Account Executive - Construction et BTP (H/F) - CDI",
-   "company": "INTESCIA GROUP",
-   "location": "Issy-les-Moulineaux, Île-de-France, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Construction",
-   "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/edisys-responsable-commercial-account-executive-construction-et-btp-h-f-cdi-issy-les-moulineaux-363292",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-18T15:31:25+00:00",
-   "first_seen": "2026-11-18T22:26:12.119089+00:00"
-  },
-  {
-   "id": "0fd7200ad425",
-   "title": "EDISYS - Responsable de comptes (Account manager) - BTP et Construction (H/F) - CDI",
-   "company": "INTESCIA GROUP",
-   "location": "Issy-les-Moulineaux, Île-de-France, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Construction",
-   "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/edisys-responsable-de-comptes-account-manager-btp-et-construction-h-f-cdi-issy-les-moulineaux-362624",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-18T15:31:25+00:00",
-   "first_seen": "2026-11-18T22:26:12.119089+00:00"
-  },
-  {
    "id": "5ce8fba7b4d9",
    "title": "VR Robot Operator (Zürich, 100%)",
    "company": "Loki",
@@ -2019,6 +1983,8 @@
   "a1a8ba620c3e": "2026-11-22T20:53:35.299512+00:00",
   "48e5fe57e445": "2026-11-22T20:53:35.299512+00:00",
   "b82b69a82352": "2026-11-22T20:53:35.299512+00:00",
-  "ae963f40bcd0": "2026-11-22T20:53:35.299512+00:00"
+  "ae963f40bcd0": "2026-11-22T20:53:35.299512+00:00",
+  "00a560a14bab": "2026-11-23T05:04:12.138200+00:00",
+  "895bd14b01a1": "2026-11-23T05:04:12.138200+00:00"
  }
 }
