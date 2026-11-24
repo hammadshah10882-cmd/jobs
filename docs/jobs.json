@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:51:34.796057+00:00",
+ "updated": "2026-11-24T20:26:58.022315+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -143,6 +143,25 @@
    "first_seen": "2026-11-24T07:51:34.796057+00:00"
   },
   {
+   "id": "cd65a83e1265",
+   "title": "Software Engineer — Drivers & Virtualization",
+   "company": "Arago",
+   "location": "Paris Office",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Driving & Transport",
+   "url": "https://www.arbeitnow.fr/jobs/companies/arago/software-engineer-drivers-virtualization-paris-255776",
+   "source": "Arbeitnow",
+   "score": 80,
+   "sponsor": true,
+   "reasons": [
+    "Sponsorship/relocation likha hai",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-24T18:40:15+00:00",
+   "first_seen": "2026-11-24T20:26:58.022315+00:00"
+  },
+  {
    "id": "5060f6116902",
    "title": "Thermo-Mechanical Engineer",
    "company": "The Exploration Company",
@@ -198,25 +217,6 @@
    ],
    "posted": "2026-11-18T00:40:32+00:00",
    "first_seen": "2026-11-18T01:58:54.296154+00:00"
-  },
-  {
-   "id": "fd756a648d42",
-   "title": "Senior Technical Project Manager - Token Factory",
-   "company": "Nebius",
-   "location": "London",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Factory & Production",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/nebius/senior-technical-project-manager-token-factory-london-348724",
-   "source": "Arbeitnow",
-   "score": 50,
-   "sponsor": false,
-   "reasons": [
-    "Rehaish ya safar ka zikr",
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-17T15:55:29+00:00",
-   "first_seen": "2026-11-17T18:53:32.792331+00:00"
   },
   {
    "id": "fb6d6b30351c",
@@ -352,6 +352,25 @@
    "first_seen": "2026-11-20T13:46:04.116016+00:00"
   },
   {
+   "id": "3cdbde778c8f",
+   "title": "Senior Software Engineer - Autonomous Ops & Maintenance (ATOM)",
+   "company": "Datadog",
+   "location": "Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-autonomous-ops-maintenance-atom-paris-164344",
+   "source": "Arbeitnow",
+   "score": 50,
+   "sponsor": false,
+   "reasons": [
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-24T09:55:17+00:00",
+   "first_seen": "2026-11-24T20:26:58.022315+00:00"
+  },
+  {
    "id": "c7f25e285b49",
    "title": "Lead Mechanical Engineer H/F Heat Pumps - France",
    "company": "Octopus Energy Group",
@@ -407,78 +426,6 @@
    ],
    "posted": "2026-11-18T03:55:23+00:00",
    "first_seen": "2026-11-18T13:36:53.694559+00:00"
-  },
-  {
-   "id": "a366cdbb6dc2",
-   "title": "Circular Construction Consultant (w/m/d)",
-   "company": "Concular",
-   "location": "Berlin",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Construction",
-   "url": "https://www.arbeitnow.com/jobs/companies/concular/circular-construction-consultant-berlin-232555",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-17T15:31:08+00:00",
-   "first_seen": "2026-11-17T18:53:32.792331+00:00"
-  },
-  {
-   "id": "508b697d7e5e",
-   "title": "Robot Delivery Technician",
-   "company": "Cocodelivery",
-   "location": "Leeds, UK",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cocodelivery/robot-delivery-technician-leeds-uk-209360",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-17T15:40:24+00:00",
-   "first_seen": "2026-11-17T18:53:32.792331+00:00"
-  },
-  {
-   "id": "7207942916a1",
-   "title": "Robot Delivery Technician",
-   "company": "Cocodelivery",
-   "location": "Nottingham, UK",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cocodelivery/robot-delivery-technician-nottingham-uk-45799",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-17T15:40:24+00:00",
-   "first_seen": "2026-11-17T18:53:32.792331+00:00"
-  },
-  {
-   "id": "27e5a4f3a560",
-   "title": "IT Operations Technician",
-   "company": "Getyourguide",
-   "location": "Berlin",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/getyourguide/it-operations-technician-berlin-249750",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-17T12:40:16+00:00",
-   "first_seen": "2026-11-17T18:53:32.792331+00:00"
   },
   {
    "id": "821593068e48",
@@ -1327,24 +1274,6 @@
    "first_seen": "2026-11-22T20:53:35.299512+00:00"
   },
   {
-   "id": "09ed34f20d16",
-   "title": "Lab Technician",
-   "company": "Halo",
-   "location": "Bristol, UK",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/halo/lab-technician-bristol-334101",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-23T18:40:21+00:00",
-   "first_seen": "2026-11-23T21:50:59.931382+00:00"
-  },
-  {
    "id": "c1d488743c5f",
    "title": "Vehicle Integration Technician",
    "company": "Hive Autonomy",
@@ -1360,42 +1289,6 @@
     "Bilkul nayi (24 ghante)"
    ],
    "posted": "2026-11-23T15:40:28+00:00",
-   "first_seen": "2026-11-23T21:50:59.931382+00:00"
-  },
-  {
-   "id": "606e1fe4ae58",
-   "title": "Stage - Assistant(e) Chef de Projet Event France (H/F)",
-   "company": "Sezane 3",
-   "location": "Paris, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/stage-assistante-chef-de-projet-event-france-h-f-paris-109007",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-23T20:20:03+00:00",
-   "first_seen": "2026-11-23T21:50:59.931382+00:00"
-  },
-  {
-   "id": "6455d17d3cf6",
-   "title": "Chef de Projet senior Data Center",
-   "company": "XERUS CONSEIL",
-   "location": "Paris",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/xerus-conseil/chef-de-projet-senior-data-center-paris-19056",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-23T10:01:07+00:00",
    "first_seen": "2026-11-23T21:50:59.931382+00:00"
   },
   {
@@ -1469,6 +1362,186 @@
    ],
    "posted": "2026-11-23T21:55:34+00:00",
    "first_seen": "2026-11-24T07:51:34.796057+00:00"
+  },
+  {
+   "id": "3306d85ac083",
+   "title": "Senior Hardware Engineer – Mechanics",
+   "company": "pplwise",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/pplwise/senior-hardware-engineer-mechanics-munich-469087",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-24T18:40:12+00:00",
+   "first_seen": "2026-11-24T20:26:58.022315+00:00"
+  },
+  {
+   "id": "76a5fe3c4364",
+   "title": "Senior Mechanical Engineer – Product Development",
+   "company": "pplwise",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/pplwise/senior-mechanical-engineer-product-development-munich-447772",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-24T18:40:12+00:00",
+   "first_seen": "2026-11-24T20:26:58.022315+00:00"
+  },
+  {
+   "id": "10693dddceaf",
+   "title": "Produktionsmitarbeiter  (m/w/d)",
+   "company": "GALVANY",
+   "location": "Blankenfelde-Mahlow",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.com/jobs/companies/galvany/produktionsmitarbeiter-blankenfelde-mahlow-497440",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-24T18:40:12+00:00",
+   "first_seen": "2026-11-24T20:26:58.022315+00:00"
+  },
+  {
+   "id": "b69c379992c3",
+   "title": "Robotics Operations Technician H/F",
+   "company": "Marsorobotics",
+   "location": "Cambrai",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.fr/jobs/companies/marsorobotics/robotics-operations-technician-h-f-cambrai-274305",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-24T15:40:17+00:00",
+   "first_seen": "2026-11-24T20:26:58.022315+00:00"
+  },
+  {
+   "id": "bccb337cb34c",
+   "title": "Senior Mechanical Engineer H/F",
+   "company": "Marsorobotics",
+   "location": "Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.fr/jobs/companies/marsorobotics/senior-mechanical-engineer-h-f-paris-394797",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-24T15:40:17+00:00",
+   "first_seen": "2026-11-24T20:26:58.022315+00:00"
+  },
+  {
+   "id": "06938cdef386",
+   "title": "Chef de Projet Formation & Développement des compétences Senior H/F (CDD de remplacement)",
+   "company": "Agence du Numérique en Santé",
+   "location": "Paris, Île-de-France, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/agence-du-numerique-en-sante/chef-de-projet-formation-developpement-des-competences-senior-h-f-cdd-de-remplacement-paris-68246",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-24T09:31:38+00:00",
+   "first_seen": "2026-11-24T20:26:58.022315+00:00"
+  },
+  {
+   "id": "845985ec3d8f",
+   "title": "Head of Fulfillment & Logistics Europe (all genders)",
+   "company": "Tonies",
+   "location": "Düsseldorf",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.com/jobs/companies/tonies/head-of-fulfillment-logistics-europe-all-genders-dusseldorf-81722",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-24T09:40:11+00:00",
+   "first_seen": "2026-11-24T20:26:58.022315+00:00"
+  },
+  {
+   "id": "09ed34f20d16",
+   "title": "Lab Technician",
+   "company": "Halo",
+   "location": "Bristol, UK",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/halo/lab-technician-bristol-334101",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-23T18:40:21+00:00",
+   "first_seen": "2026-11-23T21:50:59.931382+00:00"
+  },
+  {
+   "id": "606e1fe4ae58",
+   "title": "Stage - Assistant(e) Chef de Projet Event France (H/F)",
+   "company": "Sezane 3",
+   "location": "Paris, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/stage-assistante-chef-de-projet-event-france-h-f-paris-109007",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-23T20:20:03+00:00",
+   "first_seen": "2026-11-23T21:50:59.931382+00:00"
+  },
+  {
+   "id": "6455d17d3cf6",
+   "title": "Chef de Projet senior Data Center",
+   "company": "XERUS CONSEIL",
+   "location": "Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/xerus-conseil/chef-de-projet-senior-data-center-paris-19056",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-23T10:01:07+00:00",
+   "first_seen": "2026-11-23T21:50:59.931382+00:00"
   },
   {
    "id": "ae7dae7f136d",
@@ -1867,24 +1940,6 @@
    "first_seen": "2026-11-18T13:36:53.694559+00:00"
   },
   {
-   "id": "9117dc2d3c26",
-   "title": "Chef de projet technique ERP M3",
-   "company": "ELCIMAI",
-   "location": "Melun",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/elcimai/chef-de-projet-technique-erp-m3-melun-461281",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-17T16:30:50+00:00",
-   "first_seen": "2026-11-17T18:53:32.792331+00:00"
-  },
-  {
    "id": "8c4cffec9974",
    "title": "Senior Mechanical Engineer - Drone Port (m/f/d)",
    "company": "Quantum-Systems GmbH",
@@ -2050,6 +2105,12 @@
   "0f47df2e338f": "2026-11-24T07:51:34.796057+00:00",
   "fd50586178c6": "2026-11-24T07:51:34.796057+00:00",
   "d2cc8f258475": "2026-11-24T07:51:34.796057+00:00",
-  "d16bbcd98122": "2026-11-24T07:51:34.796057+00:00"
+  "d16bbcd98122": "2026-11-24T07:51:34.796057+00:00",
+  "fd756a648d42": "2026-11-24T20:26:58.022315+00:00",
+  "a366cdbb6dc2": "2026-11-24T20:26:58.022315+00:00",
+  "508b697d7e5e": "2026-11-24T20:26:58.022315+00:00",
+  "7207942916a1": "2026-11-24T20:26:58.022315+00:00",
+  "27e5a4f3a560": "2026-11-24T20:26:58.022315+00:00",
+  "9117dc2d3c26": "2026-11-24T20:26:58.022315+00:00"
  }
 }
