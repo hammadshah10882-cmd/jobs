@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T06:25:16.897135+00:00",
+ "updated": "2026-11-25T19:41:56.105547+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -152,11 +152,11 @@
    "field": "Driving & Transport",
    "url": "https://www.arbeitnow.fr/jobs/companies/arago/software-engineer-drivers-virtualization-paris-255776",
    "source": "Arbeitnow",
-   "score": 80,
+   "score": 72,
    "sponsor": true,
    "reasons": [
     "Sponsorship/relocation likha hai",
-    "Bilkul nayi (24 ghante)"
+    "Nayi (3 din)"
    ],
    "posted": "2026-11-24T18:40:15+00:00",
    "first_seen": "2026-11-24T20:26:58.022315+00:00"
@@ -314,6 +314,25 @@
    "first_seen": "2026-11-20T13:46:04.116016+00:00"
   },
   {
+   "id": "d0283d1c78cb",
+   "title": "Senior Threat Research Engineer, Security Factory: Threat Research",
+   "company": "gitlab",
+   "location": "Remote",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-threat-research-engineer-security-factory-threat-research-497414",
+   "source": "Arbeitnow",
+   "score": 50,
+   "sponsor": false,
+   "reasons": [
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-25T12:55:24+00:00",
+   "first_seen": "2026-11-25T19:41:56.105547+00:00"
+  },
+  {
    "id": "3cdbde778c8f",
    "title": "Senior Software Engineer - Autonomous Ops & Maintenance (ATOM)",
    "company": "Datadog",
@@ -323,11 +342,11 @@
    "field": "Electrical & Mechanical",
    "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-autonomous-ops-maintenance-atom-paris-164344",
    "source": "Arbeitnow",
-   "score": 50,
+   "score": 42,
    "sponsor": false,
    "reasons": [
     "Rehaish ya safar ka zikr",
-    "Bilkul nayi (24 ghante)"
+    "Nayi (3 din)"
    ],
    "posted": "2026-11-24T09:55:17+00:00",
    "first_seen": "2026-11-24T20:26:58.022315+00:00"
@@ -369,97 +388,6 @@
    ],
    "posted": "2026-11-18T12:40:16+00:00",
    "first_seen": "2026-11-18T22:26:12.119089+00:00"
-  },
-  {
-   "id": "ff6851fc24b5",
-   "title": "Director of Indirect Procurement and Logistics (m/f/d)",
-   "company": "isaraerospace",
-   "location": "Parsdorf, Bavaria",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/director-of-indirect-procurement-and-logistics-parsdorf-bavaria-258967",
-   "source": "Arbeitnow",
-   "score": 42,
-   "sponsor": false,
-   "reasons": [
-    "Rehaish ya safar ka zikr",
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-18T03:55:23+00:00",
-   "first_seen": "2026-11-18T13:36:53.694559+00:00"
-  },
-  {
-   "id": "418b9280624d",
-   "title": "Warehouse Supervisor",
-   "company": "Deliveroo",
-   "location": "Brighton - St Josephs Business Park (Hop)",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-supervisor-brighton-315520",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-18T09:40:13+00:00",
-   "first_seen": "2026-11-18T13:36:53.694559+00:00"
-  },
-  {
-   "id": "d72620e15cee",
-   "title": "Warehouse Supervisor - Bristol",
-   "company": "Deliveroo",
-   "location": "Bristol - Oxford Street (Hop)",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/warehouse-supervisor-bristol-292698",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-18T09:40:13+00:00",
-   "first_seen": "2026-11-18T13:36:53.694559+00:00"
-  },
-  {
-   "id": "8a330769538c",
-   "title": "Senior Lab Technician",
-   "company": "Infinitesima",
-   "location": "Abingdon",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/infinitesima/senior-lab-technician-abingdon-360861",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-18T03:55:25+00:00",
-   "first_seen": "2026-11-18T13:36:53.694559+00:00"
-  },
-  {
-   "id": "5941a83f848a",
-   "title": "Solutions Architect - Travel, Transport, Hospitality & Logistics",
-   "company": "databricks",
-   "location": "London",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/solutions-architect-travel-transport-hospitality-logistics-london-33467",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-18T03:55:22+00:00",
-   "first_seen": "2026-11-18T13:36:53.694559+00:00"
   },
   {
    "id": "ccfa8fda428f",
@@ -1254,42 +1182,6 @@
    "first_seen": "2026-11-24T20:26:58.022315+00:00"
   },
   {
-   "id": "b69c379992c3",
-   "title": "Robotics Operations Technician H/F",
-   "company": "Marsorobotics",
-   "location": "Cambrai",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.fr/jobs/companies/marsorobotics/robotics-operations-technician-h-f-cambrai-274305",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-24T15:40:17+00:00",
-   "first_seen": "2026-11-24T20:26:58.022315+00:00"
-  },
-  {
-   "id": "bccb337cb34c",
-   "title": "Senior Mechanical Engineer H/F",
-   "company": "Marsorobotics",
-   "location": "Paris",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.fr/jobs/companies/marsorobotics/senior-mechanical-engineer-h-f-paris-394797",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-24T15:40:17+00:00",
-   "first_seen": "2026-11-24T20:26:58.022315+00:00"
-  },
-  {
    "id": "06938cdef386",
    "title": "Chef de Projet Formation & Développement des compétences Senior H/F (CDD de remplacement)",
    "company": "Agence du Numérique en Santé",
@@ -1360,6 +1252,222 @@
    ],
    "posted": "2026-11-25T03:31:46+00:00",
    "first_seen": "2026-11-25T06:25:16.897135+00:00"
+  },
+  {
+   "id": "d99b0cbfbcff",
+   "title": "CNC Machinist",
+   "company": "Isembard",
+   "location": "London",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/isembard/cnc-machinist-london-144002",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-25T18:40:13+00:00",
+   "first_seen": "2026-11-25T19:41:56.105547+00:00"
+  },
+  {
+   "id": "de6f48945e36",
+   "title": "B1 Aircraft or B2 Avionics Engineer (EASA) - Base Maintenance",
+   "company": "OnTarget Communications",
+   "location": "Basel, Basel-Stadt, Switzerland",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/ontarget-communications/b1-aircraft-or-b2-avionics-engineer-easa-base-maintenance-basel-263970",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-25T15:31:34+00:00",
+   "first_seen": "2026-11-25T19:41:56.105547+00:00"
+  },
+  {
+   "id": "a4393d51b908",
+   "title": "Senior Mechanical / Electrical System Integration Lead",
+   "company": "OnTarget Communications",
+   "location": "Basel, Basel-Stadt, Switzerland",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/ontarget-communications/senior-mechanical-electrical-system-integration-lead-basel-44670",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-25T15:31:34+00:00",
+   "first_seen": "2026-11-25T19:41:56.105547+00:00"
+  },
+  {
+   "id": "38ec9cd3108d",
+   "title": "Data Analyst - Logistics",
+   "company": "All Your BI",
+   "location": "Rotterdam, Zuid-Holland, Netherlands",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.nl/jobs/companies/all-your-bi/data-analyst-logistics-rotterdam-125833",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-25T15:31:33+00:00",
+   "first_seen": "2026-11-25T19:41:56.105547+00:00"
+  },
+  {
+   "id": "2c1af0e07cf2",
+   "title": "Warehouse Executive (Netherlands) - Entry Level/No Experience Required",
+   "company": "Nivoda",
+   "location": "Amsterdam",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.nl/jobs/companies/nivoda/warehouse-executive-netherlands-entry-level-no-experience-required-amsterdam-27546",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-25T06:40:10+00:00",
+   "first_seen": "2026-11-25T19:41:56.105547+00:00"
+  },
+  {
+   "id": "e1504da14b5c",
+   "title": "Elektriker:in (w/m/d)",
+   "company": "Enpal",
+   "location": "Berlin",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/enpal/elektrikerin-berlin-447769",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-25T12:40:22+00:00",
+   "first_seen": "2026-11-25T19:41:56.105547+00:00"
+  },
+  {
+   "id": "c8dfa9575ab3",
+   "title": "Working Student – Construction Project Coordination (f/m/d)",
+   "company": "Focused",
+   "location": "Darmstadt, DE",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Construction",
+   "url": "https://www.arbeitnow.com/jobs/companies/focused/working-student-construction-project-coordination-darmstadt-79654",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-25T09:40:17+00:00",
+   "first_seen": "2026-11-25T19:41:56.105547+00:00"
+  },
+  {
+   "id": "4e022a673311",
+   "title": "PSV Driver - Ad Hoc Work (20 Hours, Schools, Term Time)",
+   "company": "Veezu",
+   "location": "Manchester",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Driving & Transport",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/veezu/psv-driver-ad-hoc-work-20-hours-schools-term-time-manchester-128638",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-25T15:40:19+00:00",
+   "first_seen": "2026-11-25T19:41:56.105547+00:00"
+  },
+  {
+   "id": "2cb042c7c739",
+   "title": "PSV Driver - Ad Hoc Work (Zero Hours)",
+   "company": "Veezu",
+   "location": "Manchester",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Driving & Transport",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/veezu/psv-driver-ad-hoc-work-zero-hours-manchester-274376",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-25T15:40:19+00:00",
+   "first_seen": "2026-11-25T19:41:56.105547+00:00"
+  },
+  {
+   "id": "2079897fe824",
+   "title": "PSV Driver - Hotels (35 Hours)",
+   "company": "Veezu",
+   "location": "Manchester",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Driving & Transport",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/veezu/psv-driver-hotels-35-hours-manchester-105011",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-25T15:40:19+00:00",
+   "first_seen": "2026-11-25T19:41:56.105547+00:00"
+  },
+  {
+   "id": "b69c379992c3",
+   "title": "Robotics Operations Technician H/F",
+   "company": "Marsorobotics",
+   "location": "Cambrai",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.fr/jobs/companies/marsorobotics/robotics-operations-technician-h-f-cambrai-274305",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-24T15:40:17+00:00",
+   "first_seen": "2026-11-24T20:26:58.022315+00:00"
+  },
+  {
+   "id": "bccb337cb34c",
+   "title": "Senior Mechanical Engineer H/F",
+   "company": "Marsorobotics",
+   "location": "Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.fr/jobs/companies/marsorobotics/senior-mechanical-engineer-h-f-paris-394797",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-24T15:40:17+00:00",
+   "first_seen": "2026-11-24T20:26:58.022315+00:00"
   },
   {
    "id": "db7fd2be5ca8",
@@ -1810,24 +1918,6 @@
    ],
    "posted": "2026-11-19T21:40:33+00:00",
    "first_seen": "2026-11-20T01:35:19.207176+00:00"
-  },
-  {
-   "id": "9a563c123dee",
-   "title": "Senior Maintenance Manager (all genders)",
-   "company": "hellofresh",
-   "location": "Barleben, Saxony-Anhalt; Magdeburg, Saxony-Anhalt",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/hellofresh/senior-maintenance-manager-all-genders-barleben-saxony-anhalt-magdeburg-saxony-anhalt-486044",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-18T03:55:23+00:00",
-   "first_seen": "2026-11-18T13:36:53.694559+00:00"
   }
  ],
  "expired": {
@@ -1958,6 +2048,12 @@
   "5ce8fba7b4d9": "2026-11-25T06:25:16.897135+00:00",
   "8c4cffec9974": "2026-11-25T06:25:16.897135+00:00",
   "8f7ef0fd53e1": "2026-11-25T06:25:16.897135+00:00",
-  "8fc9f921a018": "2026-11-25T06:25:16.897135+00:00"
+  "8fc9f921a018": "2026-11-25T06:25:16.897135+00:00",
+  "ff6851fc24b5": "2026-11-25T19:41:56.105547+00:00",
+  "418b9280624d": "2026-11-25T19:41:56.105547+00:00",
+  "d72620e15cee": "2026-11-25T19:41:56.105547+00:00",
+  "8a330769538c": "2026-11-25T19:41:56.105547+00:00",
+  "5941a83f848a": "2026-11-25T19:41:56.105547+00:00",
+  "9a563c123dee": "2026-11-25T19:41:56.105547+00:00"
  }
 }
