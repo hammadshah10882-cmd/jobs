@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:41:56.105547+00:00",
+ "updated": "2026-11-26T02:35:31.252102+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -333,6 +333,44 @@
    "first_seen": "2026-11-25T19:41:56.105547+00:00"
   },
   {
+   "id": "ba9592125f39",
+   "title": "Mechanical Engineer - Radar",
+   "company": "Signal Processing Engineer (RF Processing & Analytics)",
+   "location": "Paris",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/mechanical-engineer-radar-paris-62478",
+   "source": "Arbeitnow",
+   "score": 50,
+   "sponsor": false,
+   "reasons": [
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-25T21:40:18+00:00",
+   "first_seen": "2026-11-26T02:35:31.252102+00:00"
+  },
+  {
+   "id": "042f56d075fd",
+   "title": "Heavy-Duty Mechanical Engineer",
+   "company": "Harmattan Ai",
+   "location": "Lausanne",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/heavy-duty-mechanical-engineer-lausanne-271256",
+   "source": "Arbeitnow",
+   "score": 50,
+   "sponsor": false,
+   "reasons": [
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-25T21:40:18+00:00",
+   "first_seen": "2026-11-26T02:35:31.252102+00:00"
+  },
+  {
    "id": "3cdbde778c8f",
    "title": "Senior Software Engineer - Autonomous Ops & Maintenance (ATOM)",
    "company": "Datadog",
@@ -369,79 +407,6 @@
    ],
    "posted": "2026-11-21T03:26:44+00:00",
    "first_seen": "2026-11-21T05:03:47.011207+00:00"
-  },
-  {
-   "id": "db4ac61e2239",
-   "title": "Composite Technician - Airframe",
-   "company": "Harmattan Ai",
-   "location": "Lausanne",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/composite-technician-airframe-lausanne-62891",
-   "source": "Arbeitnow",
-   "score": 42,
-   "sponsor": false,
-   "reasons": [
-    "Rehaish ya safar ka zikr",
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-18T12:40:16+00:00",
-   "first_seen": "2026-11-18T22:26:12.119089+00:00"
-  },
-  {
-   "id": "ccfa8fda428f",
-   "title": "Workingstudent - Data Maintenance (m/f/x)",
-   "company": "Samsung SDS Europe Ltd. German Branch (Logistics Division)",
-   "location": "Korbach",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/samsung-sds-europe-ltd-german-branch-logistics-division/workingstudent-data-maintenance-korbach-168720",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-18T17:00:45+00:00",
-   "first_seen": "2026-11-18T22:26:12.119089+00:00"
-  },
-  {
-   "id": "5b86b093c19d",
-   "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
-   "company": "Exotec",
-   "location": "Lille, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.fr/jobs/companies/exotec/remote-senior-account-manager-warehouse-automation-japanese-speaking-benelux-lille-198757",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-18T20:20:17+00:00",
-   "first_seen": "2026-11-18T22:26:12.119089+00:00"
-  },
-  {
-   "id": "83753027a4bf",
-   "title": "Engineering Technician",
-   "company": "IBA Dosimetry GmbH",
-   "location": "Nuremberg",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/iba-dosimetry-gmbh/engineering-technician-nuremberg-297634",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-18T12:31:28+00:00",
-   "first_seen": "2026-11-18T22:26:12.119089+00:00"
   },
   {
    "id": "d92133441b39",
@@ -1434,6 +1399,42 @@
    "first_seen": "2026-11-25T19:41:56.105547+00:00"
   },
   {
+   "id": "d0b8c009c55d",
+   "title": "Vehicle Safety Operator",
+   "company": "Wayve",
+   "location": "Leonberg, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.com/jobs/companies/wayve/vehicle-safety-operator-baden-wurttemberg-467527",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-25T21:40:16+00:00",
+   "first_seen": "2026-11-26T02:35:31.252102+00:00"
+  },
+  {
+   "id": "55ca98287000",
+   "title": "Logistics Coordinator",
+   "company": "Signal Processing Engineer (RF Processing & Analytics)",
+   "location": "Orly",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.fr/jobs/companies/signal-processing-engineer-rf-processing-analytics/logistics-coordinator-orly-433703",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-25T21:40:18+00:00",
+   "first_seen": "2026-11-26T02:35:31.252102+00:00"
+  },
+  {
    "id": "b69c379992c3",
    "title": "Robotics Operations Technician H/F",
    "company": "Marsorobotics",
@@ -1558,42 +1559,6 @@
    ],
    "posted": "2026-11-23T10:01:07+00:00",
    "first_seen": "2026-11-23T21:50:59.931382+00:00"
-  },
-  {
-   "id": "ae7dae7f136d",
-   "title": "EDISYS - Responsable commercial / Account Executive - Construction et BTP (H/F) - CDI",
-   "company": "INTESCIA GROUP",
-   "location": "Issy-les-Moulineaux, Île-de-France, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Construction",
-   "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/edisys-responsable-commercial-account-executive-construction-et-btp-h-f-cdi-issy-les-moulineaux-132798",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-23T00:31:23+00:00",
-   "first_seen": "2026-11-18T22:26:12.119089+00:00"
-  },
-  {
-   "id": "0fd7200ad425",
-   "title": "EDISYS - Responsable de comptes (Account manager) - BTP et Construction (H/F) - CDI",
-   "company": "INTESCIA GROUP",
-   "location": "Issy-les-Moulineaux, Île-de-France, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Construction",
-   "url": "https://www.arbeitnow.fr/jobs/companies/intescia-group/edisys-responsable-de-comptes-account-manager-btp-et-construction-h-f-cdi-issy-les-moulineaux-134459",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-23T00:31:23+00:00",
-   "first_seen": "2026-11-18T22:26:12.119089+00:00"
   },
   {
    "id": "df197d6d1878",
@@ -2054,6 +2019,12 @@
   "d72620e15cee": "2026-11-25T19:41:56.105547+00:00",
   "8a330769538c": "2026-11-25T19:41:56.105547+00:00",
   "5941a83f848a": "2026-11-25T19:41:56.105547+00:00",
-  "9a563c123dee": "2026-11-25T19:41:56.105547+00:00"
+  "9a563c123dee": "2026-11-25T19:41:56.105547+00:00",
+  "db4ac61e2239": "2026-11-26T02:35:31.252102+00:00",
+  "ccfa8fda428f": "2026-11-26T02:35:31.252102+00:00",
+  "5b86b093c19d": "2026-11-26T02:35:31.252102+00:00",
+  "83753027a4bf": "2026-11-26T02:35:31.252102+00:00",
+  "ae7dae7f136d": "2026-11-26T02:35:31.252102+00:00",
+  "0fd7200ad425": "2026-11-26T02:35:31.252102+00:00"
  }
 }
