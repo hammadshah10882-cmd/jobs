@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T02:35:31.252102+00:00",
+ "updated": "2026-11-26T14:38:29.506721+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -47,25 +47,6 @@
   "Welding & Fabrication"
  ],
  "jobs": [
-  {
-   "id": "883097e53e14",
-   "title": "Non-linear Analyses Mechanical Engineer",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/non-linear-analyses-mechanical-engineer-munich-147222",
-   "source": "Arbeitnow",
-   "score": 80,
-   "sponsor": true,
-   "reasons": [
-    "Sponsorship/relocation likha hai",
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-19T03:43:25+00:00",
-   "first_seen": "2026-11-19T05:24:27.001889+00:00"
-  },
   {
    "id": "07da78cf6807",
    "title": "Information Security Officer (ISB)",
@@ -143,6 +124,25 @@
    "first_seen": "2026-11-24T07:51:34.796057+00:00"
   },
   {
+   "id": "91766a53b7a2",
+   "title": "Cross-Functional Mechanical Engineer",
+   "company": "The Exploration Company",
+   "location": "Bordeaux, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/cross-functional-mechanical-engineer-bordeaux-258378",
+   "source": "Arbeitnow",
+   "score": 80,
+   "sponsor": true,
+   "reasons": [
+    "Sponsorship/relocation likha hai",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-26T03:43:07+00:00",
+   "first_seen": "2026-11-26T14:38:29.506721+00:00"
+  },
+  {
    "id": "cd65a83e1265",
    "title": "Software Engineer — Drivers & Virtualization",
    "company": "Arago",
@@ -179,25 +179,6 @@
    ],
    "posted": "2026-11-20T21:40:14+00:00",
    "first_seen": "2026-11-20T22:04:16.674133+00:00"
-  },
-  {
-   "id": "fb6d6b30351c",
-   "title": "Serviced Accommodation Operator: Part-Time Growth Partner",
-   "company": "The Flex",
-   "location": "London",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Factory & Production",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/the-flex/serviced-accommodation-operator-part-time-growth-partner-london-94824",
-   "source": "Arbeitnow",
-   "score": 50,
-   "sponsor": false,
-   "reasons": [
-    "Rehaish ya safar ka zikr",
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-19T03:43:25+00:00",
-   "first_seen": "2026-11-19T05:24:27.001889+00:00"
   },
   {
    "id": "9f38ae87b804",
@@ -371,6 +352,25 @@
    "first_seen": "2026-11-26T02:35:31.252102+00:00"
   },
   {
+   "id": "8f3933e84146",
+   "title": "Junior Video Editor & Camera Operator",
+   "company": "Tesslcareers",
+   "location": "London Office",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tesslcareers/junior-video-editor-camera-operator-london-456241",
+   "source": "Arbeitnow",
+   "score": 50,
+   "sponsor": false,
+   "reasons": [
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-26T03:43:06+00:00",
+   "first_seen": "2026-11-26T14:38:29.506721+00:00"
+  },
+  {
    "id": "3cdbde778c8f",
    "title": "Senior Software Engineer - Autonomous Ops & Maintenance (ATOM)",
    "company": "Datadog",
@@ -407,114 +407,6 @@
    ],
    "posted": "2026-11-21T03:26:44+00:00",
    "first_seen": "2026-11-21T05:03:47.011207+00:00"
-  },
-  {
-   "id": "d92133441b39",
-   "title": "Kfz-Mechatroniker:in / Kfz-Mechaniker:in (m/w/d) – Campervan-Flotte Frankfurt",
-   "company": "Roadsurfer",
-   "location": "Frankfurt",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/kfz-mechatronikerin-kfz-mechanikerin-campervan-flotte-frankfurt-frankfurt-am-main-252373",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-19T03:43:26+00:00",
-   "first_seen": "2026-11-19T05:24:27.001889+00:00"
-  },
-  {
-   "id": "b6640abe64f7",
-   "title": "Short-Term Rental Operator in France: Grow Base360 in the French Market",
-   "company": "The Flex",
-   "location": "London",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Factory & Production",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/the-flex/short-term-rental-operator-in-france-grow-base360-in-the-french-market-london-161829",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-19T03:43:25+00:00",
-   "first_seen": "2026-11-19T05:24:27.001889+00:00"
-  },
-  {
-   "id": "c191d343a312",
-   "title": "Short-Term Rental Operator: Join a Startup Growing 30% a Month",
-   "company": "The Flex",
-   "location": "London",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Factory & Production",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/the-flex/short-term-rental-operator-join-a-startup-growing-30-a-month-london-204919",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-19T03:43:25+00:00",
-   "first_seen": "2026-11-19T05:24:27.001889+00:00"
-  },
-  {
-   "id": "0009157b92b1",
-   "title": "Senior Associate, Dasher & Logistics - Strategy & Operations EMEA (L3)",
-   "company": "Deliveroo ",
-   "location": "London, England, United Kingdom",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-associate-dasher-logistics-strategy-operations-emea-l3-london-292734",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-18T22:45:24+00:00",
-   "first_seen": "2026-11-19T05:24:27.001889+00:00"
-  },
-  {
-   "id": "a33aeb3818be",
-   "title": "Operations Manager – Field Deployment, Logistics & Validation",
-   "company": "Alta Ares",
-   "location": "Paris",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/operations-manager-field-deployment-logistics-validation-paris-67168",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-19T03:43:25+00:00",
-   "first_seen": "2026-11-19T05:24:27.001889+00:00"
-  },
-  {
-   "id": "21aa3c02aee8",
-   "title": "Mechanical Engineer - Antenna Positioning & Ground Equipment",
-   "company": "Alta Ares",
-   "location": "Paris",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/mechanical-engineer-antenna-positioning-ground-equipment-paris-285975",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-19T03:43:25+00:00",
-   "first_seen": "2026-11-19T05:24:27.001889+00:00"
   },
   {
    "id": "ff9759fed748",
@@ -1201,24 +1093,6 @@
    "first_seen": "2026-11-25T06:25:16.897135+00:00"
   },
   {
-   "id": "203dfa93728c",
-   "title": "Data Engineer Logistics",
-   "company": "Royal Den Hartogh Logistics",
-   "location": "Rotterdam, Zuid-Holland, Netherlands",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.nl/jobs/companies/royal-den-hartogh-logistics/data-engineer-logistics-rotterdam-317897",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-25T03:31:46+00:00",
-   "first_seen": "2026-11-25T06:25:16.897135+00:00"
-  },
-  {
    "id": "d99b0cbfbcff",
    "title": "CNC Machinist",
    "company": "Isembard",
@@ -1288,24 +1162,6 @@
     "Bilkul nayi (24 ghante)"
    ],
    "posted": "2026-11-25T15:31:33+00:00",
-   "first_seen": "2026-11-25T19:41:56.105547+00:00"
-  },
-  {
-   "id": "2c1af0e07cf2",
-   "title": "Warehouse Executive (Netherlands) - Entry Level/No Experience Required",
-   "company": "Nivoda",
-   "location": "Amsterdam",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.nl/jobs/companies/nivoda/warehouse-executive-netherlands-entry-level-no-experience-required-amsterdam-27546",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-25T06:40:10+00:00",
    "first_seen": "2026-11-25T19:41:56.105547+00:00"
   },
   {
@@ -1433,6 +1289,168 @@
    ],
    "posted": "2026-11-25T21:40:18+00:00",
    "first_seen": "2026-11-26T02:35:31.252102+00:00"
+  },
+  {
+   "id": "da670185a4ff",
+   "title": "Chief Information Security Officer (CISO)",
+   "company": "Hawk",
+   "location": "Munich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Security",
+   "url": "https://www.arbeitnow.com/jobs/companies/hawk/chief-information-security-officer-ciso-munich-319880",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-26T12:40:13+00:00",
+   "first_seen": "2026-11-26T14:38:29.506721+00:00"
+  },
+  {
+   "id": "1c5a75a804f7",
+   "title": "Head of Production Factory (m/f/d)",
+   "company": "Quantum-Systems GmbH",
+   "location": "Ergolding , Bayern, Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/head-of-production-factory-ergolding-201471",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-26T12:31:10+00:00",
+   "first_seen": "2026-11-26T14:38:29.506721+00:00"
+  },
+  {
+   "id": "36f5dec8c046",
+   "title": "Chargé de facturation maintenance H/F",
+   "company": "Edl",
+   "location": "Berre-l'Étang",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.fr/jobs/companies/edl/charge-de-facturation-maintenance-h-f-berre-letang-233668",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-26T11:31:10+00:00",
+   "first_seen": "2026-11-26T14:38:29.506721+00:00"
+  },
+  {
+   "id": "e85e4561f7ec",
+   "title": "Chef de Produit Junior Oxford & Lecas (H/F)",
+   "company": "Hamelin",
+   "location": "Caen, Normandie, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/hamelin/chef-de-produit-junior-oxford-lecas-h-f-caen-427630",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-26T06:31:18+00:00",
+   "first_seen": "2026-11-26T14:38:29.506721+00:00"
+  },
+  {
+   "id": "d6d370bb7ef5",
+   "title": "Robotics Systems Engineer (Mechanical)",
+   "company": "Anybotics",
+   "location": "Zurich, Switzerland",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/robotics-systems-engineer-mechanical-zurich-switzerland-323895",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-26T12:07:36+00:00",
+   "first_seen": "2026-11-26T14:38:29.506721+00:00"
+  },
+  {
+   "id": "b357befba58a",
+   "title": "Lead Mechanical Designer / Konstrukteur (m/w/d) - Modulare Automatisierungsprodukte",
+   "company": "ZBV Automation GmbH",
+   "location": "Troisdorf",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/zbv-automation-gmbh/lead-mechanical-designer-konstrukteur-modulare-automatisierungsprodukte-troisdorf-481274",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-26T08:30:51+00:00",
+   "first_seen": "2026-11-26T14:38:29.506721+00:00"
+  },
+  {
+   "id": "4e9e878f255e",
+   "title": "Head of Assembly (all genders)",
+   "company": "væridion",
+   "location": "EDMO Manufacturing & Testing Facility",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Factory & Production",
+   "url": "https://www.arbeitnow.com/jobs/companies/vaeridion/head-of-assembly-all-genders-munich-250240",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-26T03:43:04+00:00",
+   "first_seen": "2026-11-26T14:38:29.506721+00:00"
+  },
+  {
+   "id": "203dfa93728c",
+   "title": "Data Engineer Logistics",
+   "company": "Royal Den Hartogh Logistics",
+   "location": "Rotterdam, Zuid-Holland, Netherlands",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.nl/jobs/companies/royal-den-hartogh-logistics/data-engineer-logistics-rotterdam-317897",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-25T03:31:46+00:00",
+   "first_seen": "2026-11-25T06:25:16.897135+00:00"
+  },
+  {
+   "id": "2c1af0e07cf2",
+   "title": "Warehouse Executive (Netherlands) - Entry Level/No Experience Required",
+   "company": "Nivoda",
+   "location": "Amsterdam",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.nl/jobs/companies/nivoda/warehouse-executive-netherlands-entry-level-no-experience-required-amsterdam-27546",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-25T06:40:10+00:00",
+   "first_seen": "2026-11-25T19:41:56.105547+00:00"
   },
   {
    "id": "b69c379992c3",
@@ -2025,6 +2043,14 @@
   "5b86b093c19d": "2026-11-26T02:35:31.252102+00:00",
   "83753027a4bf": "2026-11-26T02:35:31.252102+00:00",
   "ae7dae7f136d": "2026-11-26T02:35:31.252102+00:00",
-  "0fd7200ad425": "2026-11-26T02:35:31.252102+00:00"
+  "0fd7200ad425": "2026-11-26T02:35:31.252102+00:00",
+  "883097e53e14": "2026-11-26T14:38:29.506721+00:00",
+  "fb6d6b30351c": "2026-11-26T14:38:29.506721+00:00",
+  "d92133441b39": "2026-11-26T14:38:29.506721+00:00",
+  "b6640abe64f7": "2026-11-26T14:38:29.506721+00:00",
+  "c191d343a312": "2026-11-26T14:38:29.506721+00:00",
+  "0009157b92b1": "2026-11-26T14:38:29.506721+00:00",
+  "a33aeb3818be": "2026-11-26T14:38:29.506721+00:00",
+  "21aa3c02aee8": "2026-11-26T14:38:29.506721+00:00"
  }
 }
