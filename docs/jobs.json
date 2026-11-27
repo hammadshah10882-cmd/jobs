@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T23:26:10.821560+00:00",
+ "updated": "2026-11-27T06:06:32.145902+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -133,11 +133,11 @@
    "field": "Electrical & Mechanical",
    "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/cross-functional-mechanical-engineer-bordeaux-258378",
    "source": "Arbeitnow",
-   "score": 80,
+   "score": 72,
    "sponsor": true,
    "reasons": [
     "Sponsorship/relocation likha hai",
-    "Bilkul nayi (24 ghante)"
+    "Nayi (3 din)"
    ],
    "posted": "2026-11-26T03:43:07+00:00",
    "first_seen": "2026-11-26T14:38:29.506721+00:00"
@@ -388,60 +388,6 @@
    ],
    "posted": "2026-11-21T03:26:44+00:00",
    "first_seen": "2026-11-21T05:03:47.011207+00:00"
-  },
-  {
-   "id": "70768b0dc10f",
-   "title": "Laboratory Technician",
-   "company": "Basecamp Research",
-   "location": "London",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/basecamp-research/laboratory-technician-london-235260",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-19T21:40:30+00:00",
-   "first_seen": "2026-11-20T01:35:19.207176+00:00"
-  },
-  {
-   "id": "ec6e9bc00e8c",
-   "title": "Strategic Account Director, Logistics",
-   "company": "Altanaai",
-   "location": "London",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/altanaai/strategic-account-director-logistics-london-380013",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-19T18:55:38+00:00",
-   "first_seen": "2026-11-20T01:35:19.207176+00:00"
-  },
-  {
-   "id": "2b8e160f6cfd",
-   "title": "Engineering Lead (Drivers & Delivery)",
-   "company": "Hived",
-   "location": "London HQ",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Driving & Transport",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/hived/engineering-lead-drivers-delivery-london-431940",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-19T18:40:29+00:00",
-   "first_seen": "2026-11-20T01:35:19.207176+00:00"
   },
   {
    "id": "7a8d6e0247c8",
@@ -1702,24 +1648,6 @@
    ],
    "posted": "2026-11-20T04:20:15+00:00",
    "first_seen": "2026-11-20T13:46:04.116016+00:00"
-  },
-  {
-   "id": "2c573210489d",
-   "title": "Senior Mechanical Design Engineer (Power Electronics)",
-   "company": "Hyperscale Power",
-   "location": "Zürich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.ch/jobs/companies/hyperscale-power/senior-mechanical-design-engineer-power-electronics-zurich-483575",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-19T21:40:33+00:00",
-   "first_seen": "2026-11-20T01:35:19.207176+00:00"
   }
  ],
  "expired": {
@@ -1884,6 +1812,10 @@
   "13bc302ccc87": "2026-11-26T23:26:10.821560+00:00",
   "8451e8319695": "2026-11-26T23:26:10.821560+00:00",
   "7c44abe2d7cb": "2026-11-26T23:26:10.821560+00:00",
-  "9f311ea80165": "2026-11-26T23:26:10.821560+00:00"
+  "9f311ea80165": "2026-11-26T23:26:10.821560+00:00",
+  "70768b0dc10f": "2026-11-27T06:06:32.145902+00:00",
+  "ec6e9bc00e8c": "2026-11-27T06:06:32.145902+00:00",
+  "2b8e160f6cfd": "2026-11-27T06:06:32.145902+00:00",
+  "2c573210489d": "2026-11-27T06:06:32.145902+00:00"
  }
 }
