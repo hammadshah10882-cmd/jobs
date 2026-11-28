@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:17:14.769241+00:00",
+ "updated": "2026-11-28T02:25:50.681456+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -47,6 +47,26 @@
   "Welding & Fabrication"
  ],
  "jobs": [
+  {
+   "id": "1e7d238fe065",
+   "title": "Propellant Lab Technician",
+   "company": "Stealthrocketrystartup",
+   "location": "Germany",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/stealthrocketrystartup/propellant-lab-technician-germany-207556",
+   "source": "Arbeitnow",
+   "score": 90,
+   "sponsor": true,
+   "reasons": [
+    "Sponsorship/relocation likha hai",
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-27T21:40:13+00:00",
+   "first_seen": "2026-11-28T02:25:50.681456+00:00"
+  },
   {
    "id": "b1d719bfabae",
    "title": "Quality Control Technician – Semiconductor (m/f/d)",
@@ -143,25 +163,6 @@
    "first_seen": "2026-11-24T20:26:58.022315+00:00"
   },
   {
-   "id": "5060f6116902",
-   "title": "Thermo-Mechanical Engineer",
-   "company": "The Exploration Company",
-   "location": "Bordeaux, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/thermo-mechanical-engineer-bordeaux-147977",
-   "source": "Arbeitnow",
-   "score": 72,
-   "sponsor": true,
-   "reasons": [
-    "Sponsorship/relocation likha hai",
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-20T21:40:14+00:00",
-   "first_seen": "2026-11-20T22:04:16.674133+00:00"
-  },
-  {
    "id": "d0283d1c78cb",
    "title": "Senior Threat Research Engineer, Security Factory: Threat Research",
    "company": "gitlab",
@@ -198,6 +199,25 @@
    ],
    "posted": "2026-11-26T03:43:06+00:00",
    "first_seen": "2026-11-26T14:38:29.506721+00:00"
+  },
+  {
+   "id": "448e1e726140",
+   "title": "Flight Mechanics Engineer - System Identification",
+   "company": "Harmattan Ai",
+   "location": "Zurich",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.ch/jobs/companies/harmattan-ai/flight-mechanics-engineer-system-identification-zurich-109047",
+   "source": "Arbeitnow",
+   "score": 50,
+   "sponsor": false,
+   "reasons": [
+    "Rehaish ya safar ka zikr",
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-27T18:40:14+00:00",
+   "first_seen": "2026-11-28T02:25:50.681456+00:00"
   },
   {
    "id": "ba9592125f39",
@@ -274,24 +294,6 @@
    ],
    "posted": "2026-11-21T03:26:44+00:00",
    "first_seen": "2026-11-21T05:03:47.011207+00:00"
-  },
-  {
-   "id": "43f214ac90cf",
-   "title": "Graduate Mechanical Engineer (2027 start)",
-   "company": "Cambridgeconsultantslimited",
-   "location": "",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-mechanical-engineer-2027-start-176453",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-20T03:55:20+00:00",
-   "first_seen": "2026-11-20T22:04:16.674133+00:00"
   },
   {
    "id": "32d888d08d43",
@@ -996,6 +998,60 @@
    "first_seen": "2026-11-27T19:17:14.769241+00:00"
   },
   {
+   "id": "8af1ee059b5e",
+   "title": "Kfz-Mechatroniker:in / Kfz-Mechaniker:in (m/w/d) – Campervan-Flotte Stuttgart/Karlsruhe/Heidelberg",
+   "company": "Roadsurfer",
+   "location": "Stuttgart",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/kfz-mechatronikerin-kfz-mechanikerin-campervan-flotte-stuttgart-karlsruhe-heidelberg-korntal-munchingen-277566",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-28T00:40:14+00:00",
+   "first_seen": "2026-11-28T02:25:50.681456+00:00"
+  },
+  {
+   "id": "dc3c4a3a211c",
+   "title": "Kfz-Mechatroniker:in / Kfz-Mechaniker:in (m/w/d) – Campervan-Flotte Nürnberg/Regensburg",
+   "company": "Roadsurfer",
+   "location": "Nürnberg",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/kfz-mechatronikerin-kfz-mechanikerin-campervan-flotte-nurnberg-regensburg-furth-26622",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-28T00:40:14+00:00",
+   "first_seen": "2026-11-28T02:25:50.681456+00:00"
+  },
+  {
+   "id": "41ed2eaa7975",
+   "title": "Senior Legal Counsel: Infrastructure and Construction",
+   "company": "Firmus",
+   "location": "Sydney, Australia",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Construction",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/firmus/senior-legal-counsel-infrastructure-and-construction-sydney-australia-41259",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-27T18:55:32+00:00",
+   "first_seen": "2026-11-28T02:25:50.681456+00:00"
+  },
+  {
    "id": "36f5dec8c046",
    "title": "Chargé de facturation maintenance H/F",
    "company": "Edl",
@@ -1444,96 +1500,6 @@
    ],
    "posted": "2026-11-21T12:55:31+00:00",
    "first_seen": "2026-11-21T17:02:09.516199+00:00"
-  },
-  {
-   "id": "565e60048d59",
-   "title": "Kfz-Mechatroniker:in / Kfz-Mechaniker:in (m/w/d) – Campervan-Flotte München",
-   "company": "Roadsurfer",
-   "location": "Munich",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/roadsurfer/kfz-mechatronikerin-kfz-mechanikerin-campervan-flotte-munchen-munich-332433",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-20T21:40:18+00:00",
-   "first_seen": "2026-11-20T22:04:16.674133+00:00"
-  },
-  {
-   "id": "fac8b07370b8",
-   "title": "Senior Expert (w/m/d) - Logistics Management Systems",
-   "company": "Miebach Consulting GmbH",
-   "location": "Frankfurt am Main, Hessen, Deutschland",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Warehouse & Logistics",
-   "url": "https://www.arbeitnow.com/jobs/companies/miebach-consulting-gmbh/senior-expert-logistics-management-systems-frankfurt-am-main-337349",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-20T21:31:20+00:00",
-   "first_seen": "2026-11-20T22:04:16.674133+00:00"
-  },
-  {
-   "id": "2b76ae4c3825",
-   "title": "Senior Compliance Manager & Information Security Officer (ISO) (f/m/d)",
-   "company": "Accurids GmbH",
-   "location": "Cologne",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Security",
-   "url": "https://www.arbeitnow.com/jobs/companies/accurids-gmbh/senior-compliance-manager-information-security-officer-iso-cologne-127371",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-20T18:47:35+00:00",
-   "first_seen": "2026-11-20T22:04:16.674133+00:00"
-  },
-  {
-   "id": "e679d81dda0e",
-   "title": "Retention & CLV Operator (all genders)",
-   "company": "Glow25 (by Primal State Performance GmbH)",
-   "location": "Berlin",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Factory & Production",
-   "url": "https://www.arbeitnow.com/jobs/companies/glow25-by-primal-state-performance-gmbh/retention-clv-operator-all-genders-berlin-399114",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-20T14:01:22+00:00",
-   "first_seen": "2026-11-20T22:04:16.674133+00:00"
-  },
-  {
-   "id": "584b06d42cc0",
-   "title": "Growth Acquisition Operator (all genders)",
-   "company": "Glow25 (by Primal State Performance GmbH)",
-   "location": "Berlin",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Factory & Production",
-   "url": "https://www.arbeitnow.com/jobs/companies/glow25-by-primal-state-performance-gmbh/growth-acquisition-operator-all-genders-berlin-290724",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-20T14:01:22+00:00",
-   "first_seen": "2026-11-20T22:04:16.674133+00:00"
   }
  ],
  "expired": {
@@ -1712,6 +1678,13 @@
   "7a8d6e0247c8": "2026-11-27T19:17:14.769241+00:00",
   "ec33af54dd10": "2026-11-27T19:17:14.769241+00:00",
   "020fea044818": "2026-11-27T19:17:14.769241+00:00",
-  "8b17f91f882f": "2026-11-27T19:17:14.769241+00:00"
+  "8b17f91f882f": "2026-11-27T19:17:14.769241+00:00",
+  "5060f6116902": "2026-11-28T02:25:50.681456+00:00",
+  "43f214ac90cf": "2026-11-28T02:25:50.681456+00:00",
+  "565e60048d59": "2026-11-28T02:25:50.681456+00:00",
+  "fac8b07370b8": "2026-11-28T02:25:50.681456+00:00",
+  "2b76ae4c3825": "2026-11-28T02:25:50.681456+00:00",
+  "e679d81dda0e": "2026-11-28T02:25:50.681456+00:00",
+  "584b06d42cc0": "2026-11-28T02:25:50.681456+00:00"
  }
 }
