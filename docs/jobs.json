@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:25:50.681456+00:00",
+ "updated": "2026-11-28T13:48:40.336707+00:00",
  "max_age_days": 7,
  "countries": [
   "Austria",
@@ -275,25 +275,6 @@
    ],
    "posted": "2026-11-24T09:55:17+00:00",
    "first_seen": "2026-11-24T20:26:58.022315+00:00"
-  },
-  {
-   "id": "c7f25e285b49",
-   "title": "Lead Mechanical Engineer H/F Heat Pumps - France",
-   "company": "Octopus Energy Group",
-   "location": "Paris (FR)",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.fr/jobs/companies/octopus-energy-group/lead-mechanical-engineer-h-f-heat-pumps-france-paris-fr-35310",
-   "source": "Arbeitnow",
-   "score": 42,
-   "sponsor": false,
-   "reasons": [
-    "Rehaish ya safar ka zikr",
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-21T03:26:44+00:00",
-   "first_seen": "2026-11-21T05:03:47.011207+00:00"
   },
   {
    "id": "32d888d08d43",
@@ -980,24 +961,6 @@
    "first_seen": "2026-11-27T19:17:14.769241+00:00"
   },
   {
-   "id": "6e68a899604b",
-   "title": "Datacenter Technician IT-Systems / Servicetechniker Rechenzentrum (m/w/d)",
-   "company": "noris network AG",
-   "location": "Aschheim",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Electrical & Mechanical",
-   "url": "https://www.arbeitnow.com/jobs/companies/noris-network-ag/datacenter-technician-it-systems-servicetechniker-rechenzentrum-aschheim-220621",
-   "source": "Arbeitnow",
-   "score": 40,
-   "sponsor": false,
-   "reasons": [
-    "Bilkul nayi (24 ghante)"
-   ],
-   "posted": "2026-11-27T13:00:52+00:00",
-   "first_seen": "2026-11-27T19:17:14.769241+00:00"
-  },
-  {
    "id": "8af1ee059b5e",
    "title": "Kfz-Mechatroniker:in / Kfz-Mechaniker:in (m/w/d) – Campervan-Flotte Stuttgart/Karlsruhe/Heidelberg",
    "company": "Roadsurfer",
@@ -1050,6 +1013,60 @@
    ],
    "posted": "2026-11-27T18:55:32+00:00",
    "first_seen": "2026-11-28T02:25:50.681456+00:00"
+  },
+  {
+   "id": "6172a28fb10f",
+   "title": "[VO2 Force] - Chef de projet Senior (Luxe/ Retail)",
+   "company": "VO2 Group",
+   "location": "Paris, France",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Hospitality & Kitchen",
+   "url": "https://www.arbeitnow.fr/jobs/companies/vo2-group/vo2-force-chef-de-projet-senior-luxe-retail-paris-france-67284",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-28T03:07:36+00:00",
+   "first_seen": "2026-11-28T13:48:40.336707+00:00"
+  },
+  {
+   "id": "a9b374d9ff35",
+   "title": "(Senior) Logistics Lead - 3PL Management",
+   "company": "Axelera AI",
+   "location": "Eindhoven (hybrid)",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Warehouse & Logistics",
+   "url": "https://www.arbeitnow.nl/jobs/companies/axelera-ai/senior-logistics-lead-3pl-management-eindhoven-169286",
+   "source": "Arbeitnow",
+   "score": 40,
+   "sponsor": false,
+   "reasons": [
+    "Bilkul nayi (24 ghante)"
+   ],
+   "posted": "2026-11-28T06:40:15+00:00",
+   "first_seen": "2026-11-28T13:48:40.336707+00:00"
+  },
+  {
+   "id": "6e68a899604b",
+   "title": "Datacenter Technician IT-Systems / Servicetechniker Rechenzentrum (m/w/d)",
+   "company": "noris network AG",
+   "location": "Aschheim",
+   "country": "Germany",
+   "region": "Europe",
+   "field": "Electrical & Mechanical",
+   "url": "https://www.arbeitnow.com/jobs/companies/noris-network-ag/datacenter-technician-it-systems-servicetechniker-rechenzentrum-aschheim-220621",
+   "source": "Arbeitnow",
+   "score": 32,
+   "sponsor": false,
+   "reasons": [
+    "Nayi (3 din)"
+   ],
+   "posted": "2026-11-27T13:00:52+00:00",
+   "first_seen": "2026-11-27T19:17:14.769241+00:00"
   },
   {
    "id": "36f5dec8c046",
@@ -1394,24 +1411,6 @@
    "first_seen": "2026-11-22T00:00:19.262199+00:00"
   },
   {
-   "id": "bfb8fd97a084",
-   "title": "Stage - Assistant(e) Chef(fe) de Projet Marketing - Projets Spéciaux (H/F)",
-   "company": "Sezane 3",
-   "location": "Paris, France",
-   "country": "Germany",
-   "region": "Europe",
-   "field": "Hospitality & Kitchen",
-   "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/stage-assistante-cheffe-de-projet-marketing-projets-speciaux-h-f-paris-101408",
-   "source": "Arbeitnow",
-   "score": 32,
-   "sponsor": false,
-   "reasons": [
-    "Nayi (3 din)"
-   ],
-   "posted": "2026-11-21T02:20:10+00:00",
-   "first_seen": "2026-11-21T05:03:47.011207+00:00"
-  },
-  {
    "id": "3ccdf332c557",
    "title": "Engineering Technician",
    "company": "Proxima Fusion GmbH",
@@ -1685,6 +1684,8 @@
   "fac8b07370b8": "2026-11-28T02:25:50.681456+00:00",
   "2b76ae4c3825": "2026-11-28T02:25:50.681456+00:00",
   "e679d81dda0e": "2026-11-28T02:25:50.681456+00:00",
-  "584b06d42cc0": "2026-11-28T02:25:50.681456+00:00"
+  "584b06d42cc0": "2026-11-28T02:25:50.681456+00:00",
+  "c7f25e285b49": "2026-11-28T13:48:40.336707+00:00",
+  "bfb8fd97a084": "2026-11-28T13:48:40.336707+00:00"
  }
 }
